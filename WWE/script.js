@@ -50,7 +50,7 @@ fetch(apiURL)
             <td>${event.match || "-"}</td>
             <td>
               <a class="watch-btn" target="_blank"
-                 href="https://arkhan648.github.io/streams/?id=${event.unix_timestamp}_${idx}">
+                 href="https://arkhan648.github.io/buffstreamslive/?id=${event.unix_timestamp}_${idx}">
                  Watch
               </a>
             </td>
@@ -73,4 +73,5 @@ fetch(apiURL)
   .catch(err => {
     loadingDiv.innerHTML = `<p style="color:red;">⚠ Error loading matches</p>`;
     console.error(err);
+
   });
