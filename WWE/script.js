@@ -49,8 +49,7 @@ fetch(apiURL)
             <td>${event.tournament || "-"}</td>
             <td>${event.match || "-"}</td>
             <td>
-              <a class="watch-btn" target="_blank"
-                 href="https://arkhan648.github.io/buffstreamslive/?id=${event.unix_timestamp}_${idx}">
+              <a class="watch-btn" href="/StreamPage/?id=${event.unix_timestamp}_${idx}">
                  Watch
               </a>
             </td>
@@ -75,3 +74,4 @@ fetch(apiURL)
     console.error(err);
 
   });
+
