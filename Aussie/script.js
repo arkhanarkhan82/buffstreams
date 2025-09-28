@@ -16,7 +16,7 @@ function formatTime(unix) {
   const date = new Date(unix * 1000);
   return date.toLocaleString(undefined, {
     weekday: "short",
-    year: "numeric",
+   
     month: "short",
     day: "numeric",
     hour: "2-digit",
@@ -28,81 +28,115 @@ function formatTime(unix) {
 fetch(apiURL)
   .then(res => res.json())
   .then(data => {
-    let count = 0;
-
-    // Safety: ensure data.events exists
-    if (!data || !data.events) {
-      loadingDiv.innerHTML = `<p style="color:red;">⚠ No data returned</p>`;
-      return;
-    }
+    let allMatches = [];
+    let liveCount = 0;
 
     for (const date in data.events) {
-      const events = data.events[date];
-      if (!Array.isArray(events)) continue;
+      data.events[date].forEach((event, idx) => {
+        const matchTime = event.unix_timestamp;
+        const diffMinutes = (now - matchTime) / 60;
 
-      events.forEach((event, idx) => {
-        // Keyword filter (case-insensitive)
+        // ✅ Apply keyword filter (case-insensitive)
         const keywordMatch =
           (event.sport && event.sport.toLowerCase().includes(keyword.toLowerCase())) ||
           (event.tournament && event.tournament.toLowerCase().includes(keyword.toLowerCase()));
 
-        // Time filter: show upcoming or started within last 6 hours
-        const timeMatch = (event.unix_timestamp || 0) + cutoff > now;
+        if (!keywordMatch) return; // skip non-matching sports/tournaments
 
-        if (keywordMatch && timeMatch) {
-          const linkHref = `https://arkhanrimu.github.io/sportsurgelive/?id=${event.unix_timestamp}_${idx}`;
+        // ✅ Apply time cutoff (don’t show matches older than 180 min)
+        if (diffMinutes >= 180) return;
 
-          // Build row with countdown span + hidden watch link
-          const tr = document.createElement("tr");
-          tr.innerHTML = `
-            <td>${formatTime(event.unix_timestamp)}</td>
-            <td>${event.sport || "-"}</td>
-            <td>${event.tournament || "-"}</td>
-            <td>${event.match || "-"}</td>
-            <td class="watch-cell">
-              <span class="countdown">Watch in 10s</span>
-              <a class="watch-btn hidden" target="_blank" rel="nofollow noopener noreferrer" href="${linkHref}">Watch</a>
-            </td>
-          `;
-
-          matchesBody.appendChild(tr);
-          count++;
-
-          // Start countdown for this row (does NOT block showing table)
-          const countdownEl = tr.querySelector(".countdown");
-          const linkEl = tr.querySelector("a.watch-btn");
-
-          // Start at 10 seconds visible to user
-          let seconds = 10;
-          countdownEl.textContent = `Watch in ${seconds}s`;
-
-          const interval = setInterval(() => {
-            seconds--;
-            if (seconds > 0) {
-              countdownEl.textContent = `Watch in ${seconds}s`;
-            } else {
-              clearInterval(interval);
-              // Remove countdown text and reveal the link (so only the button remains)
-              countdownEl.remove();
-              linkEl.classList.remove("hidden");
-            }
-          }, 1000);
+        let status = "";
+        if (diffMinutes >= 150) status = "finished";
+        else if (diffMinutes >= 0 && diffMinutes < 150) {
+          status = "live";
+          liveCount++;
+        } else {
+          status = "upcoming";
         }
+
+        allMatches.push({
+          time: formatTime(matchTime),
+          sport: event.sport || "-",
+          tournament: event.tournament || "-",
+          match: event.match || "-",
+          status,
+          url: `/StreamPage/?id=${event.unix_timestamp}_${idx}`
+        });
       });
     }
 
-    // Hide loader and show table
-    loadingDiv.style.display = "none";
-    matchesTable.style.display = count > 0 ? "table" : "none";
+    // Update live count in button
+    document.getElementById("live-count").textContent = liveCount;
 
-    if (count === 0) {
-      matchesBody.innerHTML = `<tr><td colspan="5">⚠ No matches available.</td></tr>`;
+    // ✅ Same render + filter functions as before...
+    function renderMatches(filter) {
+      matchesBody.innerHTML = "";
+      let filtered = allMatches.filter(m => filter === "all" || m.status === filter);
+
+      if (filtered.length === 0) {
+        matchesBody.innerHTML = `<tr><td colspan="5">⚠ No matches available.</td></tr>`;
+      } else {
+        filtered.forEach(m => {
+          const badge =
+            m.status === "finished"
+              ? `<span class="badge finished"></span>`
+              : m.status === "live"
+              ? `<span class="badge live"></span>`
+              : "";
+
+          const row = document.createElement("tr");
+          row.innerHTML = `
+            <td>${m.time}</td>
+            <td>${m.sport}</td>
+            <td>${m.tournament}</td>
+            <td>${m.match} ${badge}</td>
+            <td><a class="watch-btn" href="${m.url}">Watch</a></td>
+          `;
+          matchesBody.appendChild(row);
+        });
+      }
       matchesTable.style.display = "table";
     }
+
+    // Initial render (All)
+    renderMatches("all");
+
+    // Button events
+    document.getElementById("all-btn").addEventListener("click", () => {
+      setActive("all-btn");
+      renderMatches("all");
+    });
+
+    document.getElementById("live-btn").addEventListener("click", () => {
+      setActive("live-btn");
+      renderMatches("live");
+    });
+
+    document.getElementById("upcoming-btn").addEventListener("click", () => {
+      setActive("upcoming-btn");
+      renderMatches("upcoming");
+    });
+
+    function setActive(id) {
+      document.querySelectorAll(".filter-btn").forEach(btn => btn.classList.remove("active"));
+      document.getElementById(id).classList.add("active");
+    }
+
+    // Hide loader
+    loadingDiv.style.display = "none";
   })
   .catch(err => {
     loadingDiv.innerHTML = `<p style="color:red;">⚠ Error loading matches</p>`;
     console.error(err);
   });
+
+
+
+
+
+
+
+
 
 
