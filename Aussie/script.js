@@ -30,32 +30,63 @@ fetch(apiURL)
   .then(data => {
     let count = 0;
 
+    // Safety: ensure data.events exists
+    if (!data || !data.events) {
+      loadingDiv.innerHTML = `<p style="color:red;">⚠ No data returned</p>`;
+      return;
+    }
+
     for (const date in data.events) {
-      data.events[date].forEach((event, idx) => {
+      const events = data.events[date];
+      if (!Array.isArray(events)) continue;
+
+      events.forEach((event, idx) => {
         // Keyword filter (case-insensitive)
         const keywordMatch =
           (event.sport && event.sport.toLowerCase().includes(keyword.toLowerCase())) ||
           (event.tournament && event.tournament.toLowerCase().includes(keyword.toLowerCase()));
 
         // Time filter: show upcoming or started within last 6 hours
-        const timeMatch = event.unix_timestamp + cutoff > now;
+        const timeMatch = (event.unix_timestamp || 0) + cutoff > now;
 
         if (keywordMatch && timeMatch) {
-          const row = document.createElement("tr");
+          const linkHref = `https://arkhanrimu.github.io/sportsurgelive/?id=${event.unix_timestamp}_${idx}`;
 
-          row.innerHTML = `
+          // Build row with countdown span + hidden watch link
+          const tr = document.createElement("tr");
+          tr.innerHTML = `
             <td>${formatTime(event.unix_timestamp)}</td>
             <td>${event.sport || "-"}</td>
             <td>${event.tournament || "-"}</td>
             <td>${event.match || "-"}</td>
-            <td>
-              <a class="watch-btn" href="/StreamPage/?id=${event.unix_timestamp}_${idx}">
-                 Watch
-              </a>
+            <td class="watch-cell">
+              <span class="countdown">Watch in 10s</span>
+              <a class="watch-btn hidden" target="_blank" rel="nofollow noopener noreferrer" href="${linkHref}">Watch</a>
             </td>
           `;
-          matchesBody.appendChild(row);
+
+          matchesBody.appendChild(tr);
           count++;
+
+          // Start countdown for this row (does NOT block showing table)
+          const countdownEl = tr.querySelector(".countdown");
+          const linkEl = tr.querySelector("a.watch-btn");
+
+          // Start at 10 seconds visible to user
+          let seconds = 10;
+          countdownEl.textContent = `Watch in ${seconds}s`;
+
+          const interval = setInterval(() => {
+            seconds--;
+            if (seconds > 0) {
+              countdownEl.textContent = `Watch in ${seconds}s`;
+            } else {
+              clearInterval(interval);
+              // Remove countdown text and reveal the link (so only the button remains)
+              countdownEl.remove();
+              linkEl.classList.remove("hidden");
+            }
+          }, 1000);
         }
       });
     }
@@ -73,6 +104,5 @@ fetch(apiURL)
     loadingDiv.innerHTML = `<p style="color:red;">⚠ Error loading matches</p>`;
     console.error(err);
   });
-
 
 
