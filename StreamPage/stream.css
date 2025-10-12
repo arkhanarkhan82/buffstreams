@@ -57,3 +57,44 @@
   background: #4850d4;
   transform: scale(1.05);
 }
+
+/* Amazon Advertisement Section */
+.amazonadvertisement {
+  margin: 1.5rem auto;
+  max-width: 900px; /* keeps it big but not oversized */
+  width: 95%;
+  position: relative;
+  border-radius: 14px;
+  overflow: hidden;
+  box-shadow: 0 0 25px rgba(255, 94, 0, 0.6);
+  animation: adGlow 3s infinite alternate;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.amazonadvertisement:hover {
+  transform: scale(1.03);
+  box-shadow: 0 0 35px rgba(255, 94, 0, 0.9);
+}
+
+.amazonadvertisement img {
+  width: 100%;
+  height: auto;
+  display: block;
+  border-radius: 14px;
+  cursor: pointer;
+  transition: opacity 0.3s ease;
+}
+
+.amazonadvertisement img:hover {
+  opacity: 0.9;
+}
+
+/* Subtle glowing animation around the ad */
+@keyframes adGlow {
+  0% {
+    box-shadow: 0 0 15px rgba(255, 94, 0, 0.5);
+  }
+  100% {
+    box-shadow: 0 0 30px rgba(255, 94, 0, 0.9);
+  }
+}
