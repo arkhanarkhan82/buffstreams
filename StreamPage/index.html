@@ -28,6 +28,36 @@
     </ul>
   </header>
 
+
+	<!-- HTML -->
+<a class="responsive-ad" href="https://www.villiersjets.com/?id=11429" aria-label="Villiers Private Jet Charter">
+  <img src="https://assets.villiersjets.com/banners/970X90-1.jpg" alt="Villiers Private Jet Charter">
+</a>
+
+<!-- CSS -->
+<style>
+.responsive-ad{
+  display: block;
+  max-width: 970px;    /* don't grow larger than original banner */
+  width: 100%;         /* scale down to fit container */
+  margin: 0 auto;      /* optional: center on page */
+  text-decoration: none;
+  aspect-ratio: 970 / 90; /* preserve banner ratio */
+  overflow: hidden;
+}
+
+.responsive-ad img{
+  width: 100%;
+  height: 100%;
+  object-fit: cover;   /* keeps image filling the area */
+  display: block;
+  border: 0;
+}
+</style>
+
+
+	
+
 	<div class="connectwithus">
   <h2>⚡ Never Miss a Match Again!</h2>
   <p>Join our <strong>Telegram</strong> & <strong>Discord</strong> to get instant match alerts, links & updates!</p>
@@ -139,6 +169,7 @@
   <script src="stream.js" defer></script>
 </body>
 </html>
+
 
 
 
