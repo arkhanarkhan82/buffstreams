@@ -254,7 +254,7 @@
     // *** UPDATED: Logic to handle titles and API endpoint for "All Sports" ***
     const isAllSports = categoryName === 'all';
     const formattedName = isAllSports ? 'All Sports' : categoryName.replace(/-/g, ' ');
-    const pageTitleText = `NFLBite.Top ${formattedName.replace(/\b\w/g, l => l.toUpperCase())} Matches`;
+    const pageTitleText = `buffstreams.world ${formattedName.replace(/\b\w/g, l => l.toUpperCase())} Matches`;
     
     pageTitle.textContent = pageTitleText;
     titleElement.textContent = pageTitleText;
@@ -305,3 +305,4 @@
   fetchAllMatchesForSearch().then(setupSearch);
 
 })();
+
