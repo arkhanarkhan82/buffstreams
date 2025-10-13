@@ -3,7 +3,7 @@ body {
   margin: 0;
   font-family: Arial, sans-serif;
   line-height: 1.5;
-  background: #111;
+  background: #0a0a0a;
   color: #fff;
 }
 
@@ -17,7 +17,7 @@ color: #ff4747;
 .site-title-section {
   text-align: center;
   padding: 12px 10px;
-  background: #111;
+  background: #0a0a0a;
   box-shadow: 0 4px 6px rgba(0,0,0,0.5);
   border-bottom: 1px solid #ff5e00;
 }
@@ -33,7 +33,7 @@ color: #ff4747;
 
 /* ====== HEADER MENUS ====== */
 header {
-  background: #111;
+  background: #0a0a0a;
   padding: 8px 20px;
   display: flex;
   justify-content: center;
@@ -42,7 +42,7 @@ header {
 
 /* Default header */
 .main-header {
-  background: #111;
+  background: #0a0a0a;
   padding: 10px 20px;
   display: flex;
   justify-content: center;
@@ -55,7 +55,7 @@ header {
   top: 0;
   width: 100%;
   z-index: 1000;
-  background: #111;
+  background: #0a0a0a;
   box-shadow: 0 2px 6px rgba(0,0,0,0.4);
 }
 
@@ -121,7 +121,7 @@ header {
 
 .more-btn a:hover {
   background: #ff8533;
-  color: #111;
+  color: #0a0a0a;
 }
 
 /* Pulse Glow Animation */
@@ -223,7 +223,7 @@ footer p {
 table {
   width: 100%;
   border-collapse: collapse;
-  background: #111;
+  background: #0a0a0a;
   margin-top: 10px;
   box-shadow: 0 6px 15px rgba(0,0,0,0.1);
   table-layout: fixed;
@@ -243,7 +243,7 @@ th {
 td {
   padding: 12px;
   text-align: center;
-  border-bottom: 1px solid #111;
+  border-bottom: 1px solid #0a0a0a;
   font-size: 0.9rem;
   word-wrap: break-word;
   overflow-wrap: break-word;
@@ -364,7 +364,7 @@ section h2 {
 
 .categories-grid a:hover {
   background: #ff9800;
-  color: #111;
+  color: #0a0a0a;
   transform: translateY(-3px);
 }
 
@@ -438,7 +438,7 @@ section h2 {
 }
 
 .download-btn {
-  background: #111;
+  background: #0a0a0a;
   color: #fff;
   padding: 8px 20px;
   border-radius: 25px;
@@ -451,7 +451,7 @@ section h2 {
 
 .download-btn:hover {
   background: #fff;
-  color: #111;
+  color: #0a0a0a;
   transform: scale(1.1);
 }
 
@@ -496,7 +496,7 @@ section h2 {
 
 /* ===== DISCLAIMER BOX ===== */
 .disclaimer-box {
-  background: #111;
+  background: #0a0a0a;
   color: #ddd;
   padding: 15px 20px;
   margin-bottom: 20px;
@@ -544,6 +544,7 @@ section h2 {
 .badge.finished{background:red}
 
 .filter-buttons{display:flex;justify-content:center;gap:12px;margin:20px 0}.filter-btn{background:#222;color:#fff;padding:8px 16px;border-radius:20px;border:1px solid #f60;cursor:pointer;font-weight:600;transition:.3s}.filter-btn.active{box-shadow:0 0 10px rgba(255,102,0,.8)}.filter-btn.live{position:relative;background:#e60023;color:#fff;animation:1.5s infinite pulseLive}#live-count{background:#fff;color:#e60023;padding:2px 6px;border-radius:50%;font-size:12px;margin-left:5px;font-weight:700}@keyframes pulseLive{0%{box-shadow:0 0 0 0 rgba(230,0,35,.6)}70%{box-shadow:0 0 0 10px rgba(230,0,35,0)}100%{box-shadow:0 0 0 0 rgba(230,0,35,0)}}.badge{display:inline-block;width:7px;height:7px;border-radius:50%;margin-left:4px}.badge.live{background:#28a745;animation:1s infinite pulseBadge}@keyframes pulseBadge{0%,100%{transform:scale(1);opacity:1}50%{transform:scale(1.3);opacity:.7}}@media (max-width:600px){.badge{width:5px;height:5px;margin-left:3px}}
+
 
 
 
