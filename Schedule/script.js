@@ -15,7 +15,7 @@
   };
 
   // *** UPDATED: Added "all" to the CATEGORIES array
-  const CATEGORIES = ["all", "football", "basketball", "baseball","motor-sports", "american-football", "afl", "fight", "hockey", "tennis", "rugby", "mma", "golf", "billiards", "cricket", "darts", "other"];
+  const CATEGORIES = ["all", "football", "basketball", "baseball","motor-sports", "american-football", "afl", "fight", "hockey", "tennis", "rugby", "golf", "billiards", "cricket", "darts", "other"];
   const SOURCES = ["alpha", "bravo", "charlie", "delta", "echo", "foxtrot", "golf", "hotel", "intel"];
 
   // =========================================================================
@@ -305,4 +305,5 @@
   fetchAllMatchesForSearch().then(setupSearch);
 
 })();
+
 
