@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Loading Stream...</title>
+  
+  <link rel="preconnect" href="https://streamed.pk" crossorigin>
+  <link rel="dns-prefetch" href="//streamed.pk">
+  
+  <style>
+    :root{--bg-primary:#0a0a0a;--bg-secondary:#161b22;--text-primary:#c9d1d9;--text-secondary:#8b949e;--accent-primary:#2f81f7;--border-color:#262626;--shadow-color:rgba(0,0,0,.2);--shimmer-color:rgba(255,255,255,.1)}*{margin:0;padding:0;box-sizing:border-box}body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;background:var(--bg-primary);color:var(--text-primary)}.fullpage{padding:0 1rem}.hidden{display:none!important}.site-header{position:sticky;top:0;left:0;width:100%;background:var(--bg-primary);border-bottom:1px solid var(--border-color);padding:10px 20px;display:flex;justify-content:space-between;align-items:center;z-index:1000;margin-bottom:15px}.header-left{display:flex;align-items:center;gap:12px;flex-grow:1;min-width:0}.site-logo img{height:40px;border-radius:6px;display:block}.header-search{max-width:400px;width:100%;margin:0}.header-search input{background:var(--bg-secondary);color:var(--text-primary);padding:8px 12px;font-size:14px;border:2px solid var(--border-color);border-radius:6px;outline:0}.header-right{display:flex;align-items:center;gap:12px}.header-btn{display:inline-flex;align-items:center;justify-content:center;padding:8px 14px;border-radius:6px;text-decoration:none;font-size:14px;font-weight:600;white-space:nowrap;background-color:var(--bg-secondary);color:var(--text-primary);border:1px solid var(--border-color)}.header-btn-discord{background-color:#5865f2;color:#fff;border:1px solid #5865f2}.match-details-container{max-width:900px;margin:15px auto;padding:1rem}#watch-title{font-size:clamp(1.5rem,3vw,2rem);color:var(--text-primary);margin-bottom:10px}
+    .skeleton{background-color:var(--bg-secondary);color:transparent;border-radius:6px;user-select:none;position:relative;overflow:hidden}.skeleton::after{content:'';position:absolute;top:0;left:-150%;width:100%;height:100%;transform:skewX(-20deg);background-image:linear-gradient(90deg,transparent,var(--shimmer-color),transparent);animation:shimmer 1.8s infinite cubic-bezier(.4,0,.6,1)}@keyframes shimmer{100%{left:150%}}
+    #watch-title.skeleton{height:36px;width:70%;margin-bottom:10px;}
+    #watch-description.skeleton{height:24px;width:90%;margin-bottom:8px;}
+    #stream-player-container.skeleton{aspect-ratio:16 / 9;margin-bottom:3rem;}
+  </style>
+  
+  <link rel="preload" href="watch.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+  <noscript><link rel="stylesheet" href="watch.css"></noscript>
+  <script src="watch.js" defer></script>
+  <script src="/mobiledetectscript.js" defer></script>
+</head>
+<body class="dark-theme">
+
+  <div class="site-header">
+    <div class="header-left">
+      <a href="/" class="site-logo">
+        <img src="../NFLbite.webp" alt="Site Logo" fetchpriority="high" decoding="async" width="135" height="40">
+      </a>
+      <a href="/" class="header-btn" title="Home">Home</a>
+      <div class="search-container header-search">
+        <input type="text" id="search-input" placeholder="Search matches..." autocomplete="off">
+      </div>
+    </div>
+    <div class="header-right">
+      <a href="../Schedule/?popular=true" rel="noopener noreferrer" class="header-btn header-btn-discord" title="Schedule">Schedule</a>
+    </div>
+  </div>
+
+  <div class="fullpage">
+    <div class="content-wrapper">
+
+
+		
+      <main class="match-details-container">
+
+
+		  <!-- Top Banner Advertisement -->
+<a class="responsive-ad" href="https://www.villiersjets.com/?id=11429" aria-label="Villiers Private Jet Charter">
+  <img src="https://assets.villiersjets.com/banners/970X90-1.jpg" alt="Villiers Private Jet Charter">
+</a>
+
+<!-- CSS -->
+<style>
+.responsive-ad{
+  display: block;
+  max-width: 970px;    /* don't grow larger than original banner */
+  width: 100%;         /* scale down to fit container */
+  margin: 0 auto;      /* optional: center on page */
+  text-decoration: none;
+  aspect-ratio: 970 / 90; /* preserve banner ratio */
+  overflow: hidden;
+}
+
+.responsive-ad img{
+  width: 100%;
+  height: 100%;
+  object-fit: cover;   /* keeps image filling the area */
+  display: block;
+  border: 0;
+}
+</style>
+<!-- Top Banner Advertisement END-->
+		  
+        <div class="watch-page-header">
+          <h1 id="watch-title" class="skeleton"></h1>
+          <p id="watch-description" class="skeleton"></p>
+        </div>
+
+		  <!-- Adsterra Banner Advertisement -->
+
+<center>
+		<script type="text/javascript" defer>
+	atOptions = {
+		'key' : '93598704de1a1116718b69874f00e0c2',
+		'format' : 'iframe',
+		'height' : 250,
+		'width' : 300,
+		'params' : {}
+	};
+</script>
+<script type="text/javascript" src="//www.highperformanceformat.com/93598704de1a1116718b69874f00e0c2/invoke.js" defer></script>
+	</center>
+
+		   <!-- Adsterra Banner Advertisement END-->
+		  
+
+		  
+        <div id="stream-player-container" class="skeleton">
+            <iframe id="stream-player" frameborder="0" allowfullscreen></iframe>
+        </div>
+
+
+		 
+
+	<div class="amazonadvertisement">
+		  <center>
+  <a href="https://amzn.to/3WxvCzA" rel="sponsored noopener nofollow" target="_blank">
+    <img src="/StreamPage/sonybravia.jpg"/>
+  </a>
+			  </center>
+</div>
+
+		  
+        <section id="streams-section">
+          <div class="section-header">
+            <h2>Available Streams</h2>
+            <button id="back-button" class="back-button-styled">
+                <span>&lt;- BCK</span><span class="separator">•</span><span>Back</span>
+            </button>
+          </div>
+          <p id="sources-summary" class="skeleton-summary skeleton"></p>
+          <div id="streams-container">
+              <div class="stream-source is-loading">
+                  <div class="source-header"><span class="source-name">&nbsp;</span><span class="source-count">&nbsp;</span></div>
+                  <small class="source-desc">&nbsp;</small>
+                  <div class="stream-row"></div>
+                  <div class="stream-row"></div>
+              </div>
+          </div>
+          <button id="show-all-sources-btn" class="show-all-btn hidden"></button>
+        </section>
+      </main>
+
+      <!-- DISCORD WIDGET SIDEBAR -->
+      <aside class="discord-sidebar">
+        <div id="discord-widget-container">
+          <div class="discord-header">
+              <div class="header-text">
+                  <h3>Join our <span>Discord!</span></h3>
+                  <p><span id="discord-online-count">...</span> online members</p>
+              </div>
+              <a href="#" id="discord-join-button" class="discord-btn" target="_blank" rel="noopener noreferrer">Join Now</a>
+          </div>
+          <ul id="discord-members-list" class="members-list">
+              <!-- Skeleton Loader for Members -->
+              <li class="member-skeleton"><div class="avatar-skeleton"></div><div class="name-skeleton"></div></li>
+              <li class="member-skeleton"><div class="avatar-skeleton"></div><div class="name-skeleton"></div></li>
+              <li class="member-skeleton"><div class="avatar-skeleton"></div><div class="name-skeleton"></div></li>
+              <li class="member-skeleton"><div class="avatar-skeleton"></div><div class="name-skeleton"></div></li>
+              <li class="member-skeleton"><div class="avatar-skeleton"></div><div class="name-skeleton"></div></li>
+          </ul>
+        </div>
+      </aside>
+    </div>
+  </div>
+
+  <div id="search-overlay">
+    <div class="search-overlay-content">
+      <button id="search-close">&times;</button>
+      <input type="text" id="overlay-search-input" placeholder="Search matches..." autocomplete="off">
+      <div id="overlay-search-results"></div>
+    </div>
+  </div>
+
+
+<!-- Footer -->
+<footer>
+  <!-- Disclaimer Section -->
+  <div class="disclaimer-box">
+    <h3>Disclaimer</h3>
+    <p>
+      We do not host or own any media content; all streams are sourced from 
+      third-party sites. We do not take any responsibility for copyright issues. 
+      Copyright concerns should be directed to the original host. We have no 
+      control over ads in embedded players and receive no revenue from them. 
+      <a href="/Disclaimer/">Learn More!</a>
+    </p>
+  </div>
+
+  <ul class="footer-menu">
+    <li><a href="/">Home</a></li>
+    <li><a href="/About/">About</a></li>
+    <li><a href="/Terms/">Terms</a></li>
+    <li><a href="/Privacy/">Privacy</a></li>
+	  <li><a href="/Disclaimer/">Disclaimer</a></li>
+	  <li><a href="/DMCA/">DMCA</a></li>
+	  <li><a href="/Contact/">Contact Us</a></li>
+  </ul>
+  <p>© 2025 nflbite.top. All rights reserved.</p>
+  </footer>
+
+
+
+<div id="sticky-footer-ad">
+  <div class="ad-content">
+    
+    <span class="emoji">📲</span>
+    <span class="cta-text">Get NFLBite App!</span>
+    <a href="https://tinyurl.com/NFLbiteapk" class="download-btn" rel="nofollow" target="_blank">⬇ Download</a>
+    
+  </div>
+  <span id="close-ad">&#10060;</span>
+</div>
+
+
+
+
+
+</body>
+
+</html>
+
+
+
+
+
