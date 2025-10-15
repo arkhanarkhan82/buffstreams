@@ -1,4 +1,4 @@
-// --- [v3 - HIGH PERFORMANCE SCRIPT FOR BUFFSTREAMS] ---
+// --- [v4 - HIGH PERFORMANCE SCRIPT FOR BUFFSTREAMS] ---
 
 // =========================================================================
 // === CRITICAL FIRST-PAINT LOGIC ===
@@ -156,9 +156,20 @@ window.addEventListener('load', function() {
         closeSearchBtn.addEventListener('click', closeOverlay);
         searchOverlay.addEventListener('click', (e) => e.target === searchOverlay && closeOverlay());
         window.addEventListener('keydown', e => e.key === 'Escape' && searchOverlay.classList.contains('active') && closeOverlay());
+        
         searchInput.addEventListener('input', () => {
             clearTimeout(debounceTimer);
             debounceTimer = setTimeout(handleSearch, 300);
+        });
+
+        // FIXED: Re-added the missing 'Enter' key functionality
+        searchInput.addEventListener('keydown', (e) => {
+            if (e.key === 'Enter') {
+                const query = searchInput.value.trim();
+                if (query) {
+                    window.location.href = `${CONFIG.searchResultUrl}?q=${encodeURIComponent(query)}`;
+                }
+            }
         });
 
         window.addEventListener('popstate', () => {
@@ -196,4 +207,3 @@ window.addEventListener('load', function() {
         }, 2500);
     })();
 });
-
