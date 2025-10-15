@@ -17,9 +17,9 @@ function createMatchCard(match) {
     poster.className = "match-poster";
     poster.src = (match.teams?.home?.badge && match.teams?.away?.badge)
         ? `https://streamed.pk/api/images/poster/${match.teams.home.badge}/${match.teams.away.badge}.webp`
-        : "https://methstreams.world/mysite.jpg";
+        : "/Fallbackimage.webp";
     poster.alt = match.title || "Match Poster";
-    poster.onerror = () => { poster.onerror = null; poster.src = "https://methstreams.world/mysite.jpg"; };
+    poster.onerror = () => { poster.onerror = null; poster.src = "/Fallbackimage.webp"; };
     
     const { badge, badgeType, meta } = formatDateTime(match.date);
     const statusBadge = document.createElement("div");
@@ -389,3 +389,4 @@ document.addEventListener("DOMContentLoaded", () => {
     setupSearch(); 
     loadDiscordWidget();
 });
+
