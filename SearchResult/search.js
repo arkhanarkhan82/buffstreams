@@ -23,7 +23,7 @@ function formatDateTime(timestamp) {
 }
 
 function buildPosterUrl(match) {
-  const placeholder = "https://methstreams.world/mysite.jpg";
+  const placeholder = "/Fallbackimage.webp";
   if (match.teams?.home?.badge && match.teams?.away?.badge) return `https://streamed.pk/api/images/poster/${match.teams.home.badge}/${match.teams.away.badge}.webp`;
   if (match.poster) {
     const p = String(match.poster || "").trim();
@@ -48,7 +48,7 @@ function createMatchCard(match, isLazy = true) {
     poster.src = buildPosterUrl(match);
   }
   poster.alt = match.title || "Match Poster";
-  poster.onerror = () => { poster.onerror = null; poster.src = "https://methstreams.world/mysite.jpg"; poster.classList.remove('lazy-placeholder'); };
+  poster.onerror = () => { poster.onerror = null; poster.src = "/Fallbackimage.webp"; poster.classList.remove('lazy-placeholder'); };
 
   const { badge, badgeType, meta } = formatDateTime(match.date);
   const statusBadge = document.createElement("div");
@@ -213,4 +213,5 @@ document.addEventListener("DOMContentLoaded", async () => {
   });
   
   document.getElementById("search-form").addEventListener("submit", (e) => e.preventDefault());
+
 });
