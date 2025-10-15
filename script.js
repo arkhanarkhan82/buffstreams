@@ -30,7 +30,7 @@ window.addEventListener('load', function() {
         searchUrlHash: '#search',
         discordServerId: '1422384816472457288', // IMPORTANT: Change if you have a different server ID
         discordFallbackInvite: 'https://discord.gg/buffstreams',
-        placeholderImageUrl: 'https://methstreams.world/mysite.jpg'
+        placeholderImageUrl: '/Fallbackimage.webp'
     };
 
     // --- 2. SCROLL ANIMATION LOGIC ---
@@ -196,3 +196,4 @@ window.addEventListener('load', function() {
         }, 2500);
     })();
 });
+
