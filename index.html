@@ -16,6 +16,12 @@
   <link rel="canonical" href="https://buffstreams.world/">
   <link rel="icon" href="/favicon.ico" type="image/x-icon">
 
+	<!-- Link to the Web App Manifest -->
+    <link rel="manifest" href="/manifest.json">
+    
+    <!-- Theme color for Chrome on Android -->
+    <meta name="theme-color" content="#0078ff">
+
   <!-- Performance: Critical CSS is inlined for instant rendering -->
   <style>
     :root{--bg-primary:#0d1117;--bg-secondary:#161b22;--text-primary:#c9d1d9;--text-secondary:#8b949e;--accent-primary:#3a86ff;--accent-secondary:#00b4d8;--border-color:#30363d}body{margin:0;font-family:Inter,system-ui,-apple-system,"Segoe UI",Roboto,"Helvetica Neue",Arial;background:var(--bg-primary);color:var(--text-primary);line-height:1.6}body a{color:var(--accent-primary)}header{padding:8px 20px;display:flex;justify-content:center}.main-header{background:rgba(13,17,23,0.8);backdrop-filter:blur(8px);-webkit-backdrop-filter:blur(8px);padding:10px 20px;display:flex;justify-content:center;transition:background-color .3s ease}.nav-menu{list-style:none;display:flex;gap:10px;flex-wrap:nowrap;margin:0;padding:5px 8px;justify-content:center;align-items:center}.nav-menu li.menu-item{flex-shrink:1}.nav-menu li a{color:#ade8f4;text-decoration:none;font-weight:500;padding:6px 12px;border-radius:6px;transition:.3s}main{display:block}.main-content-title{text-align:center;font-size:clamp(1.5rem,5vw,2.2rem);font-weight:700;color:#fff;margin:1.5rem 0 3rem;padding:0 1rem;letter-spacing:.5px;text-shadow:1px 1px 4px rgba(0,0,0,.6)}.nav-discord-btn a{display:flex;align-items:center;gap:.5rem;background-color:#5865F2;color:#fff!important;font-weight:600;padding:6px 14px;border-radius:6px;transition:.3s;white-space:nowrap}.search-and-schedule-container{display:flex;gap:1rem;align-items:center;margin:0 auto 3rem auto;padding:0 1rem;max-width:1400px;width:90%}.search-trigger{flex-grow:1;display:flex;align-items:center;gap:.75rem;background-color:var(--bg-secondary);padding:.8rem 1rem;border-radius:8px;border:1px solid var(--border-color);cursor:pointer;transition:all .3s ease;color:var(--text-secondary)}.search-trigger svg{width:1em;height:1em;color:var(--accent-primary);fill:currentColor}.schedule-button{flex-shrink:0;padding:.8rem 1.5rem;background-color:var(--accent-primary);color:#fff;font-weight:600;text-decoration:none;border-radius:8px;transition:background-color .3s ease;text-align:center}.categories-container{width:90%;max-width:1400px;margin:2rem auto;padding:1rem 0}.categories-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:2rem}.category-card{position:relative;overflow:hidden;display:flex;flex-direction:column;align-items:center;justify-content:center;padding:2.5rem 1.5rem;background-color:var(--bg-secondary);border-radius:16px;text-decoration:none;color:#fff;border:1px solid var(--border-color);box-shadow:0 4px 10px rgba(0,0,0,.4)}.category-card img{width:90px;height:90px;object-fit:contain;margin-bottom:1.5rem;z-index:2}.category-card span{font-size:1.25rem;font-weight:600;display:block;color:#fff;text-transform:uppercase;letter-spacing:1px;z-index:2;text-align:center}@media(max-width:768px){.nav-menu{overflow-x:auto;-webkit-overflow-scrolling:touch}.main-content-title{margin:1rem 0 2rem;font-size:1.4rem}.categories-grid{grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:1.5rem}.category-card{padding:2rem 1rem}}@media(max-width:600px){.search-and-schedule-container{flex-direction:column;align-items:stretch}}@media(max-width:480px){.categories-grid{grid-template-columns:1fr 1fr;gap:1rem}.category-card img{max-width:70px;height:70px}.category-card span{font-size:1rem}}
@@ -189,7 +195,23 @@
 
 	<script src="bookmark-prompt.js" defer></script>
 
+	<!-- ... your page content ... -->
+
+    <script defer>
+      // Register the service worker
+      if ('serviceWorker' in navigator) {
+        window.addEventListener('load', () => {
+          navigator.serviceWorker.register('/sw.js').then(registration => {
+            console.log('ServiceWorker registration successful with scope: ', registration.scope);
+          }, err => {
+            console.log('ServiceWorker registration failed: ', err);
+          });
+        });
+      }
+    </script>
+
 
 </body>
 </html>
+
 
