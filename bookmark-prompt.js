@@ -1,6 +1,5 @@
 // ==================================================
-// Universal Bookmark / Add-to-Home Prompt
-// Author: ChatGPT (Custom for your sites)
+// Universal Bookmark / Add-to-Home Prompt (Revised & Fixed)
 // ==================================================
 
 (function() {
@@ -9,21 +8,34 @@
   const STORAGE_KEY = 'bookmarkPromptDate';
   const TODAY = new Date().toDateString();
 
+  let deferredPrompt;
+
   // === Detect if already added to home screen (mobile) ===
   const isStandalone =
     window.matchMedia('(display-mode: standalone)').matches ||
     window.navigator.standalone;
 
-  // === Detect mobile ===
+  // === Detect mobile devices ===
   const isMobile = /iPhone|iPad|iPod|Android/i.test(navigator.userAgent);
+  const isIOS = /iPhone|iPad|iPod/i.test(navigator.userAgent);
 
   // === If already added or already shown today, skip ===
   if (isStandalone) return;
   if (localStorage.getItem(STORAGE_KEY) === TODAY) return;
 
+  // Listen for the beforeinstallprompt event.
+  // This event will only fire if the site is PWA-ready.
+  window.addEventListener('beforeinstallprompt', (e) => {
+    // Prevent the default browser install prompt from showing.
+    e.preventDefault();
+    // Stash the event so it can be triggered later by our custom button.
+    deferredPrompt = e;
+  });
+
   // === Wait until page fully loaded, then delay ===
   window.addEventListener('load', () => {
     setTimeout(() => {
+      // The logic is simplified: just show the prompt if the initial checks passed.
       showBookmarkPrompt();
     }, SHOW_DELAY);
   });
@@ -33,20 +45,26 @@
     // Create overlay container
     const container = document.createElement('div');
     container.id = 'bookmark-prompt-container';
+    
+    let title = 'Bookmark This Site';
+    let message = 'Press <b>Ctrl + D</b> (or click the ⭐ beside the address bar) to bookmark this site.';
+
+    if (isMobile) {
+      if (isIOS) {
+        title = 'Add to Home Screen';
+        message = 'For quick access, tap the Share button and then \'Add to Home Screen\'.';
+      } else {
+        title = 'Add to Home Screen';
+        message = 'Add this website to your home screen for quick and easy access.';
+      }
+    }
+
     container.innerHTML = `
       <div class="bookmark-prompt">
         <button class="bookmark-close" aria-label="Close">&times;</button>
         <div class="bookmark-content">
-          <h3 class="bookmark-title">${
-            isMobile ? 'Add to Home Screen' : 'Bookmark This Site'
-          }</h3>
-          <p class="bookmark-message">
-            ${
-              isMobile
-                ? 'Add this website to your home screen for quick access anytime.'
-                : 'Press <b>Ctrl + D</b> (or click the ⭐ beside the address bar) to bookmark this site.'
-            }
-          </p>
+          <h3 class="bookmark-title">${title}</h3>
+          <p class="bookmark-message">${message}</p>
           <button class="bookmark-ok">Okay</button>
         </div>
       </div>
@@ -56,8 +74,29 @@
     // === Event Listeners ===
     const closeBtn = container.querySelector('.bookmark-close');
     const okBtn = container.querySelector('.bookmark-ok');
+
+    // The close button just hides the prompt
     closeBtn.addEventListener('click', hidePrompt);
-    okBtn.addEventListener('click', hidePrompt);
+
+    // The "Okay" button has the special logic
+    okBtn.addEventListener('click', () => {
+      // On non-iOS mobile, if the browser's install prompt is available, show it
+      if (isMobile && !isIOS && deferredPrompt) {
+        deferredPrompt.prompt();
+        // We can listen for the user's choice
+        deferredPrompt.userChoice.then((choiceResult) => {
+          if (choiceResult.outcome === 'accepted') {
+            console.log('User accepted the Add to Home Screen prompt');
+          } else {
+            console.log('User dismissed the Add to Home Screen prompt');
+          }
+          deferredPrompt = null; // The prompt can only be used once.
+        });
+      }
+      
+      // No matter what, hide our custom prompt after clicking "Okay"
+      hidePrompt();
+    });
 
     // === Hide Function ===
     function hidePrompt() {
@@ -67,7 +106,7 @@
     }
   }
 
-  // === Styles ===
+  // === Styles === (No changes needed here)
   const style = document.createElement('style');
   style.textContent = `
     /* === Universal Bookmark Prompt Styles === */
