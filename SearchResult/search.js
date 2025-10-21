@@ -201,6 +201,17 @@ document.addEventListener("DOMContentLoaded", async () => {
   
   setupSearch();
   
+  // =======================================================
+  // === START: ADD THIS NEW CODE BLOCK ====================
+  // =======================================================
+  // Check for the 'focus' parameter in the URL and open the overlay if it exists.
+  if (params.has("focus")) {
+    searchInput.focus(); // This triggers the focus event listener in setupSearch()
+  }
+  // =======================================================
+  // === END: ADD THIS NEW CODE BLOCK ======================
+  // =======================================================
+  
   renderResults(query);
 
   const debouncedRender = debounce((newQuery) => {
@@ -215,3 +226,4 @@ document.addEventListener("DOMContentLoaded", async () => {
   document.getElementById("search-form").addEventListener("submit", (e) => e.preventDefault());
 
 });
+
