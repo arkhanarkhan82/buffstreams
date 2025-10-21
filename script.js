@@ -60,7 +60,7 @@ window.addEventListener('load', function() {
         if (searchTrigger) {
             searchTrigger.addEventListener('click', function() {
                 // Redirect the user to the SearchResult page.
-                window.location.href = '/SearchResult/';
+                window.location.href = '/SearchResult/?focus=true';
             });
         }
     })();
@@ -91,4 +91,5 @@ window.addEventListener('load', function() {
         }, 2500);
     })();
 });
+
 
