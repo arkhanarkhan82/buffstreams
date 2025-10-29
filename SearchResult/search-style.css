@@ -87,8 +87,24 @@ footer {
 }
 .footer-menu a{color:#aaa;text-decoration:none;font-size:14px;display:inline-block;padding:5px}.footer-menu a:hover{color:#fc0}footer p{padding-bottom:50px}
 
-#sticky-footer-ad{position:fixed;bottom:0;left:0;width:100%;background:#161b22;;background-size:600% 600%;animation:8s infinite gradientShift;padding:10px;z-index:9999;font-family:Arial,sans-serif;color:#fff;display:flex;justify-content:center;align-items:center;box-shadow:0 -3px 10px rgba(0,0,0,.4);overflow:hidden}.ad-content{display:flex;align-items:center;gap:8px;flex-wrap:nowrap;justify-content:center;padding:0 20px}.emoji{font-size:24px;animation:1s infinite bounce}.cta-text{font-size:16px;font-weight:700;animation:2s infinite pulseText;white-space:nowrap;text-overflow:ellipsis}.download-btn{background:#111;color:#fff;padding:8px 20px;border-radius:25px;font-size:16px;font-weight:700;text-decoration:none;transition:.3s;animation:1.5s infinite alternate buttonPulse}.download-btn:hover{background:#fff;color:#111;transform:scale(1.1)}#close-ad{position:absolute;top:3px;right:5px;font-size:14px;padding:5px;border-radius:50%;background:#333;color:#fff;cursor:pointer;box-shadow:0 0 5px rgba(0,0,0,.5);transition:.3s;}#close-ad:hover,.badge.finished{background:red}
+/* [MODIFIED] Sticky Footer Ad Styles */
+#sticky-ad-placeholder {
+  display: none; /* Hidden by default */
+  height: 44px; /* Approximate height of the ad */
+}
+
+#sticky-footer-ad{position:fixed;bottom:0;left:0;width:100%;background:#161b22;padding:10px;z-index:9999;font-family:Arial,sans-serif;color:#fff;display:flex;justify-content:center;align-items:center;box-shadow:0 -3px 10px rgba(0,0,0,.4);overflow:hidden}.ad-content{display:flex;align-items:center;gap:8px;flex-wrap:nowrap;justify-content:center;padding:0 20px}.emoji{font-size:24px;animation:1s infinite bounce}.cta-text{font-size:16px;font-weight:700;animation:2s infinite pulseText;white-space:nowrap;text-overflow:ellipsis}.download-btn{background:#111;color:#fff;padding:8px 20px;border-radius:25px;font-size:16px;font-weight:700;text-decoration:none;transition:.3s;animation:1.5s infinite alternate buttonPulse}.download-btn:hover{background:#fff;color:#111;transform:scale(1.1)}#close-ad{position:absolute;top:3px;right:5px;font-size:14px;padding:5px;border-radius:50%;background:#333;color:#fff;cursor:pointer;box-shadow:0 0 5px rgba(0,0,0,.5);transition:.3s;}#close-ad:hover,.badge.finished{background:red}
+
+/* [NEW] Show sticky ad only on mobile */
+@media (max-width: 768px) {
+  #sticky-ad-placeholder.is-mobile {
+    display: block; /* Show placeholder on mobile */
+  }
+  footer p {
+    padding-bottom: 60px; /* Add padding to footer to not be covered by ad */
+  }
+}
 
 @media (max-width: 480px) {
-#sticky-footer-ad .ad-content {padding: 0 10px;}
+  #sticky-footer-ad .ad-content {padding: 0 10px;}
 }
