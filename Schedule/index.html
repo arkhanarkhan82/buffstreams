@@ -3,37 +3,29 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Loading Category...</title> <!-- This title will be updated by JavaScript -->
+  <title>Loading Category...</title>
   <meta name="description" content="Watch all live, upcoming, and 24/7 matches for your favorite sport, with advanced filtering options.">
-  <!-- === Re-using homepage's preconnects for performance === -->
   <link rel="preconnect" href="https://streamed.pk" crossorigin>
   <link rel="dns-prefetch" href="//streamed.pk"> 
-  <!-- === INLINE CRITICAL CSS (Copied from homepage for consistency) === -->
+  <link rel="icon" href="../favicon.png" type="image/x-icon">
   <style>
-    :root{--bg-primary:#0a0a0a;--bg-secondary:#161b22;--text-primary:#c9d1d9;--text-secondary:#8b949e;--accent-primary:#e40f0f;--border-color:#262626;--shadow-color:rgba(0,0,0,.2)}*{margin:0;padding:0;box-sizing:border-box}body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;background:var(--bg-primary);color:var(--text-primary)}.fullpage{padding:0 1rem}.site-header{position:sticky;top:0;left:0;width:100%;background:var(--bg-primary);border-bottom:1px solid var(--border-color);padding:10px 20px;display:flex;justify-content:space-between;align-items:center;z-index:1000;box-shadow:0 2px 6px var(--shadow-color);margin-bottom:0}.header-left,.header-right{display:flex;align-items:center;gap:12px}.site-logo img{height:40px;border-radius:6px;display:block}.header-btn{display:inline-flex;align-items:center;justify-content:center;padding:8px 14px;border-radius:6px;text-decoration:none;font-size:14px;font-weight:600;white-space:nowrap;background-color:var(--bg-secondary);color:var(--text-primary);border:1px solid var(--border-color)}.header-btn-discord{background-color:#5865f2;color:#fff;border:1px solid #5865f2}.header-search{flex-grow:1;max-width:400px}.header-search input{background:var(--bg-secondary);color:var(--text-primary);padding:8px 12px;font-size:14px;border:2px solid var(--border-color);border-radius:6px;outline:0;width:100%}.loader{display:flex;justify-content:center;align-items:center;padding:40px}.loader::after{content:'';width:40px;height:40px;border:4px solid var(--border-color);border-top-color:var(--accent-primary);border-radius:50%;animation:1s linear infinite spin}@keyframes spin{to{transform:rotate(360deg)}}@media(max-width:768px){.site-logo{display:none}.header-search{max-width:100%}.site-header{padding:8px 12px}}@media(max-width:480px){.header-search{max-width:140px}.header-search input{font-size:12px}.header-left,.header-right{gap:7px}}
+    :root{--bg-primary:#0a0a0a;--bg-secondary:#161b22;--text-primary:#c9d1d9;--text-secondary:#8b949e;--accent-primary:#e40f0f;--border-color:#262626;--shadow-color:rgba(0,0,0,.2)}*{margin:0;padding:0;box-sizing:border-box}body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;background:var(--bg-primary);color:var(--text-primary)}.fullpage{padding:0 1rem}.site-header{position:sticky;top:0;left:0;width:100%;background:var(--bg-primary);border-bottom:1px solid var(--border-color);padding:10px 20px;display:flex;justify-content:space-between;align-items:center;z-index:1000;box-shadow:0 2px 6px var(--shadow-color);margin-bottom:0}.header-left,.header-right{display:flex;align-items:center;gap:12px}.site-logo img{height:40px;border-radius:6px;display:block}.header-btn{display:inline-flex;align-items:center;justify-content:center;padding:8px 14px;border-radius:6px;text-decoration:none;font-size:14px;font-weight:600;white-space:nowrap;background-color:var(--bg-secondary);color:var(--text-primary);border:1px solid var(--border-color)}.header-btn-discord{background-color:#5865f2;color:#fff;border:1px solid #5865f2}.header-search{flex-grow:1;max-width:400px}.header-search input{background:var(--bg-secondary);color:var(--text-primary);padding:8px 12px;font-size:14px;border:2px solid var(--border-color);border-radius:6px;outline:0;width:100%}
+    #category-title { min-height: 2.5em; display: flex; align-items: center; justify-content: center; }
+    @media(max-width:768px){.site-logo{display:none}.header-search{max-width:100%}.site-header{padding:8px 12px}}@media(max-width:480px){.header-search{max-width:140px}.header-search input{font-size:12px}.header-left,.header-right{gap:7px}}
   </style>
-  <!-- === LOAD FULL CSS ASYNCHRONOUSLY === -->
   <link rel="preload" href="style.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
   <noscript><link rel="stylesheet" href="style.css"></noscript>
-  <!-- === DEFERRED JAVASCRIPT === -->
   <script src="script.js" defer></script>
-  <script src="/mobiledetectscript.js" defer></script>
+  <!-- [MODIFIED] Defer the mobile detect script as well -->
+  <script src="../mobiledetectscript.js" defer></script>
 
-
-	 <!-- Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-XTE70X7LT6"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-    gtag('config', 'G-XTE70X7LT6');
-  </script>
-
-
+	<!-- [ADD THESE LINES] For Google Analytics -->
+  <link rel="preconnect" href="https://www.googletagmanager.com" crossorigin>
+  <link rel="preconnect" href="https://www.google-analytics.com" crossorigin>
 	
+
 </head>
 <body class="dark-theme">
-  <!-- === Sticky Header (Copied EXACTLY from homepage) === -->
   <header class="site-header">
     <div class="header-left">
       <a href="/" class="site-logo">
@@ -48,42 +40,21 @@
       <a href="https://t.me/Sports_Streams247" target="_blank" rel="noopener noreferrer nofollow" class="header-btn header-btn-discord" title="Join Telegram">Join Telegram</a>
     </div>
   </header>
-
 	<a class="responsive-ad" href="https://www.villiersjets.com/?id=11429" rel="nofollow sponsored" target="_blank" aria-label="Villiers Private Jet Charter">
-  <img src="https://assets.villiersjets.com/banners/970X90-1.jpg" alt="Villiers Private Jet Charter">
-</a>
+    <img src="https://assets.villiersjets.com/banners/970X90-1.jpg" alt="Villiers Private Jet Charter">
+  </a>
 	<style>
-.responsive-ad{
-  display: block;
-  max-width: 970px;    /* don't grow larger than original banner */
-  width: 100%;         /* scale down to fit container */
-  margin: 5px auto;      /* optional: center on page */
-  text-decoration: none;
-  aspect-ratio: 970 / 90; /* preserve banner ratio */
-  overflow: hidden;
-}
-
-.responsive-ad img{
-  width: 100%;
-  height: 100%;
-  object-fit: cover;   /* keeps image filling the area */
-  display: block;
-  border: 0;
-}
-</style>
-	
-	
-  <!-- === NEW STICKY FILTER BAR === -->
+    .responsive-ad{display: block;max-width: 970px;width: 100%;margin: 5px auto;text-decoration: none;aspect-ratio: 970 / 90;overflow: hidden; background-color: #111;}
+    .responsive-ad img{width: 100%;height: 100%;object-fit: cover;display: block;border: 0;}
+  </style>
   <section class="filter-bar" id="filter-bar">
     <div class="filter-bar-top-row">
       <button id="filter-toggle" class="filter-toggle-btn">
         <span>Filters</span>
-        <svg class="arrow" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>
+        <svg class="arrow" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708 .708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>
       </button>
     </div>
-    <div class="active-filters-container" id="active-filters-container">
-      <!-- Active filter tags will be dynamically added here -->
-    </div>
+    <div class="active-filters-container" id="active-filters-container"></div>
     <div class="filter-options" id="filter-options">
       <div class="filter-group">
         <button class="filter-btn" data-filter="live">Live</button>
@@ -100,34 +71,28 @@
   <div class="fullpage">
     <main>
       <h1 id="category-title">Loading...</h1>
-
-<br/>
-		<center>
-		<script type="text/javascript" defer>
-	atOptions = {
-		'key' : 'd1173322baca5eadaaa9df8755945d20',
-		'format' : 'iframe',
-		'height' : 250,
-		'width' : 300,
-		'params' : {}
-	};
-</script>
-<script type="text/javascript" src="//www.highperformanceformat.com/d1173322baca5eadaaa9df8755945d20/invoke.js" defer></script>
-	</center>
-		
-		<!-- Container for all match sections -->
-  <div id="matches-container">
-    <!-- SKELETON LOADER -->
-    <div class="results-grid" id="skeleton-loader">
-      <div class="match-card is-loading"></div><div class="match-card is-loading"></div><div class="match-card is-loading"></div><div class="match-card is-loading"></div><div class="match-card is-loading"></div><div class="match-card is-loading"></div><div class="match-card is-loading"></div><div class="match-card is-loading"></div>
-    </div>
+      <center>
+        <!-- Adsterra Bannner Ad -->
+      </center>
+      <div id="matches-container">
+        <div id="skeleton-loader">
+          <div class="date-section">
+            <h2 class="section-header is-loading">&nbsp;</h2>
+            <div class="results-grid">
+              <div class="match-card is-loading"></div><div class="match-card is-loading"></div><div class="match-card is-loading"></div><div class="match-card is-loading"></div>
+            </div>
+          </div>
+          <div class="date-section">
+            <h2 class="section-header is-loading">&nbsp;</h2>
+            <div class="results-grid">
+              <div class="match-card is-loading"></div><div class="match-card is-loading"></div><div class="match-card is-loading"></div><div class="match-card is-loading"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div id="message-container" style="text-align: center; color: var(--text-secondary); padding: 40px 0; display: none;"></div>
+    </main>
   </div>
-  
-  <!-- Message for no matches or errors -->
-  <div id="message-container" style="text-align: center; color: var(--text-secondary); padding: 40px 0; display: none;"></div>
-</main>
-  </div>
-  <!-- === Search Overlay (Copied EXACTLY from homepage) === -->
   <div id="search-overlay">
     <div class="search-overlay-content">
       <button id="search-close">&times;</button>
@@ -135,60 +100,62 @@
       <div id="overlay-search-results"></div>
     </div>
   </div>
-
-
-<!-- Footer -->
-<footer>
-  <!-- Disclaimer Section -->
-  <div class="disclaimer-box">
-    <h3>Disclaimer</h3>
-    <p>
-      We do not host or own any media content; all streams are sourced from 
-      third-party sites. We do not take any responsibility for copyright issues. 
-      Copyright concerns should be directed to the original host. We have no 
-      control over ads in embedded players and receive no revenue from them. 
-      <a href="/Disclaimer/">Learn More!</a>
-    </p>
-  </div>
-
-  <ul class="footer-menu">
-    <li><a href="/">Home</a></li>
-    <li><a href="/About/">About</a></li>
-    <li><a href="/Terms/">Terms</a></li>
-    <li><a href="/Privacy/">Privacy</a></li>
-	  <li><a href="/Disclaimer/">Disclaimer</a></li>
-	  <li><a href="/DMCA/">DMCA</a></li>
-	  <li><a href="/Contact/">Contact Us</a></li>
-  </ul>
-  <p>© 2025 buffstreams.world. All rights reserved.</p>
+  <footer>
+    <div class="disclaimer-box">
+      <p>We do not host or own any media content. <a href="/Disclaimer/">Learn More!</a></p>
+    </div>
+    <ul class="footer-menu"><li><a href="/">Home</a></li><li><a href="/About/">About</a></li><li><a href="/Terms/">Terms</a></li><li><a href="/Privacy/">Privacy</a></li><li><a href="/Disclaimer/">Disclaimer</a></li><li><a href="/DMCA/">DMCA</a></li><li><a href="/Contact/">Contact Us</a></li></ul>
+    <p>© 2025 buffstreams.world. All rights reserved.</p>
   </footer>
-
-
-
-<div id="sticky-footer-ad">
-  <div class="ad-content">
-    
-    <span class="emoji">📲</span>
-    <span class="cta-text">Get Buffstreams App!</span>
-    <a href="https://tinyurl.com/BuffstreamsApp" class="download-btn" rel="nofollow" target="_blank">⬇ Download</a>
-    
+  
+  <!-- [NEW] Sticky Ad Placeholder -->
+  <div id="sticky-ad-placeholder">
+    <div id="sticky-footer-ad">
+      <div class="ad-content"><span class="emoji">📲</span><span class="cta-text">Get App!</span><a href="https://tinyurl.com/BuffstreamsApp" class="download-btn" rel="nofollow" target="_blank">⬇ Download</a></div>
+      <span id="close-ad">&#10060;</span>
+    </div>
   </div>
-  <span id="close-ad">&#10060;</span>
-</div>
 
+	<!-- [ADD THIS NEW SCRIPT BLOCK] -->
+  <script>
+    // --- Delayed Google Analytics Loader ---
+    const GTAG_ID = 'G-XTE70X7LT6';
+    let gtagLoaded = false;
 
+    // The function that creates and injects the Google Analytics script
+    function loadGtag() {
+      if (gtagLoaded) return;
+      gtagLoaded = true;
 
+      // Initialize the dataLayer and gtag function
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){ dataLayer.push(arguments); }
+      gtag('js', new Date());
+      gtag('config', GTAG_ID);
+
+      // Create the script element and append it to the head
+      const script = document.createElement('script');
+      script.src = `https://www.googletagmanager.com/gtag/js?id=${GTAG_ID}`;
+      script.async = true;
+      document.head.appendChild(script);
+      
+      // Clean up the event listeners after loading
+      ['scroll', 'mousemove', 'touchstart'].forEach(type => {
+        window.removeEventListener(type, loadGtag);
+      });
+    }
+
+    // Listen for the first user interaction to load the script
+    // The 'once: true' option ensures the event fires only one time
+    window.addEventListener('scroll', loadGtag, { once: true });
+    window.addEventListener('mousemove', loadGtag, { once: true });
+    window.addEventListener('touchstart', loadGtag, { once: true });
+
+    // Fallback: If the user doesn't interact, load it after 4 seconds anyway
+    setTimeout(loadGtag, 5000);
+  </script>
 
 </body>
-
 </html>
-
-
-
-
-
-
-
-
 
 
