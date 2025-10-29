@@ -23,6 +23,11 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
+/* ADD THIS CLASS TO YOUR CSS FILE TO PREVENT LAYOUT SHIFT */
+#matches-container.is-loading-matches {
+  min-height: 100vh; /* Reserves screen height to prevent footer jumping */
+}
+
 /* HEADER & NAVIGATION BUTTONS (FROM HOMEPAGE) */
 .header-btn {
   transition: background-color 0.2s, border-color 0.2s, transform 0.2s;
@@ -101,6 +106,34 @@ margin-left: 5px;
 .status-badge.date {
   background: rgba(0,0,0,0.7);
 }
+
+/* === [NEW] VIEWER BADGE STYLES === */
+.status-badge.viewer-badge {
+    display: flex;
+    align-items: center;
+    gap: 5px; /* Space between dot, text, and icon */
+    padding: 3px 8px; /* Slightly more padding */
+}
+.status-badge.viewer-badge::before {
+    content: '';
+    width: 7px;
+    height: 7px;
+    background-color: #fff;
+    border-radius: 50%;
+    animation: pulse-white 1.5s infinite;
+}
+.status-badge .viewer-icon {
+    width: 0.9em; /* Scales with the font size of the badge */
+    height: 0.9em;
+    opacity: 0.8;
+    margin-left: 2px;
+}
+@keyframes pulse-white {
+    0% { box-shadow: 0 0 0 0 rgba(255, 255, 255, 0.7); }
+    70% { box-shadow: 0 0 0 7px rgba(255, 255, 255, 0); }
+    100% { box-shadow: 0 0 0 0 rgba(255, 255, 255, 0); }
+}
+
 
 /* NEW POPULAR BADGE STYLE */
 .popular-badge {
@@ -349,7 +382,15 @@ margin-left: 5px;
     width: auto;
   }
 }
+/* ADD THIS CLASS TO YOUR CSS FILE FOR THE SKELETON HEADER */
 
+.section-header.is-loading {
+  height: 2.5em; /* Match the approximate height of a real header */
+  width: 40%;
+  border-radius: 6px;
+  border-bottom: none !important; /* Override default border */
+  margin-bottom: 1rem;
+}
 
 .disclaimer-box{background:#111;color:#ddd;padding:15px 20px;margin-bottom:20px;border:1px solid #333;border-radius:8px;max-width:900px;margin-left:auto;margin-right:auto;text-align:left;box-shadow:0 0 10px rgba(0,0,0,.4)}.disclaimer-box h3{margin:0 0 8px;font-size:16px;color:#fc0;text-transform:uppercase;letter-spacing:1px}.disclaimer-box p{margin:0;font-size:14px;line-height:1.5;padding-bottom:10px!important}.disclaimer-box a{color:#fc0;text-decoration:underline}.disclaimer-box a:hover{color:#fff}
 
@@ -363,9 +404,24 @@ footer {
 }
 .footer-menu a{color:#aaa;text-decoration:none;font-size:14px;display:inline-block;padding:5px}.footer-menu a:hover{color:#fc0}footer p{padding-bottom:50px}
 
-#sticky-footer-ad{position:fixed;bottom:0;left:0;width:100%;background:#161b22;;background-size:600% 600%;animation:8s infinite gradientShift;padding:10px;z-index:9999;font-family:Arial,sans-serif;color:#fff;display:flex;justify-content:center;align-items:center;box-shadow:0 -3px 10px rgba(0,0,0,.4);overflow:hidden}.ad-content{display:flex;align-items:center;gap:8px;flex-wrap:nowrap;justify-content:center;padding:0 20px}.emoji{font-size:24px;animation:1s infinite bounce}.cta-text{font-size:16px;font-weight:700;animation:2s infinite pulseText;white-space:nowrap;text-overflow:ellipsis}.download-btn{background:#111;color:#fff;padding:8px 20px;border-radius:25px;font-size:16px;font-weight:700;text-decoration:none;transition:.3s;animation:1.5s infinite alternate buttonPulse}.download-btn:hover{background:#fff;color:#111;transform:scale(1.1)}#close-ad{position:absolute;top:3px;right:5px;font-size:14px;padding:5px;border-radius:50%;background:#333;color:#fff;cursor:pointer;box-shadow:0 0 5px rgba(0,0,0,.5);transition:.3s;}#close-ad:hover,.badge.finished{background:red}
+/* [MODIFIED] Sticky Footer Ad Styles */
+#sticky-ad-placeholder {
+  display: none; /* Hidden by default */
+  height: 44px; /* Approximate height of the ad */
+}
 
+#sticky-footer-ad{position:fixed;bottom:0;left:0;width:100%;background:#161b22;padding:10px;z-index:9999;font-family:Arial,sans-serif;color:#fff;display:flex;justify-content:center;align-items:center;box-shadow:0 -3px 10px rgba(0,0,0,.4);overflow:hidden}.ad-content{display:flex;align-items:center;gap:8px;flex-wrap:nowrap;justify-content:center;padding:0 20px}.emoji{font-size:24px;animation:1s infinite bounce}.cta-text{font-size:16px;font-weight:700;animation:2s infinite pulseText;white-space:nowrap;text-overflow:ellipsis}.download-btn{background:#111;color:#fff;padding:8px 20px;border-radius:25px;font-size:16px;font-weight:700;text-decoration:none;transition:.3s;animation:1.5s infinite alternate buttonPulse}.download-btn:hover{background:#fff;color:#111;transform:scale(1.1)}#close-ad{position:absolute;top:3px;right:5px;font-size:14px;padding:5px;border-radius:50%;background:#333;color:#fff;cursor:pointer;box-shadow:0 0 5px rgba(0,0,0,.5);transition:.3s;}#close-ad:hover,.badge.finished{background:red}
+
+/* [NEW] Show sticky ad only on mobile */
+@media (max-width: 768px) {
+  #sticky-ad-placeholder.is-mobile {
+    display: block; /* Show placeholder on mobile */
+  }
+  footer p {
+    padding-bottom: 60px; /* Add padding to footer to not be covered by ad */
+  }
+}
 
 @media (max-width: 480px) {
-#sticky-footer-ad .ad-content {padding: 0 10px;}
+  #sticky-footer-ad .ad-content {padding: 0 10px;}
 }
