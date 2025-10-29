@@ -2,6 +2,10 @@
 /* ===  1. CORE & SHARED STYLES  =========================================== */
 /* ========================================================================= */
 :root{--bg-primary:#0d1117;--bg-secondary:#161b22;--text-primary:#c9d1d9;--text-secondary:#8b949e;--accent-primary:#3a86ff;--accent-secondary:#00b4d8;--border-color:#30363d;--white:#fff}
+html {
+  overflow-y: scroll;
+}
+
 body{margin:0;font-family:Inter,system-ui,-apple-system,"Segoe UI",Roboto,"Helvetica Neue",Arial;background:var(--bg-primary);color:var(--text-primary);line-height:1.6}
 body a{color:var(--accent-primary);text-decoration:none}
 body a:hover{text-decoration:underline}
@@ -9,7 +13,14 @@ main{display:block}
 header{padding:8px 20px;display:flex;justify-content:center}
 .main-header{background:rgba(13,17,23,0.8);backdrop-filter:blur(8px);-webkit-backdrop-filter:blur(8px);padding:10px 20px;display:flex;justify-content:center;transition:background-color .3s ease}
 .main-header.sticky{position:fixed;top:0;width:100%;z-index:1000;box-shadow:0 4px 6px rgba(0,0,0,.5);transform:translateY(-100%);animation:slide-down .4s ease-out forwards}
+/* [ADD THIS RULE] This is the fix for the vanishing/breaking issue */
+.main-header.sticky,
+#sticky-footer-ad {
+  will-change: transform;
+}
+
 @keyframes slide-down{100%{transform:translateY(0)}}
+
 .nav-menu{list-style:none;display:flex;gap:10px;flex-wrap:nowrap;margin:0;padding:5px 8px;justify-content:center;align-items:center}
 .nav-menu li.menu-item{flex-shrink:1}
 .nav-menu li a{color:#ade8f4;text-decoration:none;font-weight:500;padding:6px 12px;border-radius:6px;transition:.3s}
@@ -24,13 +35,27 @@ footer p{padding-bottom:30px}
 .disclaimer-box{background:var(--bg-primary);padding:15px 20px;margin-bottom:20px;border:1px solid var(--border-color);border-radius:8px;max-width:900px;margin-left:auto;margin-right:auto;text-align:left}
 .disclaimer-box h3{margin:0 0 8px;font-size:16px;color:var(--accent-secondary);text-transform:uppercase}
 .disclaimer-box p{margin:0;font-size:14px;line-height:1.5;padding-bottom:10px!important}
-#sticky-footer-ad{position:fixed;bottom:0;left:0;width:100%;background:var(--bg-secondary);padding:10px;z-index:9999;color:var(--white);display:flex;justify-content:center;align-items:center;box-shadow:0 -3px 10px rgba(0,0,0,.4)}
-.ad-content{display:flex;align-items:center;gap:8px;justify-content:center}
-.emoji{font-size:24px;animation:1s infinite bounce}
-.cta-text{font-size:16px;font-weight:700}
-.download-btn{background:var(--accent-primary);color:var(--white);padding:8px 20px;border-radius:25px;font-size:16px;font-weight:700;transition:.3s}
-#close-ad{position:absolute;top:3px;right:5px;font-size:14px;padding:5px;border-radius:50%;background:#333;cursor:pointer;margin-right:20px}
-@keyframes bounce{0%,100%{transform:translateY(0)}50%{transform:translateY(-6px)}}
+/* [MODIFIED] Sticky Footer Ad Styles */
+#sticky-ad-placeholder {
+  display: none; /* Hidden by default */
+  height: 44px; /* Approximate height of the ad */
+}
+
+#sticky-footer-ad{position:fixed;bottom:0;left:0;width:100%;background:#161b22;padding:10px;z-index:9999;font-family:Arial,sans-serif;color:#fff;display:flex;justify-content:center;align-items:center;box-shadow:0 -3px 10px rgba(0,0,0,.4);overflow:hidden}.ad-content{display:flex;align-items:center;gap:8px;flex-wrap:nowrap;justify-content:center;padding:0 20px}.emoji{font-size:24px;animation:1s infinite bounce}.cta-text{font-size:16px;font-weight:700;animation:2s infinite pulseText;white-space:nowrap;text-overflow:ellipsis}.download-btn{background:#111;color:#fff;padding:8px 20px;border-radius:25px;font-size:16px;font-weight:700;text-decoration:none;transition:.3s;animation:1.5s infinite alternate buttonPulse}.download-btn:hover{background:#fff;color:#111;transform:scale(1.1)}#close-ad{position:absolute;top:3px;right:17px;font-size:14px;padding:5px;border-radius:50%;background:#333;color:#fff;cursor:pointer;box-shadow:0 0 5px rgba(0,0,0,.5);transition:.3s;}#close-ad:hover,.badge.finished{background:red}
+
+/* [NEW] Show sticky ad only on mobile */
+@media (max-width: 768px) {
+  #sticky-ad-placeholder.is-mobile {
+    display: block; /* Show placeholder on mobile */
+  }
+  footer p {
+    padding-bottom: 60px; /* Add padding to footer to not be covered by ad */
+  }
+}
+
+@media (max-width: 480px) {
+  #sticky-footer-ad .ad-content {padding: 0 10px;}
+}
 
 /* ========================================================================= */
 /* ===  2. HOMEPAGE SPECIFIC STYLES  ======================================= */
@@ -50,7 +75,52 @@ footer p{padding-bottom:30px}
 .category-card:hover::before{opacity:1}
 .category-card img{width:90px;height:90px;object-fit:contain;margin-bottom:1.5rem;filter:drop-shadow(0 4px 8px rgba(0,0,0,.5));transition:transform .3s ease;z-index:2}
 .category-card:hover img{transform:scale(1.1)}
-.category-card span{font-size:1.25rem;font-weight:600;display:block;color:var(--white);text-transform:uppercase;letter-spacing:1px;z-index:2;text-align:center}
+.category-card span{font-size:0.9rem;font-weight:600;display:block;color:var(--white);text-transform:uppercase;letter-spacing:1px;z-index:2;text-align:center}
+
+/* --- [UPDATED] Live Viewer Badge --- */
+.category-card .live-badge {
+    position: absolute;
+    top: 12px;
+    right: 12px;
+    background-color: #e53935; /* Strong red for 'live' indication */
+    color: var(--white);
+    padding: 4px 10px;
+    border-radius: 20px;
+    font-size: 0.8rem;
+    font-weight: 700;
+    display: flex;
+    align-items: center;
+    gap: 8px; /* UPDATED: Increased gap for icon */
+    z-index: 3;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.3);
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    opacity: 0; /* Hidden by default for transition */
+    transform: scale(0.8);
+    transition: opacity 0.4s ease, transform 0.4s ease;
+}
+.category-card .live-badge.visible {
+    opacity: 1;
+    transform: scale(1);
+}
+.category-card .live-badge::before {
+    content: '';
+    width: 8px;
+    height: 8px;
+    background-color: #fff;
+    border-radius: 50%;
+    animation: pulse-white 1.5s infinite;
+}
+/* --- [NEW] Style for the Eye Icon --- */
+.category-card .live-badge .viewer-icon {
+    width: 1.2em; /* Scales with the font size */
+    height: 1.2em;
+    opacity: 0.8; /* Slightly transparent to blend better */
+}
+@keyframes pulse-white {
+    0% { box-shadow: 0 0 0 0 rgba(255, 255, 255, 0.7); }
+    70% { box-shadow: 0 0 0 8px rgba(255, 255, 255, 0); }
+    100% { box-shadow: 0 0 0 0 rgba(255, 255, 255, 0); }
+}
 
 /* ========================================================================= */
 /* ===  3. NEW BUFFSTREAMS ARTICLE STYLES  ================================= */
@@ -58,13 +128,11 @@ footer p{padding-bottom:30px}
 .article-container{width:90%;max-width:900px;margin:4rem auto;color:var(--text-secondary)}
 .article-intro{text-align:center;margin-bottom:3rem;font-size:1.1rem;line-height:1.7}
 .article-intro strong{color:var(--text-primary)}
-.section-divider{text-align:center;margin:4rem 0}
+.section-divider{text-align:center;margin:4rem 0; overflow-x: hidden;}
 .section-divider h2{display:inline-block;position:relative;font-size:1.8rem;color:var(--white);text-transform:uppercase;letter-spacing:1px}
 .section-divider h2::before,.section-divider h2::after{content:'';position:absolute;top:50%;height:2px;width:50px;background:var(--accent-primary);opacity:0;transform:scaleX(0);transition:all .5s ease}
 .section-divider.is-visible h2::before{left:-65px;opacity:1;transform:scaleX(1)}
 .section-divider.is-visible h2::after{right:-65px;opacity:1;transform:scaleX(1)}
-
-/* --- Feature Timeline --- */
 .feature-timeline{position:relative;display:flex;flex-direction:column;gap:2rem}
 .feature-timeline::before{content:'';position:absolute;left:19px;top:10px;bottom:10px;width:2px;background:var(--border-color)}
 .timeline-item{position:relative;display:flex;gap:1.5rem;align-items:flex-start}
@@ -72,22 +140,15 @@ footer p{padding-bottom:30px}
 .timeline-content{background:var(--bg-secondary);padding:1.5rem;border-radius:12px;border:1px solid var(--border-color);flex-grow:1}
 .timeline-content h3{margin:0 0 .5rem 0;color:var(--white);font-size:1.3rem}
 .timeline-content p{margin:0;font-size:.95rem}
-
-/* --- Offer Grid --- */
 .offer-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:1rem}
 .offer-item{background:var(--bg-secondary);padding:1rem 1.5rem;border-radius:8px;border-left:4px solid var(--accent-secondary);transition:background-color .3s ease}
 .offer-item:hover{background-color:#1c232e}
 .offer-item strong{color:var(--accent-secondary)}
-
-/* --- Commitment Card --- */
 .commitment-card{background:linear-gradient(45deg,rgba(58,134,255,.1),rgba(0,180,216,.1));border:1px solid var(--border-color);border-radius:12px;padding:2rem;margin-top:4rem;text-align:center}
 .commitment-card h3{margin:0 0 .75rem 0;color:var(--white);font-size:1.4rem}
 .commitment-card p{margin:0;font-size:1rem;max-width:700px;margin-left:auto;margin-right:auto}
-
 .article-conclusion{background:var(--bg-secondary);padding:2.5rem;border-radius:16px;text-align:center;border-top:3px solid var(--accent-primary);margin-top:4rem}
 .article-conclusion h3{font-size:1.6rem;margin-top:0;color:var(--accent-primary)}
-
-/* --- Animations --- */
 .animate-on-scroll{opacity:0;transform:translateY(40px);transition:opacity .6s cubic-bezier(.25,.46,.45,.94),transform .6s cubic-bezier(.25,.46,.45,.94)}
 .animate-on-scroll.is-visible{opacity:1;transform:translateY(0)}
 .timeline-item.animate-on-scroll:nth-child(2){transition-delay:.1s}
@@ -128,5 +189,9 @@ footer p{padding-bottom:30px}
 @media(max-width:768px){.main-header{padding:8px 10px}.nav-menu{overflow-x:auto;-webkit-overflow-scrolling:touch}.nav-menu li a{font-size:14px;white-space:nowrap}.main-content-title{margin:1rem 0 2rem;font-size:1.4rem}.nav-discord-btn a{padding:4px 10px;font-size:14px}.categories-grid{grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:1.5rem}.category-card{padding:2rem 1rem}.feature-timeline::before{left:19px}}
 @media(max-width:600px){.search-and-schedule-container{flex-direction:column;align-items:stretch}}
 @media(max-width:500px){.search-overlay-content{width:100%;max-width:none}.search-results-container .match-card{width:calc(50% - .5rem)}}
-@media(max-width:480px){.nav-menu li a{padding: 6px 6px;}.categories-grid{grid-template-columns:1fr 1fr;gap:1rem}.category-card img{max-width:70px;height:70px}.category-card span{font-size:1rem}}
+@media(max-width:480px){.nav-menu li a{padding: 6px 6px;}.categories-grid{grid-template-columns:1fr 1fr;gap:1rem}.category-card img{max-width:70px;height:70px}.category-card span{font-size:0.8rem}
+
+.category-card .live-badge{top:8px;right:8px;font-size:0.7rem;padding:3px 8px;}}
+
+
 
