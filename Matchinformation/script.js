@@ -120,7 +120,9 @@ function renderStreamRow(stream, index, matchId, sourceName) {
     // Build the new hash-based URL that works on GitHub Pages
     const quality = stream.hd ? 'hd' : 'sd';
     const streamNumber = stream.streamNo;
-    row.href = `../Watch/#/${matchId}/${sourceName}/${quality}${streamNumber}`;
+    row.href = `https://arkhan648.github.io/allinonewatchpage/#/${matchId}/${sourceName}/${quality}${streamNumber}`;
+    row.target = "_blank"; // <-- this opens the Watch page in a new tab/window
+row.rel = "nofollow noopener noreferrer"; // <-- for security and performance
     // ===============================
     
     const qualityTagClass = stream.hd ? "hd" : "sd";
@@ -389,4 +391,5 @@ document.addEventListener("DOMContentLoaded", () => {
     setupSearch(); 
     loadDiscordWidget();
 });
+
 
