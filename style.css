@@ -195,3 +195,39 @@ footer p{padding-bottom:30px}
 
 
 
+/* ====== PARTNERS / KEYWORDS MENU ====== */
+.partners-menu { 
+  list-style: none; 
+  padding: 0; 
+  margin: 0 0 20px 0; /* Margin bottom separates it from the legal menu */
+  display: flex; 
+  justify-content: center; 
+  flex-wrap: wrap; 
+  gap: 20px; 
+}
+
+.partners-menu li a {
+  font-family: var(--font-primary);
+  color: var(--text-secondary); /* Dark grey to distinguish from red legal links */
+  text-decoration: none; 
+  font-size: 15px; 
+  font-weight: 700; /* Bold to make them stand out */
+  text-transform: uppercase; /* Uppercase for a "brand" look */
+  transition: color 0.2s ease, transform 0.2s ease;
+}
+
+.partners-menu li a:hover {
+  color: var(--accent-red);
+  transform: translateY(-2px); /* Slight lift on hover */
+}
+
+/* Mobile adjustment for the new menu */
+@media (max-width: 768px) {
+  .partners-menu {
+    gap: 15px;
+    margin-bottom: 15px;
+  }
+  .partners-menu li a {
+    font-size: 13px;
+  }
+}
