@@ -80,7 +80,7 @@ document.addEventListener("DOMContentLoaded", function() {
               <div class="ad-content">
                 <span class="emoji">📺</span>
                 <span class="cta-text">Free Prime Video</span>
-                <a href="https://www.amazon.com/tryprimefree?tag=YOUR_TAG_HERE" class="download-btn amazon-btn" rel="nofollow sponsored" target="_blank">Start Trial</a>
+                <a href="https://amzn.to/4akAKPL" class="download-btn amazon-btn" rel="nofollow sponsored" target="_blank">Start Trial</a>
               </div>
               <span id="close-ad">&#10060;</span>
             </div>`;
@@ -352,3 +352,4 @@ window.addEventListener('load', function() {
         categoriesGrid.appendChild(fragment);
     })();
 });
+
