@@ -3,171 +3,182 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Search Results</title>
+  <title>Search Results - Buffstreams</title>
   <meta name="description" content="Search for live football, cricket, basketball, and more streamed matches.">
   
   <link rel="preconnect" href="https://streamed.pk" crossorigin>
-  <link rel="dns-prefetch" href="//streamed.pk"> 
-	<link rel="icon" href="../favicon.ico" type="image/x-icon">
+  <link rel="preconnect" href="https://topembed.pw" crossorigin>
+  <link rel="preconnect" href="https://corsproxy.io" crossorigin>
   
-  <!-- === INLINE CRITICAL CSS === -->
+  <!-- Geo APIs -->
+  <link rel="preconnect" href="https://get.geojs.io" crossorigin>
+  <link rel="preconnect" href="https://api.country.is" crossorigin>
+
+  <link rel="icon" href="../favicon.ico" type="image/x-icon">
+  
   <style>
-    :root{--bg-primary:#0a0a0a;--bg-secondary:#161b22;--text-primary:#c9d1d9;--accent-primary:#2f81f7;--border-color:#262626;--shadow-color:rgba(0,0,0,.2);--placeholder-bg:#262626;--shimmer-color:rgba(255,255,255,.1)}*{margin:0;padding:0;box-sizing:border-box}body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;background:var(--bg-primary);color:var(--text-primary)}.fullpage{padding:0 1rem}.site-header{position:sticky;top:0;left:0;width:100%;background:var(--bg-primary);border-bottom:1px solid var(--border-color);padding:10px 20px;display:flex;justify-content:space-between;align-items:center;z-index:1000;box-shadow:0 2px 6px var(--shadow-color);margin-bottom:15px}.header-left,.header-right{display:flex;align-items:center;gap:12px}.header-left{flex-grow:1;min-width:0}.site-logo img{height:40px;border-radius:6px;display:block}.header-btn{display:inline-flex;align-items:center;justify-content:center;padding:8px 14px;border-radius:6px;text-decoration:none;font-size:14px;font-weight:600;white-space:nowrap;background-color:var(--bg-secondary);color:var(--text-primary);border:1px solid var(--border-color)}.header-btn-discord{background-color:#5865f2;color:#fff;border-color:#5865f2}.header-search{flex-grow:1;max-width:400px}.header-search input{width:100%;background:var(--bg-secondary);color:var(--text-primary);padding:8px 12px;font-size:14px;border:2px solid var(--border-color);border-radius:6px;outline:none}.page-header{text-align:center;margin:10px 0 30px}.page-header h1{font-size:clamp(22px,3vw,32px);color:var(--text-primary);font-weight:700}.results-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(180px,1fr));gap:1rem;padding:0 4px}.match-card{background:var(--bg-secondary);border-radius:.5rem;overflow:hidden;position:relative}.match-poster{width:100%;height:120px;display:block;aspect-ratio:200/120}.lazy-placeholder{background-color:var(--placeholder-bg);position:relative;overflow:hidden}.lazy-placeholder::after{content:'';position:absolute;top:0;left:-150%;width:100%;height:100%;transform:skewX(-20deg);background-image:linear-gradient(90deg,transparent,var(--shimmer-color),transparent);animation:shimmer 1.8s infinite cubic-bezier(.4,0,.6,1)}@keyframes shimmer{100%{left:150%}}
+    @media (max-width:768px){.results-grid{grid-template-columns:repeat(auto-fill,minmax(160px,1fr));gap:10px}.overlay-results-container{gap:10px;padding:10px}.search-hero h1{margin-bottom:15px}#sticky-ad-placeholder{display:block}.mobile-ad{display:flex}.desktop-ad{display:none}}#sticky-ad-placeholder{display:none;height:50px}body{margin:0;font-family:Inter,system-ui,-apple-system,"Segoe UI",Roboto,"Helvetica Neue",Arial;background:var(--bg-primary);color:var(--text-primary);line-height:1.6}:root{--bg-primary:#0d1117;--bg-secondary:#161b22;--text-primary:#c9d1d9;--text-secondary:#8b949e;--accent-primary:#3a86ff;--accent-secondary:#00b4d8;--border-color:#30363d;--white:#fff;--accent-red:#e50914;--placeholder-bg:#21262d;--shimmer-color:rgba(255,255,255,0.05)}*,::after,::before{box-sizing:border-box}body{margin:0;font-family:Inter,system-ui,-apple-system,sans-serif;background:var(--bg-primary);color:var(--text-primary);line-height:1.6}a{text-decoration:none;color:inherit}.fullpage{width:90%;max-width:1400px;margin:0 auto;min-height:80vh}.main-header{background:rgba(13,17,23,.95);backdrop-filter:blur(8px);height:60px;display:flex;justify-content:center;border-bottom:1px solid var(--border-color);position:relative;z-index:1001;width:100%;top:0}.header-inner{display:flex;justify-content:space-between;align-items:center;height:100%;width:90%;max-width:1400px}.nav-left{display:flex;align-items:center;gap:15px}.nav-menu{list-style:none;display:flex;gap:5px;padding:0;margin:0}.nav-menu li a{color:var(--text-primary);font-weight:500;font-size:14px;padding:8px 12px;border-radius:6px}.brand-link{font-size:1.4rem;font-weight:900;color:var(--accent-primary);letter-spacing:-.5px}a.brand-link{text-decoration:underline}.mobile-toggle{display:none;background:0 0;border:none;color:var(--white);padding:5px}.mobile-toggle svg{width:24px;height:24px}.mobile-sidebar{position:fixed;top:0;left:0;width:280px;height:100vh;background:var(--bg-primary);border-right:1px solid var(--border-color);transform:translateX(-100%);z-index:2000;padding:20px;display:flex;flex-direction:column}.mobile-overlay{position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,.7);opacity:0;visibility:hidden;z-index:1999;backdrop-filter:blur(2px)}.mobile-nav-list{list-style:none;padding:0;margin:20px 0}.mobile-nav-list li{margin-bottom:5px}.mobile-nav-list li a{display:block;padding:12px 15px;color:var(--text-primary);border-radius:8px;font-weight:500}.sidebar-header{display:flex;justify-content:space-between;align-items:center;padding-bottom:20px;border-bottom:1px solid var(--border-color)}.sidebar-footer{margin-top:auto;padding-top:20px;border-top:1px solid var(--border-color)}.sidebar-schedule-btn{display:block;width:100%;text-align:center;background:var(--accent-primary);color:#fff;padding:10px;border-radius:8px;font-weight:600}@media (max-width:900px){.nav-menu{display:none}.mobile-toggle{display:block}}.search-hero{text-align:center;margin:30px 0}.search-hero h1{font-size:clamp(1.5rem,4vw,2.5rem);margin-bottom:20px;color:var(--white)}.search-box-trigger{background:var(--bg-secondary);border:1px solid var(--border-color);padding:15px 20px;border-radius:12px;max-width:600px;margin:0 auto;display:flex;align-items:center;gap:12px;color:var(--text-secondary)}.results-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:1.5rem;margin-top:20px;width:100%}.skeleton-card{display:flex;flex-direction:column;background:var(--bg-secondary);border-radius:12px;overflow:hidden;border:1px solid var(--border-color);height:100%;aspect-ratio:16/11}.skeleton-img{width:100%;height:55%;background:var(--placeholder-bg);position:relative;overflow:hidden}.skeleton-content{padding:12px;display:flex;flex-direction:column;flex-grow:1}.skeleton-line{background:var(--placeholder-bg);border-radius:4px;position:relative;overflow:hidden}.skeleton-line.title{height:20px;width:90%;margin-bottom:8px}.skeleton-line.meta{height:14px;width:60%;margin-top:auto}.skeleton-img::after,.skeleton-line::after{content:'';position:absolute;top:0;left:-150%;width:100%;height:100%;background:linear-gradient(90deg,transparent,var(--shimmer-color),transparent);animation:1.5s infinite shimmer}@keyframes shimmer{100%{left:150%}}#search-overlay{position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,.7);backdrop-filter:blur(4px);z-index:9999;display:none;align-items:flex-start;justify-content:center;padding-top:60px;opacity:0}.search-overlay-content{width:95%;max-width:800px;background:var(--bg-secondary);border:1px solid var(--border-color);border-radius:12px;box-shadow:0 15px 40px rgba(0,0,0,.6);position:relative}.overlay-header{padding:15px;border-bottom:1px solid var(--border-color);display:flex;align-items:center;gap:15px;background:var(--bg-secondary);border-radius:12px 12px 0 0}.input-wrapper{flex-grow:1;position:relative;display:flex;align-items:center;background:var(--bg-primary);border:2px solid var(--border-color);border-radius:8px;padding:0 12px}.input-wrapper .search-icon{color:var(--text-secondary);min-width:20px}#overlay-search-input{width:100%;background:0 0;border:none;color:var(--white);padding:14px 10px;font-size:16px;outline:0}#search-close{background:0 0;border:none;color:var(--accent-primary);font-weight:600;font-size:15px;padding:5px 10px}.overlay-results-container{padding:20px;max-height:70vh;overflow-y:auto;display:flex;flex-wrap:wrap;gap:15px;justify-content:center;background:var(--bg-secondary);border-radius:0 0 12px 12px}.overlay-results-container::-webkit-scrollbar{width:8px}.overlay-results-container::-webkit-scrollbar-track{background:var(--bg-secondary)}.overlay-results-container::-webkit-scrollbar-thumb{background:var(--border-color);border-radius:4px;border:2px solid var(--bg-secondary)}@media (max-width:768px){.results-grid{grid-template-columns:repeat(auto-fill,minmax(160px,1fr));gap:10px}.overlay-results-container{gap:10px;padding:10px}.search-hero h1{margin-bottom:15px}.mobile-ad{display:flex}.desktop-ad{display:none}footer{padding-bottom:70px}}footer{background:var(--bg-secondary);color:var(--text-secondary);padding:2rem 1rem;margin-top:3rem;text-align:center;border-top:1px solid var(--border-color)}.disclaimer-box{background:var(--bg-primary);padding:15px;border-radius:8px;border:1px solid var(--border-color);max-width:800px;margin:0 auto 20px;text-align:left}#sticky-footer-ad{position:fixed;bottom:0;left:0;width:100%;background:#161b22;padding:10px;z-index:9999;border-top:1px solid var(--border-color);display:flex;justify-content:center;align-items:center;box-shadow:0 -5px 15px rgba(0,0,0,.5)}.ad-content{display:flex;align-items:center;gap:10px;color:#fff}.download-btn{background:var(--white);color:var(--bg-primary);padding:6px 16px;border-radius:20px;font-weight:700;font-size:14px}#close-ad{position:absolute;right:10px;top:50%;transform:translateY(-50%);background:#333;border-radius:50%;width:24px;height:24px;display:flex;align-items:center;justify-content:center;font-size:12px;color:#fff}.mobile-ad{display:none}.desktop-ad{display:none}@media (min-width:769px){.desktop-ad{display:flex}}@keyframes bounce{0%,100%{transform:translateY(0)}50%{transform:translateY(-5px)}}@keyframes pulseText{0%,100%{opacity:1}50%{opacity:.5}}@keyframes buttonPulse{0%{transform:scale(1)}100%{transform:scale(1.05)}}.emoji{animation:1s infinite bounce}.cta-text{animation:2s infinite pulseText}.download-btn{animation:1.5s infinite alternate buttonPulse}
   </style>
 
-  <link rel="preload" href="search-style.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
-  <noscript><link rel="stylesheet" href="search-style.css"></noscript>
-  
-  <script src="search.js" defer></script>
-  <script src="/mobiledetectscript.js" defer></script>
+  <link rel="preload" href="style.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+  <noscript><link rel="stylesheet" href="style.css"></noscript>
 
-
-	 <!-- Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-XTE70X7LT6"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-    gtag('config', 'G-XTE70X7LT6');
-  </script>
-
-	
+  <!-- LCP Optimization: Preload the default affiliate image -->
+  <link rel="preload" as="image" href="../test.jpg" fetchpriority="high">
 </head>
-<body class="dark-theme">
+<body>
 
-  <!-- Sticky Header -->
-  <div class="site-header">
-    <div class="header-left">
-      <a href="/" class="site-logo">
-        <img src="../NFLbite.webp" alt="Site Logo" width="135" height="40" fetchpriority="high" decoding="async">
-      </a>
-      <a href="/" class="header-btn" title="Home">Home</a>
-      <form id="search-form" class="search-container header-search">
-         <input type="text" id="search-input" placeholder="Search again..." autocomplete="off">
-      </form>
-    </div>
-    <div class="header-right">
-      <a href="/Schedule/?popular=true" class="header-btn header-btn-discord" title="Schedule">Schedule</a>
-    </div>
+<!-- Mobile Menu Overlay & Sidebar -->
+<div class="mobile-overlay" id="mobile-overlay"></div>
+<aside class="mobile-sidebar" id="mobile-sidebar">
+  <div class="sidebar-header">
+    <span style="font-weight: 800; font-size: 1.2rem; color: #fff;">Menu</span>
+    <button id="close-sidebar" aria-label="Close Menu" style="background:none; border:none; color: #8b949e; cursor: pointer;">
+      <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="18" y1="6" x2="6" y2="18"></line><line x1="6" y1="6" x2="18" y2="18"></line></svg>
+    </button>
   </div>
-	
-  <div class="fullpage">
-    <main>
-		<a class="responsive-ad" href="https://www.villiersjets.com/?id=11429" rel="nofollow sponsored" target="_blank" aria-label="Villiers Private Jet Charter">
-  <img src="https://assets.villiersjets.com/banners/970X90-1.jpg" alt="Villiers Private Jet Charter">
-</a>
-	<style>
-.responsive-ad{
-  display: block;
-  max-width: 970px;    /* don't grow larger than original banner */
-  width: 100%;         /* scale down to fit container */
-  margin: 0 auto;      /* optional: center on page */
-  text-decoration: none;
-  aspect-ratio: 970 / 90; /* preserve banner ratio */
-  overflow: hidden;
-}
+  <ul class="mobile-nav-list">
+    <li><a href="/Schedule/?sport=football">Football</a></li>
+    <li><a href="/Schedule/?sport=basketball">Basketball</a></li>
+    <li><a href="/Schedule/?sport=american-football">NFL</a></li>
+    <li><a href="/Schedule/?sport=fight">UFC / MMA</a></li>
+    <li><a href="/Schedule/?sport=motor-sports">F1 / Motor</a></li>
+    <li><a href="/Schedule/?sport=baseball">MLB</a></li>
+    <li><a href="/Schedule/?sport=hockey">NHL</a></li>
+  </ul>
+  <div class="sidebar-footer">
+    <a href="/Schedule/?popular=true" class="sidebar-schedule-btn">View Full Schedule</a>
+  </div>
+</aside>
 
-.responsive-ad img{
-  width: 100%;
-  height: 100%;
-  object-fit: cover;   /* keeps image filling the area */
-  display: block;
-  border: 0;
-}
-</style>
-      <header class="page-header">
-        <h1 id="results-title">🔍 Searching...</h1>
-      </header>
+<!-- Main Header -->
+<header class="main-header">
+  <div class="content-container header-inner">
+    <div class="nav-left">
+      <button class="mobile-toggle" id="mobile-toggle" aria-label="Open Menu">
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="3" y1="12" x2="21" y2="12"></line><line x1="3" y1="6" x2="21" y2="6"></line><line x1="3" y1="18" x2="21" y2="18"></line></svg>
+      </button>
+      
+      <ul class="nav-menu">
+        <li><a href="/Schedule/?popular=true" style="color: var(--accent-secondary);">Full Schedule</a></li>
+        <li><a href="/Schedule/?sport=american-football">NFL</a></li>
+        <li><a href="/Schedule/?sport=basketball">NBA</a></li>
+        <li><a href="/Schedule/?sport=baseball">MLB</a></li>
+        <li><a href="/Schedule/?sport=fight">UFC</a></li>
+        <li><a href="/Schedule/?sport=motor-sports">F1</a></li>
+        <li><a href="/Schedule/?sport=hockey">NHL</a></li>
+      </ul>
+    </div>
+    <a href="https://buffstreams.world/" class="brand-link">Buffstreams</a>
+  </div>
+</header>
 
-		
-		<center>
-		<script type="text/javascript">
-	atOptions = {
-		'key' : 'd1173322baca5eadaaa9df8755945d20',
-		'format' : 'iframe',
-		'height' : 250,
-		'width' : 300,
-		'params' : {}
-	};
-</script>
-<script type="text/javascript" src="//www.highperformanceformat.com/d1173322baca5eadaaa9df8755945d20/invoke.js"></script>
-	</center>
-		<br/>
-  
-      <div id="search-results" class="results-grid">
-        <!-- === SKELETON LOADER FOR RESULTS === -->
-        <div class="match-card"><div class="match-poster lazy-placeholder"></div></div>
-        <div class="match-card"><div class="match-poster lazy-placeholder"></div></div>
-        <div class="match-card"><div class="match-poster lazy-placeholder"></div></div>
-        <div class="match-card"><div class="match-poster lazy-placeholder"></div></div>
-        <div class="match-card"><div class="match-poster lazy-placeholder"></div></div>
-        <div class="match-card"><div class="match-poster lazy-placeholder"></div></div>
+<div class="fullpage">
+  <main>
+    
+    <!-- Search Hero Section -->
+    <section class="search-hero">
+      <h1>Find Your Match</h1>
+      <div class="search-box-trigger" id="main-search-trigger">
+        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
+        <span>Search teams, leagues, or sports...</span>
       </div>
-    </main>
-  </div>
+    </section>
 
-  <div id="search-overlay">
-    <div class="search-overlay-content">
-      <button id="search-close">&times;</button>
-      <input type="text" id="overlay-search-input" placeholder="Search matches..." autocomplete="off">
-      <div id="overlay-search-results"></div>
+    <h2 id="results-title" style="text-align:center; margin-bottom: 20px;">Loading matches...</h2>
+
+    <!-- Results Container -->
+    <div id="search-results-container" class="results-grid">
+        <!-- Affiliate Placeholder (Will be replaced by JS) -->
+        <div class="skeleton-card affiliate-skeleton" style="border-color: #d4af37;"><div class="skeleton-img"></div><div class="skeleton-content"><div class="skeleton-line title"></div><div class="skeleton-line meta"></div></div></div>
+        
+        <!-- Standard Skeletons -->
+        <div class="skeleton-card"><div class="skeleton-img"></div><div class="skeleton-content"><div class="skeleton-line title"></div><div class="skeleton-line meta"></div></div></div>
+        <div class="skeleton-card"><div class="skeleton-img"></div><div class="skeleton-content"><div class="skeleton-line title"></div><div class="skeleton-line meta"></div></div></div>
+        <div class="skeleton-card"><div class="skeleton-img"></div><div class="skeleton-content"><div class="skeleton-line title"></div><div class="skeleton-line meta"></div></div></div>
+      <div class="skeleton-card"><div class="skeleton-img"></div><div class="skeleton-content"><div class="skeleton-line title"></div><div class="skeleton-line meta"></div></div></div>
     </div>
+
+  </main>
+</div>
+
+<!-- Search Overlay -->
+<div id="search-overlay">
+  <div class="search-overlay-content">
+    <div class="overlay-header">
+      <div class="input-wrapper">
+        <svg class="search-icon" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
+        <input type="text" id="overlay-search-input" placeholder="Type to search..." autocomplete="off">
+      </div>
+      <button id="search-close">Close</button>
+    </div>
+    
+    <div id="overlay-search-results" class="overlay-results-container"></div>
   </div>
+</div>
 
-
-<!-- Footer -->
 <footer>
-  <!-- Disclaimer Section -->
   <div class="disclaimer-box">
-    <h3>Disclaimer</h3>
-    <p>
-      We do not host or own any media content; all streams are sourced from 
-      third-party sites. We do not take any responsibility for copyright issues. 
-      Copyright concerns should be directed to the original host. We have no 
-      control over ads in embedded players and receive no revenue from them. 
-      <a href="/Disclaimer/">Learn More!</a>
-    </p>
+    <h3>DMCA Notice</h3>
+    <p>Buffstreams functions as a search engine. We do not host, archive, store, or distribute media files. All content is provided by non-affiliated third parties.</p>
   </div>
-
   <ul class="footer-menu">
     <li><a href="/">Home</a></li>
     <li><a href="/About/">About</a></li>
     <li><a href="/Terms/">Terms</a></li>
     <li><a href="/Privacy/">Privacy</a></li>
-	  <li><a href="/Disclaimer/">Disclaimer</a></li>
-	  <li><a href="/DMCA/">DMCA</a></li>
-	  <li><a href="/Contact/">Contact Us</a></li>
+    <li><a href="/DMCA/">DMCA</a></li>
+    <li><a href="/Contact/">Contact</a></li>
   </ul>
   <p>© 2025 buffstreams.world. All rights reserved.</p>
-  </footer>
+</footer>
 
-
-
-<!-- [NEW] Sticky Ad Placeholder -->
-  <div id="sticky-ad-placeholder">
+<!-- Sticky Ad Placeholder -->
+<div id="sticky-ad-placeholder">
     <div id="sticky-footer-ad">
-      <div class="ad-content"><span class="emoji">📲</span><span class="cta-text">Get App!</span><a href="https://tinyurl.com/BuffstreamsApp" class="download-btn" rel="nofollow" target="_blank">⬇ Download</a></div>
+      <div class="ad-content mobile-ad">
+        <span class="emoji">📲</span><span class="cta-text">Get App!</span><a href="https://tinyurl.com/BuffstreamsApp" class="download-btn" rel="nofollow" target="_blank">⬇ Download</a>
+      </div>
+      <div class="ad-content desktop-ad">
+        <span class="emoji">📺</span><span class="cta-text">Watch on Prime!</span><a href="https://amzn.to/YOUR_LINK_HERE" class="download-btn" rel="nofollow" target="_blank" style="background: #00A8E1; color: white;">Start Free Trial</a>
+      </div>
       <span id="close-ad">&#10060;</span>
     </div>
-  </div>
+</div>
 
+<script src="script.js" defer></script>
+<script>
+  // Google Analytics
+  const GTAG_ID = 'G-XTE70X7LT6';
+  let gtagLoaded = false;
+  function loadGtag() {
+    if (gtagLoaded) return;
+    gtagLoaded = true;
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){ dataLayer.push(arguments); }
+    gtag('js', new Date());
+    gtag('config', GTAG_ID);
+    const script = document.createElement('script');
+    script.src = `https://www.googletagmanager.com/gtag/js?id=${GTAG_ID}`;
+    script.async = true;
+    document.head.appendChild(script);
+    ['scroll', 'mousemove', 'touchstart'].forEach(type => {
+        window.removeEventListener(type, loadGtag);
+    });
+  }
+  window.addEventListener('scroll', loadGtag, { once: true });
+  window.addEventListener('mousemove', loadGtag, { once: true });
+  window.addEventListener('touchstart', loadGtag, { once: true });
+  setTimeout(loadGtag, 4000);
 
-
+  document.addEventListener('DOMContentLoaded', () => {
+      const closeAdBtn = document.getElementById('close-ad');
+      const stickyAd = document.getElementById('sticky-footer-ad');
+      if(closeAdBtn && stickyAd) {
+          closeAdBtn.addEventListener('click', () => { stickyAd.style.display = 'none'; });
+      }
+  });
+</script>
 </body>
-
 </html>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
