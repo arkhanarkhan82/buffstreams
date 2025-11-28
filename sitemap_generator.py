@@ -10,7 +10,6 @@ from xml.sax.saxutils import escape
 DOMAIN = "https://buffstreams.world"
 API_PRIMARY = "https://streamed.pk/api/matches/all"
 API_BACKUP = "https://topembed.pw/api.php?format=json"
-PROXY_URL = "https://corsproxy.io/?" # Python requests usually don't need CORS proxies, but we keep logic consistent
 
 # ---------------------------------------------------------
 # HELPER FUNCTIONS
@@ -57,7 +56,7 @@ def normalize_title(title):
 
 def fetch_matches():
     primary_matches = []
-    seen_signatures = set() # To store (normalized_title, timestamp) for deduplication
+    seen_signatures = set() 
 
     # 1. Fetch Primary API
     try:
@@ -68,15 +67,14 @@ def fetch_matches():
                 # Store for sitemap
                 match_obj = {
                     'title': match.get('title'),
-                    'id': match.get('id'), # Primary uses direct ID
-                    'date': match.get('date'), # Timestamp
+                    'id': match.get('id'), # Uses the ID exactly as provided by API
+                    'date': match.get('date'), 
                     'source': 'primary'
                 }
                 primary_matches.append(match_obj)
                 
                 # Add to deduplication set
                 norm_title = normalize_title(match.get('title'))
-                # We use a rough timestamp window (within 2 hours) for dedup
                 timestamp_hour = int(match.get('date')) // 3600 
                 seen_signatures.add((norm_title, timestamp_hour))
                 
@@ -86,16 +84,12 @@ def fetch_matches():
     # 2. Fetch Backup API
     backup_matches = []
     try:
-        # Python requests handles SSL/Headers better, usually doesn't need the corsproxy
-        # But if the API blocks non-browser UAs, we might need headers.
         headers = {'User-Agent': 'Mozilla/5.0'} 
         response = requests.get(API_BACKUP, headers=headers, timeout=10)
         
         if response.status_code == 200:
             data = response.json()
             if data and 'events' in data:
-                # The backup API structure is grouped by date strings or lists
-                # We need to flatten it
                 all_events = []
                 if isinstance(data['events'], dict):
                     for key, val in data['events'].items():
@@ -107,7 +101,6 @@ def fetch_matches():
                     all_events = data['events']
                 
                 for event in all_events:
-                    # Generate ID
                     generated_id = generate_backup_id(event)
                     
                     # Deduplication Logic
@@ -116,14 +109,14 @@ def fetch_matches():
                     norm_title = normalize_title(title)
                     timestamp_hour = timestamp // 3600
                     
-                    # If this match looks like one we already have from Primary, SKIP IT
+                    # If duplicate, skip
                     if (norm_title, timestamp_hour) in seen_signatures:
                         continue
                     
                     match_obj = {
                         'title': title,
                         'id': generated_id,
-                        'date': timestamp * 1000, # Convert sec to ms for consistency if needed, or keep logic separate
+                        'date': timestamp * 1000, 
                         'source': 'backup'
                     }
                     backup_matches.append(match_obj)
@@ -134,10 +127,7 @@ def fetch_matches():
     return primary_matches + backup_matches
 
 def get_blog_urls():
-    """
-    Scans the 'blog' directory for subfolders containing index.html 
-    or just hardcodes known blogs if scanning fails.
-    """
+    """Scans the 'blog' directory or uses fallback."""
     blog_urls = []
     blog_dir = 'blog'
     
@@ -145,15 +135,12 @@ def get_blog_urls():
         for item in os.listdir(blog_dir):
             item_path = os.path.join(blog_dir, item)
             if os.path.isdir(item_path):
-                # Assuming structure: buffstreams.world/blog/Article-Name/
                 url = f"{DOMAIN}/blog/{item}/"
                 blog_urls.append(url)
             elif item.endswith('.html') and item != 'index.html':
-                 # Assuming structure: buffstreams.world/blog/article.html
                  url = f"{DOMAIN}/blog/{item}"
                  blog_urls.append(url)
     
-    # Fallback/Hardcoded from your prompt if file scan finds nothing
     if not blog_urls:
         blog_urls = [
             f"{DOMAIN}/blog/Is-Hesgoal-Back/",
@@ -174,12 +161,10 @@ def generate_xml():
         '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'
     ]
 
-    # Date Calculators
     date_always = get_current_date_iso()
     date_monthly = get_first_day_of_month_iso()
 
-    # 1. STATIC PAGES (High Priority)
-    # Homepage
+    # 1. STATIC PAGES
     xml_lines.append(f"""
     <url>
         <loc>{DOMAIN}/</loc>
@@ -188,7 +173,6 @@ def generate_xml():
         <priority>1.0</priority>
     </url>""")
     
-    # Schedule Page
     xml_lines.append(f"""
     <url>
         <loc>{DOMAIN}/Schedule/?popular=true</loc>
@@ -197,7 +181,6 @@ def generate_xml():
         <priority>0.9</priority>
     </url>""")
 
-    # Other Static Pages (Terms, Contact, etc) - Monthly update
     static_pages = ['About', 'Terms', 'Privacy', 'DMCA', 'Contact', 'Disclaimer']
     for page in static_pages:
         xml_lines.append(f"""
@@ -208,7 +191,7 @@ def generate_xml():
         <priority>0.6</priority>
     </url>""")
 
-    # 2. CATEGORIES (From Homepage Data) - Daily/Always update
+    # 2. CATEGORIES
     categories = [
         'football', 'basketball', 'american-football', 'hockey', 'baseball', 
         'motor-sports', 'fight', 'tennis', 'rugby', 'golf', 
@@ -223,7 +206,7 @@ def generate_xml():
         <priority>0.8</priority>
     </url>""")
 
-    # 3. BLOG POSTS - Monthly update
+    # 3. BLOG POSTS
     blogs = get_blog_urls()
     for blog_url in blogs:
         xml_lines.append(f"""
@@ -234,37 +217,26 @@ def generate_xml():
         <priority>0.7</priority>
     </url>""")
 
-    # 4. MATCHES (Dynamic)
+    # 4. MATCHES (UPDATED URL STRUCTURE)
     matches = fetch_matches()
-    print(f"Found {len(matches)} total matches (Primary + Backup filtered).")
+    print(f"Found {len(matches)} total matches.")
     
     for match in matches:
-        # Construct URL based on your Schedule page logic
-        # Your script.js reads "?id=" parameter. 
-        # Primary API uses numeric ID, Backup uses Base64 string.
-        # Both should be passed to ?id= for the sitemap to lead to the right player setup.
-        match_url = f"{DOMAIN}/Schedule/?id={match['id']}"
-        match_title = escape(match['title'])
-        
-        # Date Logic:
-        # If match is in future: set date to match date.
-        # If match is live/past: set date to today.
+        # --- FIXED URL HERE ---
+        # Changed from /Schedule/ to /Matchinformation/
+        match_url = f"{DOMAIN}/Matchinformation/?id={match['id']}"
         
         try:
-            # Handle timestamp (some are ms, some seconds)
             ts = int(match['date'])
-            # Normalize to seconds
             if ts > 9999999999: ts = ts / 1000 
-            
             match_dt = datetime.datetime.fromtimestamp(ts)
             now = datetime.datetime.now()
             
-            # If match is tomorrow, use match date. If today or live, use today.
+            # If match is future, use match date. Else use today.
             if match_dt.date() > now.date():
                 final_date = match_dt.strftime("%Y-%m-%d")
             else:
-                final_date = date_always # Today
-                
+                final_date = date_always 
         except:
             final_date = date_always
 
@@ -278,7 +250,6 @@ def generate_xml():
 
     xml_lines.append('</urlset>')
     
-    # Write to file
     with open('sitemap.xml', 'w', encoding='utf-8') as f:
         f.write('\n'.join(xml_lines))
     print("Sitemap generated successfully.")
