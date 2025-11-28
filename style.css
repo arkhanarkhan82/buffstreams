@@ -1,33 +1,87 @@
 /* ========================================================================= */
 /* ===  1. CORE & SHARED STYLES  =========================================== */
 /* ========================================================================= */
-:root{--bg-primary:#0d1117;--bg-secondary:#161b22;--text-primary:#c9d1d9;--text-secondary:#8b949e;--accent-primary:#3a86ff;--accent-secondary:#00b4d8;--border-color:#30363d;--white:#fff}
-html {
-  overflow-y: scroll;
-}
+*, *::before, *::after { box-sizing: border-box; }
 
+:root{--bg-primary:#0d1117;--bg-secondary:#161b22;--text-primary:#c9d1d9;--text-secondary:#8b949e;--accent-primary:#3a86ff;--accent-secondary:#00b4d8;--border-color:#30363d;--white:#fff;--discord-color:#5865F2}
+html { overflow-y: scroll; }
 body{margin:0;font-family:Inter,system-ui,-apple-system,"Segoe UI",Roboto,"Helvetica Neue",Arial;background:var(--bg-primary);color:var(--text-primary);line-height:1.6}
 body a{color:var(--accent-primary);text-decoration:none}
 body a:hover{text-decoration:underline}
 main{display:block}
-header{padding:8px 20px;display:flex;justify-content:center}
-.main-header{background:rgba(13,17,23,0.8);backdrop-filter:blur(8px);-webkit-backdrop-filter:blur(8px);padding:10px 20px;display:flex;justify-content:center;transition:background-color .3s ease}
-.main-header.sticky{position:fixed;top:0;width:100%;z-index:1000;box-shadow:0 4px 6px rgba(0,0,0,.5);transform:translateY(-100%);animation:slide-down .4s ease-out forwards}
-/* [ADD THIS RULE] This is the fix for the vanishing/breaking issue */
-.main-header.sticky,
-#sticky-footer-ad {
-  will-change: transform;
+
+/* Header Logic */
+/* Default state (Relative) */
+.main-header {
+    position: relative;
+    top: 0;
+    width: 100%;
+    z-index: 1001;
 }
 
-@keyframes slide-down{100%{transform:translateY(0)}}
+/* Sticky State - PURE CSS TOGGLE (No Animations) */
+/* When JS adds .sticky, this applies immediately */
+.main-header.sticky {
+    position: fixed;
+    top: 0;
+    left: 0;
+    box-shadow: 0 4px 10px rgba(0,0,0,.6);
+    border-bottom: none;
+    background: rgba(13,17,23,0.98);
+    /* REMOVED: transform & animation properties */
+}
 
-.nav-menu{list-style:none;display:flex;gap:10px;flex-wrap:nowrap;margin:0;padding:5px 8px;justify-content:center;align-items:center}
-.nav-menu li.menu-item{flex-shrink:1}
-.nav-menu li a{color:#ade8f4;text-decoration:none;font-weight:500;padding:6px 12px;border-radius:6px;transition:.3s}
-.nav-menu li a:hover{background:var(--accent-primary);color:var(--white);text-decoration:none}
-.nav-discord-btn a{display:flex;align-items:center;gap:.5rem;background-color:#5865F2;color:var(--white)!important;font-weight:600;padding:6px 14px;border-radius:6px;transition:.3s;white-space:nowrap}
-.nav-discord-btn a:hover{background-color:#6d7bff;box-shadow:0 0 10px rgba(88,101,242,.5);text-decoration:none}
-footer{background:var(--bg-secondary);color:var(--text-secondary);padding:1rem;margin-top:2rem;text-align:center}
+.mobile-sidebar { 
+    position: fixed; 
+    top: 0; 
+    left: 0; 
+    width: 280px; 
+    height: 100vh; 
+    background: var(--bg-primary); 
+    border-right: 1px solid var(--border-color); 
+    transform: translateX(-100%); 
+    /* ADDED: Transition for smooth sliding animation */
+    transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1); 
+    z-index: 2000; 
+    padding: 20px; 
+    display: flex; 
+    flex-direction: column; 
+}
+
+/* ADDED: This is the missing rule that makes the menu visible */
+.mobile-sidebar.active { 
+    transform: translateX(0); 
+}
+
+/* Mobile Sidebar Styling */
+.mobile-nav-list { list-style: none; padding: 0; margin: 20px 0; }
+.mobile-nav-list li { margin-bottom: 5px; }
+.mobile-nav-list li a { display: block; padding: 12px 15px; color: var(--text-primary); text-decoration: none; border-radius: 8px; font-weight: 500; transition: background 0.2s ease; }
+.mobile-nav-list li a:hover { background: var(--bg-secondary); color: var(--white); padding-left: 15px; /* Removed movement, just padding stays */ }
+.sidebar-header { display: flex; justify-content: space-between; align-items: center; padding-bottom: 20px; border-bottom: 1px solid var(--border-color); }
+.sidebar-footer { margin-top: auto; padding-top: 20px; border-top: 1px solid var(--border-color); }
+.sidebar-schedule-btn { display: block; width: 100%; text-align: center; background: var(--accent-primary); color: #fff; padding: 10px; border-radius: 8px; font-weight: 600; text-decoration: none; }
+
+/* Discord Banner - STRICT Placeholder Height */
+.discord-cta-container { 
+    width: 90%; 
+    max-width: 1400px; 
+    margin: 1.5rem auto 2rem auto; 
+    padding: 0 1rem; 
+    min-height: 84px; /* Exact height reserved */
+    contain: layout style;
+}
+.discord-full-banner { display: flex; align-items: center; justify-content: space-between; background: var(--bg-secondary); border: 1px solid #404eed; padding: 1rem 1.5rem; border-radius: 12px; color: var(--white); text-decoration: none; transition: box-shadow 0.2s ease; box-shadow: 0 4px 12px rgba(88,101,242,0.15); height: 100%; }
+/* Removed Transform/Scale - only shadow changes */
+.discord-full-banner:hover { box-shadow: 0 6px 16px rgba(88,101,242,0.4); background: #1c212b; text-decoration: none; }
+.discord-content { display: flex; align-items: center; gap: 15px; font-weight: 600; font-size: 1.1rem; }
+.discord-arrow { font-size: 1.5rem; color: #404eed; }
+
+/* Remove skeleton class when loaded */
+.discord-full-banner.loaded { background: var(--bg-secondary); }
+
+/* Footer Styles */
+footer{background:var(--bg-secondary);color:var(--text-secondary);padding:1rem;margin-top:2rem;text-align:center; content-visibility: auto;}
 .footer-menu{list-style:none;padding:0;margin-bottom:10px;display:flex;justify-content:center;flex-wrap:wrap;gap:10px}
 .footer-menu a{color:var(--text-secondary);font-size:14px;padding:5px}
 .footer-menu a:hover{color:var(--accent-secondary)}
@@ -35,24 +89,27 @@ footer p{padding-bottom:30px}
 .disclaimer-box{background:var(--bg-primary);padding:15px 20px;margin-bottom:20px;border:1px solid var(--border-color);border-radius:8px;max-width:900px;margin-left:auto;margin-right:auto;text-align:left}
 .disclaimer-box h3{margin:0 0 8px;font-size:16px;color:var(--accent-secondary);text-transform:uppercase}
 .disclaimer-box p{margin:0;font-size:14px;line-height:1.5;padding-bottom:10px!important}
-/* [MODIFIED] Sticky Footer Ad Styles */
-#sticky-ad-placeholder {
-  display: none; /* Hidden by default */
-  height: 44px; /* Approximate height of the ad */
-}
 
-#sticky-footer-ad{position:fixed;bottom:0;left:0;width:100%;background:#161b22;padding:10px;z-index:9999;font-family:Arial,sans-serif;color:#fff;display:flex;justify-content:center;align-items:center;box-shadow:0 -3px 10px rgba(0,0,0,.4);overflow:hidden}.ad-content{display:flex;align-items:center;gap:8px;flex-wrap:nowrap;justify-content:center;padding:0 20px}.emoji{font-size:24px;animation:1s infinite bounce}.cta-text{font-size:16px;font-weight:700;animation:2s infinite pulseText;white-space:nowrap;text-overflow:ellipsis}.download-btn{background:#111;color:#fff;padding:8px 20px;border-radius:25px;font-size:16px;font-weight:700;text-decoration:none;transition:.3s;animation:1.5s infinite alternate buttonPulse}.download-btn:hover{background:#fff;color:#111;transform:scale(1.1)}#close-ad{position:absolute;top:3px;right:17px;font-size:14px;padding:5px;border-radius:50%;background:#333;color:#fff;cursor:pointer;box-shadow:0 0 5px rgba(0,0,0,.5);transition:.3s;}#close-ad:hover,.badge.finished{background:red}
+/* Sticky Footer Ad Shared Styles */
+#sticky-ad-placeholder { display: none; height: 44px; }
+#sticky-ad-placeholder.active { display: block; }
 
-/* [NEW] Show sticky ad only on mobile */
+/* Fixed Footer Ad */
+#sticky-footer-ad{position:fixed;bottom:0;left:0;width:100%;background:#161b22;padding:10px;z-index:9999;font-family:Arial,sans-serif;color:#fff;display:flex;justify-content:center;align-items:center;box-shadow:0 -3px 10px rgba(0,0,0,.4);overflow:hidden}
+.ad-content{display:flex;align-items:center;gap:8px;flex-wrap:nowrap;justify-content:center;padding:0 20px}
+.emoji{font-size:24px;} /* REMOVED ANIMATION */
+.cta-text{font-size:16px;font-weight:700;white-space:nowrap;text-overflow:ellipsis}
+.download-btn{background:#111;color:#fff;padding:8px 20px;border-radius:25px;font-size:16px;font-weight:700;text-decoration:none;transition: background 0.2s;} /* Removed pulse */
+.download-btn:hover{background:#fff;color:#111;}
+#close-ad{position:absolute;top:3px;right:17px;font-size:14px;padding:5px;border-radius:50%;background:#333;color:#fff;cursor:pointer;box-shadow:0 0 5px rgba(0,0,0,.5);transition: background 0.3s;}
+#close-ad:hover{background:red}
+
+.amazon-btn { background: #00A8E1; color: white; }
+.amazon-btn:hover { background: #0087b5; color: white; }
+
 @media (max-width: 768px) {
-  #sticky-ad-placeholder.is-mobile {
-    display: block; /* Show placeholder on mobile */
-  }
-  footer p {
-    padding-bottom: 60px; /* Add padding to footer to not be covered by ad */
-  }
+  footer p { padding-bottom: 60px; }
 }
-
 @media (max-width: 480px) {
   #sticky-footer-ad .ad-content {padding: 0 10px;}
 }
@@ -60,174 +117,185 @@ footer p{padding-bottom:30px}
 /* ========================================================================= */
 /* ===  2. HOMEPAGE SPECIFIC STYLES  ======================================= */
 /* ========================================================================= */
-.main-content-title{text-align:center;font-size:clamp(1.5rem,5vw,2.2rem);font-weight:700;color:var(--white);margin:1.5rem 0 3rem;padding:0 1rem;letter-spacing:.5px;text-shadow:1px 1px 4px rgba(0,0,0,.6)}
-.search-and-schedule-container{display:flex;gap:1rem;align-items:center;margin:0 auto 3rem auto;padding:0 1rem;max-width:1400px;width:90%}
-.search-trigger{flex-grow:1;display:flex;align-items:center;gap:.75rem;background-color:var(--bg-secondary);padding:.8rem 1rem;border-radius:8px;border:1px solid var(--border-color);cursor:pointer;transition:all .3s ease;color:var(--text-secondary)}
+.main-content-title{text-align:center;font-size:clamp(1.5rem,5vw,2.2rem);font-weight:700;color:var(--white);margin:3rem 0 2rem;padding:0 1rem;letter-spacing:.5px;text-shadow:1px 1px 4px rgba(0,0,0,.6)}
+
+.search-and-schedule-container{display:flex;gap:1rem;align-items:center;margin:0 auto 3rem auto;padding:0 1rem;max-width:1400px;width:90%; min-height: 54px; contain: layout; }
+.search-trigger{flex-grow:1;display:flex;align-items:center;gap:.75rem;background-color:var(--bg-secondary);padding:.8rem 1rem;border-radius:8px;border:1px solid var(--border-color);cursor:pointer;transition:border-color .2s ease;color:var(--text-secondary); height: 100%;}
 .search-trigger:hover{border-color:var(--accent-primary)}
 .search-trigger svg{width:1em;height:1em;color:var(--accent-primary);fill:currentColor}
-.schedule-button{flex-shrink:0;padding:.8rem 1.5rem;background-color:var(--accent-primary);color:var(--white);font-weight:600;text-decoration:none;border-radius:8px;transition:background-color .3s ease;text-align:center}
+.schedule-button{flex-shrink:0;padding:.8rem 1.5rem;background-color:var(--accent-primary);color:var(--white);font-weight:600;text-decoration:none;border-radius:8px;transition:background-color .2s ease;text-align:center; height: 100%; display: flex; align-items: center;}
 .schedule-button:hover{background-color:#61a0ff;text-decoration:none}
-.categories-container{width:90%;max-width:1400px;margin:2rem auto;padding:1rem 0}
+
+/* Categories Placeholder & Grid */
+.categories-container{width:90%;max-width:1400px;margin:2rem auto;padding:1rem 0; content-visibility: auto; min-height: 800px;}
 .categories-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:2rem}
-.category-card{position:relative;overflow:hidden;display:flex;flex-direction:column;align-items:center;justify-content:center;padding:2.5rem 1.5rem;background-color:var(--bg-secondary);border-radius:16px;text-decoration:none;color:var(--white);border:1px solid var(--border-color);box-shadow:0 4px 10px rgba(0,0,0,.4);transition:transform .3s ease,box-shadow .3s ease,border-color .3s ease}
-.category-card:hover{transform:translateY(-10px);border-color:var(--accent-primary);box-shadow:0 12px 24px rgba(0,0,0,.6);text-decoration:none}
+
+/* Category Card Placeholder */
+.category-card{
+    position:relative;
+    overflow:hidden;
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    justify-content:center;
+    padding:2.5rem 1.5rem;
+    background-color:var(--bg-secondary);
+    border-radius:16px;
+    text-decoration:none;
+    color:var(--white);
+    border:1px solid var(--border-color);
+    box-shadow:0 4px 10px rgba(0,0,0,.4);
+    transition:box-shadow .3s ease,border-color .3s ease; /* Removed transform */
+    /* Placeholder: Force Height */
+    min-height: 250px;
+}
+
+.category-card:hover{border-color:var(--accent-primary);box-shadow:0 12px 24px rgba(0,0,0,.6);text-decoration:none;}
 .category-card::before{content:'';position:absolute;top:0;left:0;right:0;bottom:0;border-radius:16px;background:radial-gradient(circle at 50% 0%,rgba(58,134,255,.25),transparent 70%);opacity:0;transition:opacity .4s ease;z-index:1}
 .category-card:hover::before{opacity:1}
-.category-card img{width:90px;height:90px;object-fit:contain;margin-bottom:1.5rem;filter:drop-shadow(0 4px 8px rgba(0,0,0,.5));transition:transform .3s ease;z-index:2}
-.category-card:hover img{transform:scale(1.1)}
+
+/* Image Placeholder & Aspect Ratio */
+.category-card img{
+    width:90px;
+    height:90px;
+    /* Forces space for image even if not loaded */
+    aspect-ratio: 1/1; 
+    object-fit:contain;
+    margin-bottom:1.5rem;
+    filter:drop-shadow(0 4px 8px rgba(0,0,0,.5));
+    transition: transform .2s ease;
+    z-index:2
+}
+/* This is a scale, which usually doesn't cause CLS, but since you want 0 movement: */
+.category-card:hover img{transform: none;} 
+
 .category-card span{font-size:0.9rem;font-weight:600;display:block;color:var(--white);text-transform:uppercase;letter-spacing:1px;z-index:2;text-align:center}
 
-/* --- [UPDATED] Live Viewer Badge --- */
-.category-card .live-badge {
-    position: absolute;
-    top: 12px;
-    right: 12px;
-    background-color: #e53935; /* Strong red for 'live' indication */
-    color: var(--white);
-    padding: 4px 10px;
-    border-radius: 20px;
-    font-size: 0.8rem;
-    font-weight: 700;
-    display: flex;
-    align-items: center;
-    gap: 8px; /* UPDATED: Increased gap for icon */
-    z-index: 3;
-    box-shadow: 0 2px 5px rgba(0,0,0,0.3);
-    border: 1px solid rgba(255, 255, 255, 0.2);
-    opacity: 0; /* Hidden by default for transition */
-    transform: scale(0.8);
-    transition: opacity 0.4s ease, transform 0.4s ease;
-}
-.category-card .live-badge.visible {
-    opacity: 1;
-    transform: scale(1);
-}
-.category-card .live-badge::before {
-    content: '';
-    width: 8px;
-    height: 8px;
-    background-color: #fff;
-    border-radius: 50%;
-    animation: pulse-white 1.5s infinite;
-}
-/* --- [NEW] Style for the Eye Icon --- */
-.category-card .live-badge .viewer-icon {
-    width: 1.2em; /* Scales with the font size */
-    height: 1.2em;
-    opacity: 0.8; /* Slightly transparent to blend better */
-}
-@keyframes pulse-white {
-    0% { box-shadow: 0 0 0 0 rgba(255, 255, 255, 0.7); }
-    70% { box-shadow: 0 0 0 8px rgba(255, 255, 255, 0); }
-    100% { box-shadow: 0 0 0 0 rgba(255, 255, 255, 0); }
-}
+/* Badges */
+.category-card .live-badge {position: absolute;top: 12px;right: 12px;background-color: #e53935;color: var(--white);padding: 4px 10px;border-radius: 20px;font-size: 0.8rem;font-weight: 700;display: flex;align-items: center;gap: 8px;z-index: 3;box-shadow: 0 2px 5px rgba(0,0,0,0.3);border: 1px solid rgba(255, 255, 255, 0.2);opacity: 0;transition: opacity 0.4s ease;}
+.category-card .live-badge.visible {opacity: 1;}
+.category-card .live-badge::before {content: '';width: 8px;height: 8px;background-color: #fff;border-radius: 50%;} /* Removed Pulse Animation */
+.category-card .live-badge .viewer-icon {width: 1.2em;height: 1.2em;opacity: 0.8;}
+
+.category-card .count-badge {position: absolute;top: 12px;left: 12px;background-color: var(--accent-primary);color: var(--white);padding: 4px 10px;border-radius: 20px;font-size: 0.8rem;font-weight: 700;display: flex;align-items: center;gap: 5px;z-index: 3;box-shadow: 0 2px 5px rgba(0,0,0,0.3);border: 1px solid rgba(255, 255, 255, 0.2);opacity: 0;transition: opacity 0.4s ease;}
+.category-card .count-badge.visible {opacity: 1;}
 
 /* ========================================================================= */
-/* ===  3. NEW BUFFSTREAMS ARTICLE STYLES  ================================= */
+/* ===  3. ARTICLE & PARTNER STYLES  ======================================= */
 /* ========================================================================= */
 .article-container{width:90%;max-width:900px;margin:4rem auto;color:var(--text-secondary)}
 .article-intro{text-align:center;margin-bottom:3rem;font-size:1.1rem;line-height:1.7}
 .article-intro strong{color:var(--text-primary)}
-.section-divider{text-align:center;margin:4rem 0; overflow-x: hidden;}
-.section-divider h2{display:inline-block;position:relative;font-size:1.8rem;color:var(--white);text-transform:uppercase;letter-spacing:1px}
-.section-divider h2::before,.section-divider h2::after{content:'';position:absolute;top:50%;height:2px;width:50px;background:var(--accent-primary);opacity:0;transform:scaleX(0);transition:all .5s ease}
-.section-divider.is-visible h2::before{left:-65px;opacity:1;transform:scaleX(1)}
-.section-divider.is-visible h2::after{right:-65px;opacity:1;transform:scaleX(1)}
-.feature-timeline{position:relative;display:flex;flex-direction:column;gap:2rem}
-.feature-timeline::before{content:'';position:absolute;left:19px;top:10px;bottom:10px;width:2px;background:var(--border-color)}
-.timeline-item{position:relative;display:flex;gap:1.5rem;align-items:flex-start}
-.timeline-number{flex-shrink:0;width:40px;height:40px;border-radius:50%;background:var(--accent-primary);color:var(--white);display:flex;align-items:center;justify-content:center;font-weight:700;font-size:1.2rem;border:3px solid var(--bg-primary);z-index:2}
-.timeline-content{background:var(--bg-secondary);padding:1.5rem;border-radius:12px;border:1px solid var(--border-color);flex-grow:1}
-.timeline-content h3{margin:0 0 .5rem 0;color:var(--white);font-size:1.3rem}
-.timeline-content p{margin:0;font-size:.95rem}
-.offer-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:1rem}
-.offer-item{background:var(--bg-secondary);padding:1rem 1.5rem;border-radius:8px;border-left:4px solid var(--accent-secondary);transition:background-color .3s ease}
-.offer-item:hover{background-color:#1c232e}
-.offer-item strong{color:var(--accent-secondary)}
-.commitment-card{background:linear-gradient(45deg,rgba(58,134,255,.1),rgba(0,180,216,.1));border:1px solid var(--border-color);border-radius:12px;padding:2rem;margin-top:4rem;text-align:center}
-.commitment-card h3{margin:0 0 .75rem 0;color:var(--white);font-size:1.4rem}
-.commitment-card p{margin:0;font-size:1rem;max-width:700px;margin-left:auto;margin-right:auto}
-.article-conclusion{background:var(--bg-secondary);padding:2.5rem;border-radius:16px;text-align:center;border-top:3px solid var(--accent-primary);margin-top:4rem}
-.article-conclusion h3{font-size:1.6rem;margin-top:0;color:var(--accent-primary)}
-.animate-on-scroll{opacity:0;transform:translateY(40px);transition:opacity .6s cubic-bezier(.25,.46,.45,.94),transform .6s cubic-bezier(.25,.46,.45,.94)}
-.animate-on-scroll.is-visible{opacity:1;transform:translateY(0)}
-.timeline-item.animate-on-scroll:nth-child(2){transition-delay:.1s}
-.timeline-item.animate-on-scroll:nth-child(3){transition-delay:.2s}
-.timeline-item.animate-on-scroll:nth-child(4){transition-delay:.3s}
-.timeline-item.animate-on-scroll:nth-child(5){transition-delay:.4s}
+.partners-menu { list-style: none; padding: 0; margin: 0 0 20px 0; display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; }
+.partners-menu li a { font-family: var(--font-primary); color: var(--text-secondary); text-decoration: none; font-size: 15px; font-weight: 700; text-transform: uppercase; transition: color 0.2s ease; }
+.partners-menu li a:hover { color: #e50914; }
 
-/* ========================================================================= */
-/* ===  4. SEARCH OVERLAY STYLES  ========================================== */
-/* ========================================================================= */
-.search-overlay{position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(13,17,23,.8);display:none;justify-content:center;align-items:flex-start;padding-top:60px;z-index:9999;backdrop-filter:blur(4px)}
-.search-overlay.active{display:flex}
-.search-overlay-content{background:var(--bg-primary);width:95%;max-width:900px;border-radius:12px;padding:20px;box-shadow:0 8px 24px rgba(0,0,0,.5);position:relative;border:1px solid var(--border-color);display:flex;flex-direction:column;max-height:calc(100vh - 80px)}
-#search-input{background:var(--bg-secondary);color:var(--text-primary);width:90%;padding:14px 18px 14px 25px;font-size:16px;border:1px solid var(--border-color);border-radius:10px;outline:none;margin-bottom:20px}
-#search-input:focus{border-color:var(--accent-primary);box-shadow:0 0 8px rgba(58,134,255,.3)}
-.close-search-btn{position:absolute;top:10px;right:12px;font-size:30px;background:transparent;border:none;cursor:pointer;color:var(--text-secondary);z-index:10;padding:5px}
-.close-search-btn:hover{color:var(--white)}
-.search-results-container{overflow-y:auto;display:flex;flex-wrap:wrap;gap:1rem;justify-content:center;padding:5px}
-.search-placeholder{text-align:center;color:var(--text-secondary);margin:auto;width:100%}
-.search-placeholder p{margin:0}
-.search-results-container .match-card{background:var(--bg-secondary);border-radius:.5rem;overflow:hidden;text-decoration:none;color:inherit;position:relative;display:flex;flex-direction:column;transition:transform .2s ease;width:200px}
-.search-results-container .match-card:hover{transform:translateY(-4px)}
-.search-results-container .match-poster{width:100%;object-fit:cover;aspect-ratio:16/10;background-color:#262626;display:block}
-.search-results-container .status-badge{position:absolute;top:10px;left:10px;background:#dc2626;color:var(--white);padding:2px 6px;border-radius:9999px;font-size:12px;font-weight:700;z-index:2}
-.search-results-container .status-badge.live{animation:pulse-red 1.5s infinite}
-.search-results-container .status-badge.date{background:rgba(0,0,0,.7)}
-.search-results-container .popular-badge{position:absolute;top:10px;right:10px;background:var(--accent-primary);color:var(--white);width:26px;height:26px;border-radius:9999px;display:flex;align-items:center;justify-content:center;z-index:2}
-.search-results-container .popular-badge svg{width:16px;height:16px}
-.search-results-container .match-info{padding:10px;flex:1;display:flex;flex-direction:column;justify-content:space-between}
-.search-results-container .match-title{font-size:15px;font-weight:700;margin-bottom:6px;color:var(--text-primary);height:40px;line-height:20px;overflow:hidden;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}
-.search-results-container .match-meta-row{display:flex;justify-content:space-between;font-size:14px;color:var(--text-secondary)}
-.search-results-container .match-category{text-transform:capitalize}
-@keyframes pulse-red{0%,100%{opacity:1}50%{opacity:.8}}
-
-/* ========================================================================= */
-/* ===  5. RESPONSIVE MEDIA QUERIES  ======================================= */
-/* ========================================================================= */
-@media(max-width:768px){.main-header{padding:8px 10px}.nav-menu{overflow-x:auto;-webkit-overflow-scrolling:touch}.nav-menu li a{font-size:14px;white-space:nowrap}.main-content-title{margin:1rem 0 2rem;font-size:1.4rem}.nav-discord-btn a{padding:4px 10px;font-size:14px}.categories-grid{grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:1.5rem}.category-card{padding:2rem 1rem}.feature-timeline::before{left:19px}}
-@media(max-width:600px){.search-and-schedule-container{flex-direction:column;align-items:stretch}}
-@media(max-width:500px){.search-overlay-content{width:100%;max-width:none}.search-results-container .match-card{width:calc(50% - .5rem)}}
-@media(max-width:480px){.nav-menu li a{padding: 6px 6px;}.categories-grid{grid-template-columns:1fr 1fr;gap:1rem}.category-card img{max-width:70px;height:70px}.category-card span{font-size:0.8rem}
-
-.category-card .live-badge{top:8px;right:8px;font-size:0.7rem;padding:3px 8px;}}
-
-
-
-/* ====== PARTNERS / KEYWORDS MENU ====== */
-.partners-menu { 
-  list-style: none; 
-  padding: 0; 
-  margin: 0 0 20px 0; /* Margin bottom separates it from the legal menu */
-  display: flex; 
-  justify-content: center; 
-  flex-wrap: wrap; 
-  gap: 20px; 
+@media(max-width:768px){
+  .main-content-title{margin:1rem 0 2rem;font-size:1.4rem}
+  .categories-grid{grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:1.5rem}
+  .category-card{padding:2rem 1rem; min-height: 200px;} 
+  .search-and-schedule-container{flex-direction:column;align-items:stretch}
+  .discord-full-banner { padding: 0.8rem 1rem; }
+  .discord-content { font-size: 0.95rem; }
+  .partners-menu { gap: 15px; margin-bottom: 15px; }
+  .partners-menu li a { font-size: 13px; }
 }
 
-.partners-menu li a {
-  font-family: var(--font-primary);
-  color: var(--text-secondary); /* Dark grey to distinguish from red legal links */
-  text-decoration: none; 
-  font-size: 15px; 
-  font-weight: 700; /* Bold to make them stand out */
-  text-transform: uppercase; /* Uppercase for a "brand" look */
-  transition: color 0.2s ease, transform 0.2s ease;
+@media(max-width:480px){
+  .categories-grid{grid-template-columns:1fr 1fr;gap:1rem}
+  .category-card img{width:70px;height:70px;max-width:70px;}
+  .category-card span{font-size:0.55rem}
+  .category-card .live-badge, .category-card .count-badge{top:8px;font-size:0.7rem;padding:3px 8px;}
+  .category-card .live-badge{right:8px;}
+  .category-card .count-badge{left:8px; max-width: 80px;}
 }
 
-.partners-menu li a:hover {
-  color: var(--accent-red);
-  transform: translateY(-2px); /* Slight lift on hover */
+/* =========================
+   RECENT ARTICLES SECTION
+========================= */
+
+.recent-articles {
+  margin-top: 50px;
+  padding: 25px 20px;
+  background: linear-gradient(135deg, #0f172a, #020617);
+  border-radius: 14px;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.4);
+  max-width: 100%;
 }
 
-/* Mobile adjustment for the new menu */
+/* Section Title */
+.recent-articles .section-title {
+  font-size: 22px;
+  font-weight: 700;
+  color: #ffffff;
+  margin-bottom: 20px;
+  padding-bottom: 10px;
+  border-bottom: 2px solid #3b82f6;
+  letter-spacing: 0.5px;
+}
+
+/* Article Container */
+.recent-articles .article-link {
+  margin-bottom: 12px;
+}
+
+/* Article Link Design */
+.recent-articles .article-link a {
+  display: flex;
+  align-items: center;
+  padding: 14px 16px;
+  background: #020617;
+  border-radius: 10px;
+  color: #e5e7eb;
+  text-decoration: none;
+  font-size: 16px;
+  font-weight: 500;
+  transition: all 0.3s ease;
+  border: 1px solid rgba(255,255,255,0.05);
+}
+
+/* Hover Effect */
+.recent-articles .article-link a:hover {
+  background: #2563eb;
+  color: #ffffff;
+  transform: translateX(6px);
+  box-shadow: 0 5px 20px rgba(37,99,235,0.5);
+}
+
+/* =========================
+   RESPONSIVE DESIGN
+========================= */
+
+/* Tablets */
 @media (max-width: 768px) {
-  .partners-menu {
-    gap: 15px;
-    margin-bottom: 15px;
+  .recent-articles {
+    padding: 20px 16px;
   }
-  .partners-menu li a {
-    font-size: 13px;
+
+  .recent-articles .section-title {
+    font-size: 20px;
+  }
+
+  .recent-articles .article-link a {
+    font-size: 15px;
+    padding: 12px 14px;
+  }
+}
+
+/* Mobile Devices */
+@media (max-width: 480px) {
+  .recent-articles {
+    padding: 18px 14px;
+    border-radius: 12px;
+  }
+
+  .recent-articles .section-title {
+    font-size: 18px;
+    text-align: center;
+  }
+
+  .recent-articles .article-link a {
+    font-size: 14px;
+    padding: 11px 12px;
   }
 }
