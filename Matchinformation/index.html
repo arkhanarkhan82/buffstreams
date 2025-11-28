@@ -3,28 +3,24 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Loading Match...</title>
+  <title>Match Live Stream Links | Buffstreams.world</title>
+  <meta name="description" content="Watch live sports streams in HD. Football, Basketball, UFC, NFL and more on Buffstreams.world.">
   
   <link rel="preconnect" href="https://streamed.pk" crossorigin>
-  <link rel="dns-prefetch" href="//streamed.pk">
+  <link rel="preconnect" href="https://topembed.pw" crossorigin>
+  <link rel="preconnect" href="https://corsproxy.io" crossorigin>
+  
+  <!-- Geo APIs -->
+  <link rel="preconnect" href="https://get.geojs.io" crossorigin>
+  <link rel="preconnect" href="https://api.country.is" crossorigin>
+
   <link rel="icon" href="../favicon.ico" type="image/x-icon">
-  
-  <!-- === INLINE CRITICAL CSS === -->
-  <style>
-    :root{--bg-primary:#0a0a0a;--bg-secondary:#161b22;--text-primary:#c9d1d9;--text-secondary:#8b949e;--accent-primary:#2f81f7;--border-color:#262626;--shadow-color:rgba(0,0,0,.2);--shimmer-color:rgba(255,255,255,.1)}*{margin:0;padding:0;box-sizing:border-box}body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;background:var(--bg-primary);color:var(--text-primary)}.fullpage{padding:0 1rem}.hidden{display:none!important}.site-header{position:sticky;top:0;left:0;width:100%;background:var(--bg-primary);border-bottom:1px solid var(--border-color);padding:10px 20px;display:flex;justify-content:space-between;align-items:center;z-index:1000;margin-bottom:15px}.header-left{display:flex;align-items:center;gap:12px;flex-grow:1;min-width:0}.site-logo img{height:40px;border-radius:6px;display:block}.header-search{max-width:400px;width:100%;margin:0}.header-search input{background:var(--bg-secondary);color:var(--text-primary);padding:8px 12px;font-size:14px;border:2px solid var(--border-color);border-radius:6px;outline:0}.header-right{display:flex;align-items:center;gap:12px}.header-btn{display:inline-flex;align-items:center;justify-content:center;padding:8px 14px;border-radius:6px;text-decoration:none;font-size:14px;font-weight:600;white-space:nowrap;background-color:var(--bg-secondary);color:var(--text-primary);border:1px solid var(--border-color)}.header-btn-discord{background-color:#5865f2;color:#fff;border:1px solid #5865f2}.match-details-container{max-width:900px;margin:15px auto;padding:1rem}#match-header{margin-bottom:10px}#match-header h1{font-size:clamp(1.5rem,3vw,2rem);color:var(--text-primary);text-align:center}
-    /* Skeleton styles */
-    .skeleton{background-color:var(--bg-secondary);color:transparent;border-radius:6px;user-select:none;position:relative;overflow:hidden}.skeleton::after{content:'';position:absolute;top:0;left:-150%;width:100%;height:100%;transform:skewX(-20deg);background-image:linear-gradient(90deg,transparent,var(--shimmer-color),transparent);animation:shimmer 1.8s infinite cubic-bezier(.4,0,.6,1)}@keyframes shimmer{100%{left:150%}}
-    h1 .skeleton{height:36px;width:70%;margin:0 auto;margin-bottom:5px}
-    p .skeleton{height:18px;width:90%;margin:0 auto;margin-bottom:8px}p .skeleton.w-60{width:60%}
-  </style>
-  
+
+  <!-- CSS Loading -->
   <link rel="preload" href="style.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
   <noscript><link rel="stylesheet" href="style.css"></noscript>
-  <script src="script.js" defer></script>
-  <script src="/mobiledetectscript.js" defer></script>
 
-
-	 <!-- Google Analytics -->
+  <!-- Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-XTE70X7LT6"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
@@ -32,75 +28,70 @@
     gtag('js', new Date());
     gtag('config', 'G-XTE70X7LT6');
   </script>
+<style>
 
-	
-</head>
-<body class="dark-theme">
-
-  <!-- Sticky Header -->
-  <div class="site-header">
-    <div class="header-left">
-      <a href="/" class="site-logo">
-        <img src="../NFLbite.webp" alt="Site Logo" fetchpriority="high" decoding="async" width="135" height="40">
-      </a>
-      <a href="/" class="header-btn" title="Home">Home</a>
-      <div class="search-container header-search">
-        <input type="text" id="search-input" placeholder="Search matches..." autocomplete="off">
-      </div>
-    </div>
-    <div class="header-right">
-      <a href="../Schedule/?popular=true" rel="noopener noreferrer" class="header-btn header-btn-discord" title="Schedule">Schedule</a>
-    </div>
-  </div>
-
-  <!-- Main Content -->
-  <div class="fullpage">
-    <div class="content-wrapper">
-
-
-
-		
-      <main class="match-details-container">
-
-
-<!-- Top Banner Advertisement -->
-
-		  
-		  <a class="responsive-ad" href="https://www.villiersjets.com/?id=11429" rel="nofollow sponsored" target="_blank" aria-label="Villiers Private Jet Charter">
-  <img src="https://assets.villiersjets.com/banners/970X90-1.jpg" alt="Villiers Private Jet Charter">
-</a>
-	<style>
-.responsive-ad{
-  display: block;
-  max-width: 970px;    /* don't grow larger than original banner */
-  width: 100%;         /* scale down to fit container */
-  margin: 0 auto;      /* optional: center on page */
-  text-decoration: none;
-  aspect-ratio: 970 / 90; /* preserve banner ratio */
-  overflow: hidden;
-}
-
-.responsive-ad img{
-  width: 100%;
-  height: 100%;
-  object-fit: cover;   /* keeps image filling the area */
-  display: block;
-  border: 0;
-}
+  @media (max-width:1100px){.content-wrapper-layout{flex-direction:column;align-items:center}.desktop-affiliate-wrapper{display:none}.mobile-affiliate-wrapper{display:block;width:100%;max-width:600px;margin:0 auto 20px}}@media (max-width:768px){.content-container,.fullpage{width:95%;padding:0 10px}}:root{--bg-primary:#0d1117;--bg-secondary:#161b22;--text-primary:#c9d1d9;--text-secondary:#8b949e;--accent-primary:#3a86ff;--accent-secondary:#00b4d8;--border-color:#30363d;--white:#fff;--accent-red:#e50914;--placeholder-bg:#21262d;--shimmer-color:rgba(255,255,255,0.05);--shadow-color:rgba(0,0,0,0.4)}*,::after,::before{box-sizing:border-box}body{margin:0;font-family:Inter,system-ui,-apple-system,"Segoe UI",Roboto,Arial,sans-serif;background:var(--bg-primary);color:var(--text-primary);line-height:1.6;overflow-x:hidden}a{text-decoration:none;color:inherit}.hidden{display:none!important}.content-container,.fullpage{width:90%;max-width:1400px;margin:0 auto;padding:0}.main-header{background:rgba(13,17,23,.95);backdrop-filter:blur(8px);height:60px;display:flex;justify-content:center;border-bottom:1px solid var(--border-color);position:relative;z-index:1001;width:100%;top:0}.header-inner{display:flex;justify-content:space-between;align-items:center;height:100%;width:90%}.nav-left{display:flex;align-items:center;gap:15px}.nav-menu{list-style:none;display:flex;gap:5px;padding:0;margin:0}.nav-menu li a{color:var(--text-primary);font-weight:500;font-size:14px;padding:8px 12px;border-radius:6px}.brand-link{font-size:1.4rem;font-weight:900;color:var(--accent-primary);letter-spacing:-.5px}a.brand-link{text-decoration:underline}.mobile-toggle{display:none;background:0 0;border:none;color:var(--white);padding:5px}.mobile-toggle svg{width:24px;height:24px}.mobile-sidebar{position:fixed;top:0;left:0;width:280px;height:100vh;background:var(--bg-primary);border-right:1px solid var(--border-color);transform:translateX(-100%);z-index:2000;padding:20px;display:flex;flex-direction:column}.mobile-overlay{position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,.7);opacity:0;visibility:hidden;z-index:1999;backdrop-filter:blur(2px)}.mobile-nav-list{list-style:none;padding:0;margin:20px 0}.mobile-nav-list li{margin-bottom:5px}.mobile-nav-list li a{display:block;padding:12px 15px;color:var(--text-primary);border-radius:8px;font-weight:500}.sidebar-header{display:flex;justify-content:space-between;align-items:center;padding-bottom:20px;border-bottom:1px solid var(--border-color)}@media (max-width:900px){.nav-menu{display:none}.mobile-toggle{display:block}}.adsterra-section{width:100%;background:radial-gradient(circle at center,#161b22 0,#0d1117 70%);border:1px solid var(--border-color);border-radius:12px;padding:20px 0;display:flex;flex-direction:column;align-items:center;justify-content:center;min-height:300px;contain:content;margin-bottom:20px;margin-top:20px}.ad-label{font-size:11px;color:#d4af37;text-transform:uppercase;letter-spacing:1.5px;font-weight:700;margin-bottom:12px;opacity:.9;display:flex;align-items:center;gap:6px}.ad-label::after,.ad-label::before{content:'';display:block;width:20px;height:1px;background:#d4af37;opacity:.5}.ad-frame{width:300px;height:250px;position:relative;background-color:#000;box-shadow:0 10px 30px rgba(0,0,0,.5);border:1px solid #30363d;border-radius:4px;overflow:hidden}.match-card.affiliate-card{display:flex;flex-direction:column;background:linear-gradient(145deg,#161b22,#1f252e);border:1px solid #d4af37;border-radius:12px;overflow:hidden;position:relative;text-decoration:none;color:inherit;margin-bottom:20px;width:100%}.status-badge{position:absolute;top:10px;left:10px;padding:4px 8px;border-radius:4px;font-size:11px;font-weight:800;text-transform:uppercase;z-index:2;letter-spacing:.5px;background:linear-gradient(90deg,#d4af37,#f2d06b);color:#000}.match-poster{width:100%;height:auto;aspect-ratio:16/9;object-fit:cover;background:var(--placeholder-bg);display:block}.match-info{padding:12px;display:flex;flex-direction:column}.match-title{font-size:14px;font-weight:600;margin-bottom:8px;line-height:1.4}.match-meta-row{display:flex;justify-content:space-between;font-size:12px;color:var(--text-secondary)}.match-category{text-transform:uppercase;font-weight:700;color:var(--accent-secondary)}.content-wrapper-layout{display:flex;align-items:flex-start;gap:2rem}.match-details-container{flex-grow:1;min-width:0}#match-header{margin-bottom:10px;min-height:48px;text-align:center}#match-header h1{font-size:clamp(1.5rem,3vw,2.2rem);color:var(--white);margin:0;line-height:1.3}#match-description{color:var(--text-secondary);font-size:1rem;line-height:1.6;margin:1rem 0 2rem;text-align:center}.countdown{font-family:monospace;font-size:1.3rem;margin-bottom:20px;font-weight:700;color:var(--accent-primary);text-align:center;background:var(--bg-secondary);padding:10px;border-radius:8px;border:1px solid var(--border-color);display:inline-block;width:100%}.skeleton-header{margin-bottom:1rem;border-bottom:1px solid var(--border-color);padding-bottom:10px;min-height:30px}.stream-source{background-color:var(--bg-secondary);border:1px solid #fbbf24b3;border-radius:12px;margin-bottom:1.5rem;padding:1.2rem;box-shadow:0 4px 12px var(--shadow-color)}.source-header{display:flex;justify-content:space-between;align-items:center;margin-bottom:8px}.source-name{font-size:1.4rem;font-weight:700;color:var(--white)}.source-count{font-size:.85rem;font-weight:600;color:var(--accent-red);background:rgba(229,9,20,.1);padding:4px 10px;border-radius:20px}.source-desc{display:block;margin-bottom:1.25rem;color:var(--text-secondary);font-size:.9rem}.stream-row{display:flex;justify-content:space-between;align-items:center;padding:12px 15px;background-color:var(--bg-primary);border:1px solid var(--border-color);margin:8px 0;border-radius:8px;text-decoration:none;color:var(--text-primary);gap:10px}.show-all-btn{display:block;width:100%;text-align:center;padding:12px;margin-top:1rem;background-color:var(--bg-secondary);color:var(--text-primary);border:1px solid var(--border-color);border-radius:8px;font-weight:600}.right-sidebar-wrapper{width:320px;flex-shrink:0;position:sticky;top:80px;height:fit-content}#discord-widget-container{background-color:var(--bg-secondary);border:1px solid var(--border-color);border-radius:12px;box-shadow:0 4px 12px var(--shadow-color);padding:15px}.discord-header{display:flex;justify-content:space-between;align-items:center;border-bottom:1px solid var(--border-color);padding-bottom:15px;margin-bottom:15px}.discord-header h3{font-size:1.1rem;font-weight:700;margin:0;color:var(--white)}.discord-header h3 span{color:#5865f2}.discord-header p{font-size:.85rem;color:var(--text-secondary);margin:0}.discord-btn{background-color:#5865f2;color:#fff;padding:8px 16px;border-radius:6px;font-weight:600;font-size:13px}.members-list{list-style:none;padding:0;margin:0}.members-list li{display:flex;align-items:center;margin-bottom:10px}.mobile-affiliate-wrapper{display:none;margin-bottom:2rem}.desktop-affiliate-wrapper{display:block}@media (max-width:1100px){.content-wrapper-layout{flex-direction:column;align-items:center}.right-sidebar-wrapper{width:100%;max-width:600px;position:static;margin-top:20px}.desktop-affiliate-wrapper{display:none}.mobile-affiliate-wrapper{display:block;width:100%;max-width:600px;margin:0 auto 20px}#discord-widget-container{width:100%}}@media (max-width:768px){.content-container,.fullpage{width:95%;padding:0 10px}.stream-row{padding:12px 10px;gap:8px}}footer{background:var(--bg-secondary);color:var(--text-secondary);padding:2rem 1rem;margin-top:3rem;text-align:center;border-top:1px solid var(--border-color)}#sticky-footer-ad{position:fixed;bottom:0;left:0;width:100%;background:#161b22;padding:10px;z-index:9999;border-top:1px solid var(--border-color);display:flex;justify-content:center;align-items:center;box-shadow:0 -5px 15px rgba(0,0,0,.5)}.ad-content{display:flex;align-items:center;gap:10px;color:#fff}.download-btn{background:var(--white);color:var(--bg-primary);padding:6px 16px;border-radius:20px;font-weight:700;font-size:14px;animation:1.5s infinite alternate buttonPulse}#close-ad{position:absolute;right:10px;top:50%;transform:translateY(-50%);background:#333;border-radius:50%;width:24px;height:24px;display:flex;align-items:center;justify-content:center;font-size:12px;color:#fff}.mobile-ad{display:flex}.desktop-ad{display:none}@media (min-width:769px){.mobile-ad{display:none}.desktop-ad{display:flex}}@keyframes buttonPulse{0%{transform:scale(1)}100%{transform:scale(1.05)}}@keyframes shimmer{100%{left:150%}}.skeleton{background-color:var(--bg-secondary);color:transparent;border-radius:6px;position:relative;overflow:hidden;display:inline-block}.skeleton::after{content:'';position:absolute;top:0;left:-150%;width:100%;height:100%;transform:skewX(-20deg);background-image:linear-gradient(90deg,transparent,var(--shimmer-color),transparent);animation:1.8s infinite shimmer}h1 .skeleton{height:36px;width:70%;margin-bottom:5px}p .skeleton{height:18px;width:90%;margin-bottom:8px}p .skeleton.w-60{width:60%}.member-skeleton{width:100%;display:flex;gap:10px;margin-bottom:10px}.avatar-skeleton{width:32px;height:32px;background:var(--placeholder-bg);border-radius:50%}.name-skeleton{width:120px;height:16px;background:var(--placeholder-bg);border-radius:4px;align-self:center}.is-loading>*{visibility:hidden}
+  
 </style>
+  
+</head>
+<body>
 
-		    <!-- Top Banner Advertisement END-->
-		  
-		  
-        <!-- SKELETON LOADER FOR PAGE CONTENT -->
-        <div id="match-header">
-          <h1 id="match-title"><div class="skeleton"></div></h1>
-        </div>
-  <!-- Adsterra Banner Advertisement -->
+<!-- Mobile Menu Overlay & Sidebar -->
+<div class="mobile-overlay" id="mobile-overlay"></div>
+<aside class="mobile-sidebar" id="mobile-sidebar">
+  <div class="sidebar-header">
+    <span style="font-weight: 800; font-size: 1.2rem; color: #fff;">Menu</span>
+    <button id="close-sidebar" aria-label="Close Menu" style="background:none; border:none; color: #8b949e; cursor: pointer;">
+      <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="18" y1="6" x2="6" y2="18"></line><line x1="6" y1="6" x2="18" y2="18"></line></svg>
+    </button>
+  </div>
+  <ul class="mobile-nav-list">
+    <li><a href="/">Home</a></li>
+    <li><a href="/Schedule/?popular=true" style="color: var(--accent-secondary);">Full Schedule</a></li>
+    <li><a href="/Schedule/?sport=football">Football</a></li>
+    <li><a href="/Schedule/?sport=basketball">Basketball</a></li>
+    <li><a href="/Schedule/?sport=american-football">NFL</a></li>
+    <li><a href="/Schedule/?sport=fight">UFC / MMA</a></li>
+    <li><a href="/Schedule/?sport=motor-sports">F1 / Motor</a></li>
+    <li><a href="/Schedule/?sport=baseball">MLB</a></li>
+    <li><a href="/Schedule/?sport=hockey">NHL</a></li>
+  </ul>
+</aside>
 
+<!-- Main Header -->
+<header class="main-header">
+  <div class="content-container header-inner">
+    <div class="nav-left">
+      <button class="mobile-toggle" id="mobile-toggle" aria-label="Open Menu">
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="3" y1="12" x2="21" y2="12"></line><line x1="3" y1="6" x2="21" y2="6"></line><line x1="3" y1="18" x2="21" y2="18"></line></svg>
+      </button>
+      
+      <ul class="nav-menu">
+        
+        <li><a href="/Schedule/?popular=true" style="color: var(--accent-secondary);">Full Schedule</a></li>
+        <li><a href="/Schedule/?sport=american-football">NFL</a></li>
+        <li><a href="/Schedule/?sport=basketball">NBA</a></li>
+        <li><a href="/Schedule/?sport=baseball">MLB</a></li>
+        <li><a href="/Schedule/?sport=fight">UFC</a></li>
+        <li><a href="/Schedule/?sport=motor-sports">F1</a></li>
+      </ul>
+    </div>
+    <a href="https://buffstreams.world/" class="brand-link">Buffstreams</a>
+  </div>
+</header>
 
-			<center>
-		<script type="text/javascript">
+<!-- Main Content -->
+<div class="fullpage">
+  <div class="content-wrapper-layout">
+    
+    <main class="match-details-container">
+      
+      <!-- ADSTERRA BANNER: TOP (Above Title) -->
+      <div class="adsterra-section">
+        <div class="ad-label">Sponsored Partner</div>
+        <div class="ad-frame">
+             <script type="text/javascript">
 	atOptions = {
 		'key' : 'd1173322baca5eadaaa9df8755945d20',
 		'format' : 'iframe',
@@ -110,131 +101,132 @@
 	};
 </script>
 <script type="text/javascript" src="//www.highperformanceformat.com/d1173322baca5eadaaa9df8755945d20/invoke.js"></script>
-	</center>
-			
-			<!-- Adsterra Banner Advertisement END-->
-
-		
-		  
-        <p id="match-description">
-          <span class="skeleton"></span>
-          <span class="skeleton w-60"></span>
-        </p>
-        
-        <div id="countdown-section" class="countdown hidden"></div>
-        
-        <section id="streams-section">
-          <div class="skeleton-header">
-            <div class="skeleton-button"></div>
-            <div class="skeleton-summary"></div>
-          </div>
-
-
-			
-			
-          
-          <div id="streams-container">
-              <!-- Skeleton for a stream source -->
-              <div class="stream-source is-loading">
-                  <div class="source-header">
-                      <span class="source-name">&nbsp;</span>
-                      <span class="source-count">&nbsp;</span>
-                  </div>
-                  <small class="source-desc">&nbsp;</small>
-                  <div class="stream-row"></div>
-                  <div class="stream-row"></div>
-              </div>
-          </div>
-          
-          <button id="show-all-sources-btn" class="show-all-btn hidden"></button>
-        </section>
-      </main>
-
-      <!-- DISCORD WIDGET SIDEBAR -->
-      <aside class="discord-sidebar">
-        <div id="discord-widget-container">
-          <div class="discord-header">
-              <div class="header-text">
-                  <h3>Join our <span>Discord!</span></h3>
-                  <p><span id="discord-online-count">...</span> online members</p>
-              </div>
-              <a href="#" id="discord-join-button" class="discord-btn" target="_blank" rel="noopener noreferrer">Join Now</a>
-          </div>
-          <ul id="discord-members-list" class="members-list">
-              <!-- Skeleton Loader for Members -->
-              <li class="member-skeleton"><div class="avatar-skeleton"></div><div class="name-skeleton"></div></li>
-              <li class="member-skeleton"><div class="avatar-skeleton"></div><div class="name-skeleton"></div></li>
-              <li class="member-skeleton"><div class="avatar-skeleton"></div><div class="name-skeleton"></div></li>
-              <li class="member-skeleton"><div class="avatar-skeleton"></div><div class="name-skeleton"></div></li>
-              <li class="member-skeleton"><div class="avatar-skeleton"></div><div class="name-skeleton"></div></li>
-          </ul>
         </div>
-      </aside>
-    </div>
-  </div>
+      </div>
 
-  <!-- Search Overlay -->
-  <div id="search-overlay">
-    <div class="search-overlay-content">
-      <button id="search-close">&times;</button>
-      <input type="text" id="overlay-search-input" placeholder="Search matches..." autocomplete="off">
-      <div id="overlay-search-results"></div>
-    </div>
+      <!-- PAGE TITLE -->
+      <div id="match-header">
+        <h1 id="match-title"><div class="skeleton"></div></h1>
+      </div>
+      
+      <p id="match-description">
+        <span class="skeleton"></span>
+        <span class="skeleton w-60"></span>
+      </p>
+      
+      <div id="countdown-section" class="countdown hidden"></div>
+
+      <!-- MOBILE ONLY AFFILIATE AD (Above Sources) -->
+      <div class="mobile-affiliate-wrapper">
+          <a href="#" target="_blank" rel="nofollow noopener" class="match-card affiliate-card geo-affiliate-link" aria-label="Sponsored Offer">
+            <div class="status-badge"><span>SPONSORED</span></div>
+            <img class="match-poster geo-affiliate-img" src="../test.jpg" width="444" height="250" alt="Exclusive Offer" loading="eager">
+            <div class="match-info">
+                <div class="match-title geo-affiliate-cta" style="color:#d4af37;">Join & Win Big</div>
+                <div class="match-meta-row"><span class="match-category">BETTING</span><span>Verified Offer</span></div>
+            </div>
+          </a>
+      </div>
+      
+      <section id="streams-section">
+        <div class="skeleton-header">
+          <div class="skeleton-summary"></div>
+        </div>
+        
+        <div id="streams-container">
+            <!-- Skeleton for a stream source -->
+            <div class="stream-source is-loading">
+                <div class="source-header">
+                    <span class="source-name">&nbsp;</span>
+                    <span class="source-count">&nbsp;</span>
+                </div>
+                <small class="source-desc">&nbsp;</small>
+                <div class="stream-row"></div>
+                <div class="stream-row"></div>
+            </div>
+        </div>
+        
+        <button id="show-all-sources-btn" class="show-all-btn hidden"></button>
+      </section>
+    </main>
+
+    <!-- RIGHT SIDEBAR (Sticky Wrapper for Ad + Discord) -->
+    <aside class="right-sidebar-wrapper">
+      
+      <!-- DESKTOP AFFILIATE AD -->
+      <div class="desktop-affiliate-wrapper">
+          <a href="#" target="_blank" rel="nofollow noopener" class="match-card affiliate-card geo-affiliate-link" aria-label="Sponsored Offer">
+            <div class="status-badge"><span>SPONSORED</span></div>
+            <img class="match-poster geo-affiliate-img" src="../test.jpg" width="444" height="250" alt="Exclusive Offer" loading="eager">
+            <div class="match-info">
+                <div class="match-title geo-affiliate-cta" style="color:#d4af37;">Join & Win Big</div>
+                <div class="match-meta-row"><span class="match-category">BETTING</span><span>Verified Offer</span></div>
+            </div>
+          </a>
+      </div>
+
+      <!-- DISCORD WIDGET -->
+      <div id="discord-widget-container">
+        <div class="discord-header">
+            <div class="header-text">
+                <h3>Join our <span>Discord!</span></h3>
+                <p><span id="discord-online-count">...</span> online members</p>
+            </div>
+            <a href="#" id="discord-join-button" class="discord-btn" target="_blank" rel="noopener noreferrer">Join</a>
+        </div>
+        <ul id="discord-members-list" class="members-list">
+            <li class="member-skeleton"><div class="avatar-skeleton"></div><div class="name-skeleton"></div></li>
+            <li class="member-skeleton"><div class="avatar-skeleton"></div><div class="name-skeleton"></div></li>
+        </ul>
+      </div>
+    </aside>
+
   </div>
+</div>
 
 <!-- Footer -->
 <footer>
-
-	
-  <!-- Disclaimer Section -->
   <div class="disclaimer-box">
-    <h3>Disclaimer</h3>
+    <h3>DMCA Notice</h3>
     <p>
-      We do not host or own any media content; all streams are sourced from 
-      third-party sites. We do not take any responsibility for copyright issues. 
-      Copyright concerns should be directed to the original host. We have no 
-      control over ads in embedded players and receive no revenue from them. 
-      <a href="/Disclaimer/">Learn More!</a>
+      Buffstreams functions as a search engine. We do not host, archive, store, or distribute media files. 
+      All content is provided by non-affiliated third parties.
     </p>
   </div>
-
   <ul class="footer-menu">
     <li><a href="/">Home</a></li>
+    <li><a href="/Schedule/?popular=true">Schedule</a></li>
     <li><a href="/About/">About</a></li>
     <li><a href="/Terms/">Terms</a></li>
     <li><a href="/Privacy/">Privacy</a></li>
-	  <li><a href="/Disclaimer/">Disclaimer</a></li>
-	  <li><a href="/DMCA/">DMCA</a></li>
-	  <li><a href="/Contact/">Contact Us</a></li>
+    <li><a href="/DMCA/">DMCA</a></li>
+    <li><a href="/Contact/">Contact</a></li>
   </ul>
   <p>© 2025 buffstreams.world. All rights reserved.</p>
-  </footer>
+</footer>
 
-
-
- <!-- [NEW] Sticky Ad Placeholder -->
-  <div id="sticky-ad-placeholder">
-    <div id="sticky-footer-ad">
-      <div class="ad-content"><span class="emoji">📲</span><span class="cta-text">Get App!</span><a href="https://tinyurl.com/BuffstreamsApp" class="download-btn" rel="nofollow" target="_blank">⬇ Download</a></div>
-      <span id="close-ad">&#10060;</span>
+<!-- Sticky Footer Ad Placeholder -->
+<div id="sticky-ad-placeholder">
+  <div id="sticky-footer-ad">
+    <!-- Mobile Content -->
+    <div class="ad-content mobile-ad">
+      <span class="emoji">📲</span>
+      <span class="cta-text">Get App!</span>
+      <a href="https://tinyurl.com/BuffstreamsApp" class="download-btn" rel="nofollow" target="_blank">⬇ Download</a>
     </div>
+    <!-- Desktop Content -->
+    <div class="ad-content desktop-ad">
+      <span class="emoji">📺</span>
+      <span class="cta-text">Watch on Prime!</span>
+      <a href="https://amzn.to/YOUR_LINK_HERE" class="download-btn" rel="nofollow" target="_blank" style="background: #00A8E1; color: white;">Start Free Trial</a>
+    </div>
+    <span id="close-ad">&#10060;</span>
   </div>
+</div>
 
-
+<script src="script.js" defer></script>
 </body>
 </html>
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
