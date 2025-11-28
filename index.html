@@ -3,56 +3,287 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Buffstreams Official: Watch NFL, NBA, UFC & Other Live Sports Free</title>
+  <title>Buffstreams – Watch Live Sports: NBA, NFL, Boxing, MMA, F1 & More</title>
   <meta name="description" content="Buffstreams is the official home for NFL, NBA, and UFC live streams. Watch free HD sports, check live scores, and download the app. No sign-up required.">
   <meta name="keywords" content="live sports streaming, NFL live, NBA live, cricket live, soccer live, UFC live, Buffstreams">
   <meta name="google-site-verification" content="bRb-cHDhQ15KqndO1Y2oWveVdgCtZ1rgzMO9w1j-GoE" />
   <meta content='632852759a02316e' name='yandex-verification'/>
   
+  <meta property="og:site_name" content="Buffstreams.World">
 
-   <!-- Performance Preconnects -->
-	<link rel="preconnect" href="https://www.google-analytics.com" crossorigin>
+  <link rel="preconnect" href="https://www.google-analytics.com" crossorigin>
   <link rel="preconnect" href="https://www.googletagmanager.com" crossorigin>
   <link rel="preconnect" href="https://streamed.pk" crossorigin>
+  <link rel="preconnect" href="https://topembed.pw" crossorigin>
+  <!-- Preconnect to API endpoints for faster ad loading -->
+  <link rel="preconnect" href="https://get.geojs.io" crossorigin>
+  <link rel="preconnect" href="https://api.country.is" crossorigin>
 
   <link rel="canonical" href="https://buffstreams.world/">
   <link rel="icon" href="/favicon.ico" type="image/x-icon">
+  <link rel="manifest" href="/manifest.json">
+  <meta name="theme-color" content="#0078ff">
 
-	<!-- Link to the Web App Manifest -->
-    <link rel="manifest" href="/manifest.json">
-    
-    <!-- Theme color for Chrome on Android -->
-    <meta name="theme-color" content="#0078ff">
-
- <!-- Performance: Critical CSS is inlined for instant rendering -->
+  <!-- Critical CSS & Layout Stability Styles -->
   <style>
-    :root{--bg-primary:#0d1117;--bg-secondary:#161b22;--text-primary:#c9d1d9;--text-secondary:#8b949e;--accent-primary:#3a86ff;--accent-secondary:#00b4d8;--border-color:#30363d}body{margin:0;font-family:Inter,system-ui,-apple-system,"Segoe UI",Roboto,"Helvetica Neue",Arial;background:var(--bg-primary);color:var(--text-primary);line-height:1.6}body a{color:var(--accent-primary)}header{padding:8px 20px;display:flex;justify-content:center}.main-header{background:rgba(13,17,23,0.8);backdrop-filter:blur(8px);-webkit-backdrop-filter:blur(8px);padding:10px 20px;display:flex;justify-content:center;transition:background-color .3s ease}.nav-menu{list-style:none;display:flex;gap:10px;flex-wrap:nowrap;margin:0;padding:5px 8px;justify-content:center;align-items:center}.nav-menu li.menu-item{flex-shrink:1}.nav-menu li a{color:#ade8f4;text-decoration:none;font-weight:500;padding:6px 12px;border-radius:6px;transition:.3s}main{display:block}.main-content-title{text-align:center;font-size:clamp(1.5rem,5vw,2.2rem);font-weight:700;color:#fff;margin:1.5rem 0 3rem;padding:0 1rem;letter-spacing:.5px;text-shadow:1px 1px 4px rgba(0,0,0,.6)}.nav-discord-btn a{display:flex;align-items:center;gap:.5rem;background-color:#5865F2;color:#fff!important;font-weight:600;padding:6px 14px;border-radius:6px;transition:.3s;white-space:nowrap}.search-and-schedule-container{display:flex;gap:1rem;align-items:center;margin:0 auto 3rem auto;padding:0 1rem;max-width:1400px;width:90%}.search-trigger{flex-grow:1;display:flex;align-items:center;gap:.75rem;background-color:var(--bg-secondary);padding:.8rem 1rem;border-radius:8px;border:1px solid var(--border-color);cursor:pointer;transition:all .3s ease;color:var(--text-secondary)}.search-trigger svg{width:1em;height:1em;color:var(--accent-primary);fill:currentColor}.schedule-button{flex-shrink:0;padding:.8rem 1.5rem;background-color:var(--accent-primary);color:#fff;font-weight:600;text-decoration:none;border-radius:8px;transition:background-color .3s ease;text-align:center}.categories-container{width:90%;max-width:1400px;margin:2rem auto;padding:1rem 0}.categories-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:2rem}.category-card{position:relative;overflow:hidden;display:flex;flex-direction:column;align-items:center;justify-content:center;padding:2.5rem 1.5rem;background-color:var(--bg-secondary);border-radius:16px;text-decoration:none;color:#fff;border:1px solid var(--border-color);box-shadow:0 4px 10px rgba(0,0,0,.4)}.category-card img{width:90px;height:90px;object-fit:contain;margin-bottom:1.5rem;z-index:2}.category-card span{font-size:1.25rem;font-weight:600;display:block;color:#fff;text-transform:uppercase;letter-spacing:1px;z-index:2;text-align:center}@media(max-width:768px){.nav-menu{overflow-x:auto;-webkit-overflow-scrolling:touch}.main-content-title{margin:1rem 0 2rem;font-size:1.4rem}.categories-grid{grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:1.5rem}.category-card{padding:2rem 1rem}}@media(max-width:600px){.search-and-schedule-container{flex-direction:column;align-items:stretch}}@media(max-width:480px){.categories-grid{grid-template-columns:1fr 1fr;gap:1rem}.category-card img{max-width:70px;height:70px}.category-card span{font-size:1rem}}
-  </style>
+    :root{--bg-primary:#0d1117;--bg-secondary:#161b22;--text-primary:#c9d1d9;--text-secondary:#8b949e;--accent-primary:#3a86ff;--accent-secondary:#00b4d8;--border-color:#30363d;--white:#fff}.main-header{background:rgba(13,17,23,.98);backdrop-filter:blur(10px);height:60px;display:flex;justify-content:center;border-bottom:1px solid var(--border-color);width:100%;z-index:1001;position:relative}.header-inner{width:90%;max-width:1400px;display:flex;justify-content:space-between;align-items:center;height:100%}.nav-left{display:flex;align-items:center;gap:15px}.nav-menu{list-style:none;display:flex;gap:5px;padding:0;margin:0}.nav-menu li a{color:var(--text-primary);text-decoration:none;font-weight:500;font-size:14px;padding:8px 12px;border-radius:6px}.brand-link{font-size:1.4rem;font-weight:900;color:var(--accent-primary);text-decoration:underline;}.brand-link:hover{color:var(--text-primary);}#header-placeholder{height:60px;width:100%;display:none;visibility:hidden}.skeleton-loading{background-color:var(--bg-secondary)}.mobile-toggle{display:none;background:0 0;border:none;color:var(--white);padding:5px}.mobile-toggle svg{width:24px;height:24px}
+	  .mobile-sidebar { 
+    position: fixed; 
+    top: 0; 
+    left: 0; 
+    width: 280px; 
+    height: 100vh; 
+    background: var(--bg-primary); 
+    border-right: 1px solid var(--border-color); 
+    transform: translateX(-100%); 
+    /* ADDED: Transition for smooth sliding animation */
+    transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1); 
+    z-index: 2000; 
+    padding: 20px; 
+    display: flex; 
+    flex-direction: column; 
+}
 
-  <!-- Performance: Load main stylesheet asynchronously -->
+/* ADDED: This is the missing rule that makes the menu visible */
+.mobile-sidebar.active { 
+    transform: translateX(0); 
+}
+	  .mobile-overlay{position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,.7);opacity:0;visibility:hidden;z-index:1999;backdrop-filter:blur(2px)}@media (max-width:900px){.nav-menu{display:none}.mobile-toggle{display:block}}.categories-container{width:90%;max-width:1400px;margin:2rem auto;padding:1rem 0;min-height:800px;contain:layout}.category-card{position:relative;display:flex;flex-direction:column;align-items:center;justify-content:center;padding:2.5rem 1.5rem;background-color:var(--bg-secondary);border-radius:16px;border:1px solid var(--border-color);min-height:250px}.category-card img{width:90px;height:90px;aspect-ratio:1/1;object-fit:contain;margin-bottom:1.5rem}*,::after,::before{box-sizing:border-box}:root{--bg-primary:#0d1117;--bg-secondary:#161b22;--text-primary:#c9d1d9;--text-secondary:#8b949e;--accent-primary:#3a86ff;--accent-secondary:#00b4d8;--border-color:#30363d;--white:#fff;--discord-color:#5865F2}html{overflow-y:scroll}body{margin:0;font-family:Inter,system-ui,-apple-system,"Segoe UI",Roboto,"Helvetica Neue",Arial;background:var(--bg-primary);color:var(--text-primary);line-height:1.6}body a{color:var(--accent-primary);text-decoration:none}main{display:block}.main-header{position:relative;top:0;width:100%;z-index:1001}.mobile-nav-list{list-style:none;padding:0;margin:20px 0}.mobile-nav-list li{margin-bottom:5px}.mobile-nav-list li a{display:block;padding:12px 15px;color:var(--text-primary);text-decoration:none;border-radius:8px;font-weight:500}.sidebar-header{display:flex;justify-content:space-between;align-items:center;padding-bottom:20px;border-bottom:1px solid var(--border-color)}.sidebar-footer{margin-top:auto;padding-top:20px;border-top:1px solid var(--border-color)}.sidebar-schedule-btn{display:block;width:100%;text-align:center;background:var(--accent-primary);color:#fff;padding:10px;border-radius:8px;font-weight:600;text-decoration:none}.discord-cta-container{width:90%;max-width:1400px;margin:1.5rem auto 1.5rem;padding:0 1rem;min-height:84px;contain:layout style}.discord-full-banner{display:flex;align-items:center;justify-content:space-between;background:var(--bg-secondary);border:1px solid #404eed;padding:1rem 1.5rem;border-radius:12px;color:var(--white);text-decoration:none;box-shadow:0 4px 12px rgba(88,101,242,.15);height:100%}.discord-content{display:flex;align-items:center;gap:15px;font-weight:600;font-size:1.1rem}.discord-arrow{font-size:1.5rem;color:#404eed}#sticky-ad-placeholder{display:none;height:44px}.search-and-schedule-container{display:flex;gap:1rem;align-items:center;margin:0 auto 3rem;padding:0 1rem;max-width:1400px;width:90%;min-height:54px;contain:layout}.search-trigger{flex-grow:1;display:flex;align-items:center;gap:.75rem;background-color:var(--bg-secondary);padding:.8rem 1rem;border-radius:8px;border:1px solid var(--border-color);color:var(--text-secondary);height:100%}.search-trigger svg{width:1em;height:1em;color:var(--accent-primary);fill:currentColor}.schedule-button{flex-shrink:0;padding:.8rem 1.5rem;background-color:var(--accent-primary);color:var(--white);font-weight:600;text-decoration:none;border-radius:8px;text-align:center;height:100%;display:flex;align-items:center}.categories-container{width:90%;max-width:1400px;margin:2rem auto;padding:1rem 0;content-visibility:auto;min-height:800px}.categories-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:2rem}.category-card{position:relative;overflow:hidden;display:flex;flex-direction:column;align-items:center;justify-content:center;padding:2.5rem 1.5rem;background-color:var(--bg-secondary);border-radius:16px;text-decoration:none;color:var(--white);border:1px solid var(--border-color);box-shadow:0 4px 10px rgba(0,0,0,.4);min-height:250px}.category-card::before{content:'';position:absolute;top:0;left:0;right:0;bottom:0;border-radius:16px;background:radial-gradient(circle at 50% 0,rgba(58,134,255,.25),transparent 70%);opacity:0;z-index:1}.category-card img{width:90px;height:90px;aspect-ratio:1/1;object-fit:contain;margin-bottom:1.5rem;filter:drop-shadow(0 4px 8px rgba(0,0,0,.5));z-index:2}.category-card span{font-size:.9rem;font-weight:600;display:block;color:var(--white);text-transform:uppercase;letter-spacing:1px;z-index:2;text-align:center}@media (max-width:768px){.categories-grid{grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:1.5rem}.category-card{padding:2rem 1rem;min-height:200px}.search-and-schedule-container{flex-direction:column;align-items:stretch}.discord-full-banner{padding:.8rem 1rem}.discord-content{font-size:.95rem}}@media (max-width:480px){.categories-grid{grid-template-columns:1fr 1fr;gap:1rem}.category-card img{width:70px;height:70px;max-width:70px}.category-card span{font-size:.55rem}}
+
+    /* --- Affiliate Offer Styles (Professional Betting/Casino Theme) --- */
+    .affiliate-wrapper {
+      width: 90%;
+      max-width: 1400px;
+      margin: 0 auto 1.5rem; /* Positioned: Below Discord, Above Search */
+      padding: 0 1rem;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      /* Min-height prevents CLS (Layout Shift) while API loads */
+      min-height: 290px; 
+      contain: layout;
+    }
+    .affiliate-card {
+      background: linear-gradient(145deg, #1c232e, #11151c);
+      border: 1px solid #d4af37; /* Gold border for trust & premium feel */
+      border-radius: 12px;
+      padding: 15px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5), 0 0 10px rgba(212, 175, 55, 0.1);
+      transition: transform 0.2s ease, box-shadow 0.2s ease;
+      text-decoration: none;
+      position: relative;
+      max-width: 100%;
+    }
+    .affiliate-card:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 6px 25px rgba(0, 0, 0, 0.6), 0 0 15px rgba(212, 175, 55, 0.2);
+    }
+    .aff-image {
+      width: 300px;
+      height: 250px;
+      object-fit: cover;
+      border-radius: 6px;
+      display: block;
+      background-color: var(--bg-secondary); /* Placeholder while loading */
+    }
+    /* Smart CTA Button styling */
+    .aff-cta-btn {
+      margin-top: 12px;
+      background: linear-gradient(90deg, #d4af37, #f2d06b);
+      color: #0d1117;
+      font-weight: 800;
+      text-transform: uppercase;
+      padding: 10px 24px;
+      border-radius: 6px;
+      font-size: 0.95rem;
+      letter-spacing: 0.5px;
+      text-align: center;
+      width: 100%;
+      max-width: 300px;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+    }
+    .aff-cta-btn span {
+      position: relative;
+      z-index: 2;
+    }
+    @media (max-width: 400px) {
+      .aff-image {
+        width: 100%;
+        height: auto;
+        aspect-ratio: 300/250;
+      }
+    }
+
+
+	  /* =========================
+   RECENT ARTICLES SECTION
+========================= */
+
+.recent-articles {
+  margin-top: 50px;
+  padding: 25px 20px;
+  background: linear-gradient(135deg, #0f172a, #020617);
+  border-radius: 14px;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.4);
+  max-width: 100%;
+}
+
+/* Section Title */
+.recent-articles .section-title {
+  font-size: 22px;
+  font-weight: 700;
+  color: #ffffff;
+  margin-bottom: 20px;
+  padding-bottom: 10px;
+  border-bottom: 2px solid #3b82f6;
+  letter-spacing: 0.5px;
+}
+
+/* Article Container */
+.recent-articles .article-link {
+  margin-bottom: 12px;
+}
+
+/* Article Link Design */
+.recent-articles .article-link a {
+  display: flex;
+  align-items: center;
+  padding: 14px 16px;
+  background: #020617;
+  border-radius: 10px;
+  color: #e5e7eb;
+  text-decoration: none;
+  font-size: 16px;
+  font-weight: 500;
+  transition: all 0.3s ease;
+  border: 1px solid rgba(255,255,255,0.05);
+}
+
+/* Hover Effect */
+.recent-articles .article-link a:hover {
+  background: #2563eb;
+  color: #ffffff;
+  transform: translateX(6px);
+  box-shadow: 0 5px 20px rgba(37,99,235,0.5);
+}
+
+/* =========================
+   RESPONSIVE DESIGN
+========================= */
+
+/* Tablets */
+@media (max-width: 768px) {
+  .recent-articles {
+    padding: 20px 16px;
+  }
+
+  .recent-articles .section-title {
+    font-size: 20px;
+  }
+
+  .recent-articles .article-link a {
+    font-size: 15px;
+    padding: 12px 14px;
+  }
+}
+
+/* Mobile Devices */
+@media (max-width: 480px) {
+  .recent-articles {
+    padding: 18px 14px;
+    border-radius: 12px;
+  }
+
+  .recent-articles .section-title {
+    font-size: 18px;
+    text-align: center;
+  }
+
+  .recent-articles .article-link a {
+    font-size: 14px;
+    padding: 11px 12px;
+  }
+}
+
+	  
+  </style>
+<link rel="preload" as="image" href="test.jpg" fetchpriority="high">
   <link rel="preload" href="style.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
   <noscript><link rel="stylesheet" href="style.css"></noscript>
   
-
+  
 </head>
 <body>
 
-<!-- Header Menus -->
-<header class="main-header">
-  <ul class="nav-menu">
-    <li class="menu-item"><a href="/Schedule/#/American-football">NFL</a></li>
-    <li class="menu-item"><a href="/Schedule/#/Basketball">NBA</a></li>
-    <li class="menu-item"><a href="/Schedule/#/Baseball">MLB</a></li>
-    <li class="menu-item"><a href="/Schedule/#/Fight">UFC</a></li>
-    <li class="menu-item"><a href="/Schedule/#/Motor-sports">F1</a></li>
-    <li class="nav-discord-btn"><a id="discord-join-link" href="#" target="_blank" rel="noopener noreferrer">Join Discord</a></li>
+<!-- Mobile Menu Overlay & Sidebar -->
+<div class="mobile-overlay" id="mobile-overlay"></div>
+<aside class="mobile-sidebar" id="mobile-sidebar">
+  <div class="sidebar-header">
+    <span style="font-weight: 800; font-size: 1.2rem; color: #fff;">Menu</span>
+    <button id="close-sidebar" style="background:none; border:none; color: #8b949e; cursor: pointer;">
+      <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="18" y1="6" x2="6" y2="18"></line><line x1="6" y1="6" x2="18" y2="18"></line></svg>
+    </button>
+  </div>
+  <ul class="mobile-nav-list">
+    <li><a href="/Schedule/?sport=football">Football</a></li>
+    <li><a href="/Schedule/?sport=basketball">Basketball</a></li>
+    <li><a href="/Schedule/?sport=american-football">NFL</a></li>
+    <li><a href="/Schedule/?sport=fight">UFC / MMA</a></li>
+    <li><a href="/Schedule/?sport=motor-sports">F1 / Motor</a></li>
+    <li><a href="/Schedule/?sport=baseball">MLB</a></li>
+    <li><a href="/Schedule/?sport=hockey">NHL</a></li>
   </ul>
+  <div class="sidebar-footer">
+    <a href="/Schedule/?popular=true" class="sidebar-schedule-btn">View Full Schedule</a>
+  </div>
+</aside>
+
+<!-- Header Placeholder -->
+<div id="header-placeholder"></div>
+
+<!-- Main Header -->
+<header class="main-header" id="main-header">
+  <div class="header-inner">
+    <div class="nav-left">
+      <button class="mobile-toggle" id="mobile-toggle" aria-label="Open Menu">
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="3" y1="12" x2="21" y2="12"></line><line x1="3" y1="6" x2="21" y2="6"></line><line x1="3" y1="18" x2="21" y2="18"></line></svg>
+      </button>
+      
+      <ul class="nav-menu">
+        <li><a href="/Schedule/?sport=american-football" title="Watch NFL Streams">NFL</a></li>
+        <li><a href="/Schedule/?sport=basketball" title="Watch NBA Streams">NBA</a></li>
+        <li><a href="/Schedule/?sport=baseball" title="Watch MLB Streams">MLB</a></li>
+        <li><a href="/Schedule/?sport=fight" title="Watch UFC Streams">UFC</a></li>
+        <li><a href="/Schedule/?sport=motor-sports" title="Watch F1 Streams">F1</a></li>
+        <li><a href="/Schedule/?sport=hockey" title="Watch NHL Streams">NHL</a></li>
+      </ul>
+    </div>
+
+    <a href="https://buffstreams.world/" class="brand-link" title="Buffstreams Home">Buffstreams</a>
+  </div>
 </header>
 
 <main>
-  <h1 class="main-content-title" id="main-title">Welcome to Buffstreams: The #1 American Sports Hub</h1>
+  <!-- Discord Banner -->
+  <div class="discord-cta-container">
+    <a id="discord-join-link" href="#" target="_blank" rel="noopener noreferrer" class="discord-full-banner skeleton-loading">
+      <div class="discord-content">
+        <svg width="24" height="24" viewBox="0 0 127 96" fill="#fff"><path d="M107.7,8.07A105.15,105.15,0,0,0,81.47,0a72.06,72.06,0,0,0-3.36,6.83A97.68,97.68,0,0,0,49,6.83,72.37,72.37,0,0,0,45.64,0,105.89,105.89,0,0,0,19.39,8.09C2.79,32.65-1.71,56.6.54,80.21h0A105.73,105.73,0,0,0,32.71,96.36,77.11,77.11,0,0,0,39.6,85.25a68.42,68.42,0,0,1-10.85-5.18c.91-.66,1.8-1.34,2.66-2a75.57,75.57,0,0,0,64.32,0c.87.71,1.76,1.39,2.66,2a68.68,68.68,0,0,1-10.87,5.19,77,77,0,0,0,6.89,11.1A105.89,105.89,0,0,0,126.6,80.22c1.24-18.87-3.6-43.05-18.9-72.15ZM42.45,65.69C36.18,65.69,31,60,31,53s5-12.74,11.43-12.74S54,46,53.89,53,48.84,65.69,42.45,65.69Zm42.24,0C78.41,65.69,73.25,60,73.25,53s5-12.74,11.44-12.74S96.23,46,96.12,53,91.08,65.69,84.69,65.69Z"/></svg>
+        <span>Join Discord Community!</span>
+      </div>
+      <span class="discord-arrow">&rarr;</span>
+    </a>
+  </div>
 
-  <!-- Search Bar and Schedule Button -->
+  <!-- Dynamic Geo-Targeted Affiliate Section -->
+  <div id="dynamic-offer-container" class="affiliate-wrapper">
+    <!-- Content injected via Script below -->
+  </div>
+
+  <!-- Search & Schedule -->
   <div class="search-and-schedule-container">
     <div class="search-trigger" id="search-trigger">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M416 208c0 45.9-14.9 88.3-40 122.7L502.6 457.4c12.5 12.5 12.5 32.8 0 45.3s-32.8 12.5-45.3 0L330.7 376c-34.4 25.2-76.8 40-122.7 40C93.1 416 0 322.9 0 208S93.1 0 208 0S416 93.1 416 208zM208 352a144 144 0 1 0 0-288 144 144 0 1 0 0 288z"/></svg>
@@ -61,118 +292,112 @@
     <a href="/Schedule/?popular=true" class="schedule-button">Full Schedule</a>
   </div>
 
-  <!-- Category Grid -->
+  <!-- Categories -->
   <section class="categories-container">
     <div class="categories-grid">
-      <a href="/Schedule/#/basketball" class="category-card"><img src="./Images/Basketball.webp" alt="Basketball Logo" loading="eager" fetchpriority="high" width="90" height="90" decoding="async"><span>Basketball</span></a>
-      <a href="/Schedule/#/football" class="category-card"><img src="./Images/Football.webp" alt="Football Logo" loading="eager" fetchpriority="high" width="90" height="90" decoding="async"><span>Football</span></a>
-      <a href="/Schedule/#/american-football" class="category-card"><img src="./Images/American-football.webp" alt="American Football Logo" loading="eager" fetchpriority="high" width="90" height="90" decoding="async"><span>American Football</span></a>
-      <a href="/Schedule/#/hockey" class="category-card"><img src="./Images/Hockey.webp" alt="Hockey Logo" loading="eager" fetchpriority="high" width="90" height="90" decoding="async"><span>Hockey</span></a>
-      <a href="/Schedule/#/baseball" class="category-card"><img src="./Images/Baseball.webp" alt="Baseball Logo" loading="lazy" width="90" height="90"><span>Baseball</span></a>
-      <a href="/Schedule/#/motor-sports" class="category-card"><img src="./Images/Motor-sport.webp" alt="Motor-sports Logo" loading="lazy" width="90" height="90"><span>Motor-sports</span></a>
-      <a href="/Schedule/#/fight" class="category-card"><img src="./Images/Fight.webp" alt="Fight (UFC, Boxing) Logo" loading="lazy" width="90" height="90"><span>Fight</span></a>
-      <a href="/Schedule/#/tennis" class="category-card"><img src="./Images/Tennis.webp" alt="Tennis Logo" loading="lazy" width="90" height="90"><span>Tennis</span></a>
-      <a href="/Schedule/#/rugby" class="category-card"><img src="./Images/Rugby.webp" alt="Rugby Logo" loading="lazy" width="90" height="90"><span>Rugby</span></a>
-      <a href="/Schedule/#/golf" class="category-card"><img src="./Images/Golf.webp" alt="Golf Logo" loading="lazy" width="90" height="90"><span>Golf</span></a>
-      <a href="/Schedule/#/billiards" class="category-card"><img src="./Images/Billiards.webp" alt="Billiards Logo" loading="lazy" width="90" height="90"><span>Billiards</span></a>
-      <a href="/Schedule/#/afl" class="category-card"><img src="./Images/AFL.webp" alt="AFL Logo" loading="lazy" width="90" height="90"><span>AFL</span></a>
-      <a href="/Schedule/#/darts" class="category-card"><img src="./Images/Darts.webp" alt="Darts Logo" loading="lazy" width="90" height="90"><span>Darts</span></a>
-      <a href="/Schedule/#/cricket" class="category-card"><img src="./Images/Cricket.webp" alt="Cricket Logo" loading="lazy" width="90" height="90"><span>Cricket</span></a>
-      <a href="/Schedule/#/other" class="category-card"><img src="./Images/Other.webp" alt="Other Logo" loading="lazy" width="90" height="90"><span>Other</span></a>
+       <a href="/Schedule/?sport=basketball" class="category-card"><img src="./Images/Basketball.webp" alt="Basketball Logo" fetchpriority="high" width="90" height="90" decoding="async"><span>Basketball</span></a>
+       <a href="/Schedule/?sport=football" class="category-card"><img src="./Images/Football.webp" alt="Football Logo" fetchpriority="high" width="90" height="90" decoding="async"><span>Football</span></a>
+       <a href="/Schedule/?sport=american-football" class="category-card"><img src="./Images/American-football.webp" alt="American Football Logo" fetchpriority="high" width="90" height="90" decoding="async"><span>American Football</span></a>
+       <a href="/Schedule/?sport=hockey" class="category-card"><img src="./Images/Hockey.webp" alt="Hockey Logo" fetchpriority="high" width="90" height="90" decoding="async"><span>Hockey</span></a>
+       <a href="/Schedule/?sport=baseball" class="category-card"><img src="./Images/Baseball.webp" alt="Baseball Logo" loading="lazy" width="90" height="90" decoding="async"><span>Baseball</span></a>
+       <a href="/Schedule/?sport=motor-sports" class="category-card"><img src="./Images/Motor-sport.webp" alt="Motor-sports Logo" loading="lazy" width="90" height="90" decoding="async"><span>Motor-sports</span></a>
+       <a href="/Schedule/?sport=fight" class="category-card"><img src="./Images/Fight.webp" alt="Fight (UFC, Boxing) Logo" loading="lazy" width="90" height="90" decoding="async"><span>Fight</span></a>
+       <a href="/Schedule/?sport=tennis" class="category-card"><img src="./Images/Tennis.webp" alt="Tennis Logo" loading="lazy" width="90" height="90" decoding="async"><span>Tennis</span></a>
+       <a href="/Schedule/?sport=rugby" class="category-card"><img src="./Images/Rugby.webp" alt="Rugby Logo" loading="lazy" width="90" height="90" decoding="async"><span>Rugby</span></a>
+       <a href="/Schedule/?sport=golf" class="category-card"><img src="./Images/Golf.webp" alt="Golf Logo" loading="lazy" width="90" height="90" decoding="async"><span>Golf</span></a>
+       <a href="/Schedule/?sport=billiards" class="category-card"><img src="./Images/Billiards.webp" alt="Billiards Logo" loading="lazy" width="90" height="90" decoding="async"><span>Billiards</span></a>
+       <a href="/Schedule/?sport=afl" class="category-card"><img src="./Images/AFL.webp" alt="AFL Logo" loading="lazy" width="90" height="90" decoding="async"><span>AFL</span></a>
+       <a href="/Schedule/?sport=darts" class="category-card"><img src="./Images/Darts.webp" alt="Darts Logo" loading="lazy" width="90" height="90" decoding="async"><span>Darts</span></a>
+       <a href="/Schedule/?sport=cricket" class="category-card"><img src="./Images/Cricket.webp" alt="Cricket Logo" loading="lazy" width="90" height="90" decoding="async"><span>Cricket</span></a>
+       <a href="/Schedule/?sport=other" class="category-card"><img src="./Images/Other.webp" alt="Other Logo" loading="lazy" width="90" height="90" decoding="async"><span>Other</span></a>
     </div>
   </section>
 
-  <!-- NEW MODERN ARTICLE SECTION -->
+  
+  
+  <!-- Content -->
   <article class="article-container">
+
+	  <!-- Title -->
+  <h1 class="main-content-title" id="main-title">Buffstreams – Watch Live Sports: NBA, NFL, Boxing, MMA, F1 & More</h1>
+	  
     <p>Are you a passionate sports fan looking for the definitive home for the NFL, NBA, and UFC? Welcome to Buffstreams, the premier destination for live sports streaming and real-time match data.</p>
+    <p>While other sites offer broken links and buffering, Buffstreams has evolved. We provide a seamless, high-definition experience tailored specifically for the US audience.</p>
+    
+    <h2>Why American Fans Choose Buffstreams</h2>
+    <h3>1. Unmatched NFL & NBA Coverage</h3>
+    <p>We don't just cover sports; we cover your sports. From NFL Sunday Ticket to NBA League Pass, we have it all.</p>
+    <h3>2. The Buffstreams App & Mobile Experience</h3>
+    <p>Streaming on a browser can be frustrating. That is why we optimized our platform for mobile performance. iOS and Android ready.</p>
+    <h3>3. Real-Time Stats and "Live" Data</h3>
+    <p>We act as a comprehensive sports data hub, providing live scores, team lineups, and real-time odds alongside the visual stream.</p>
+    <h3>4. HD Quality, Minimal Lag</h3>
+    <p>We utilize advanced adaptive bitrate technology suitable for fast US 5G/Fiber connections.</p>
+    
+    <h2>What You Can Watch on Buffstreamz</h2>
+    <ul>
+        <li>American Football: NFL Regular Season, Playoffs, and the Super Bowl.</li>
+        <li>Basketball: NBA, WNBA, and NCAA March Madness.</li>
+        <li>Combat Sports: UFC, Bellator MMA, and PPV Boxing.</li>
+        <li>Baseball: Full MLB Season coverage including the World Series.</li>
+        <li>Motorsports: Formula 1 (F1), NASCAR, and IndyCar.</li>
+        <li>Global Sports: Premier League, Champions League, Tennis, Cricket.</li>
+    </ul>
 
-<p>While other sites offer broken links and buffering, Buffstreams has evolved. We provide a seamless, high-definition experience tailored specifically for the US audience. From the first kickoff of the NFL season to the final buzzer of March Madness, we bring you closer to the action than ever before.</p>
+    <h2>Frequently Asked Questions (FAQ)</h2>
+    <h3>Is Buffstreams free to use?</h3>
+    <p>Yes. Buffstreams is a community-supported platform.</p>
+    <h3>Do I need to sign up?</h3>
+    <p>No. We believe in privacy. No account required.</p>
+    <h3>Is there a Buffstreams App?</h3>
+    <p>We offer a specialized Android APK for users who prefer an app experience.</p>
 
-<h2>Why American Fans Choose Buffstreams</h2>
-<p>In a crowded market of streaming sites, Buffstreams stands out as the market leader in the USA. Here is why millions of users trust us for their game-day experience:</p>
+	  <div class="recent-articles">
+		  <div class="section-title">Recent Articles</div>
+		  <div class="article-link">
+			  <a href="/blog/Is-Hesgoal-Back/">Is Hesgoal Back? The Truth About the New .com and .tv Clones</a>
+		  </div>
+		  <div class="article-link">
+			  <a href="/blog/Is-NFLBITE-Down/">Is NFLBITE Down? Here is the Official Reddit Backup List & Fixes</a>
+		  </div>
+		  <div class="article-link">
+			  <a href="/blog/Sportsurge-Not-Working/">Sportsurge Not Working? 5 Best Ways to Fix It or Watch Live Sports Instantly</a>
+		  </div>
+		  <div class="article-link">
+			  <a href="/blog/Streameast-Down/">Streameast Down? The Official Domain List (.to, .xyz, .app)</a>
+		  </div>
+		  <div class="article-link">
+			  <a href="/blog/Totalsportek-Premier-League-Streams/">Totalsportek Premier League Streams: How to Watch 3pm Kickoffs Free</a>
+		  </div>
+	  </div>
 
-<h3>1. Unmatched NFL & NBA Coverage</h3>
-<p>We don't just cover sports; we cover your sports.</p>
-<ul>
-    <li>NFL Sunday Ticket: Watch every touchdown from every game, with no blackouts.</li>
-    <li>NBA League Pass: Follow your team from the regular season through to the NBA Finals.</li>
-    <li>UFC Fight Nights: Get front-row access to every Main Card and Prelim event.</li>
-    <li>NCAA College Sports: deeply integrated coverage of College Football and Basketball.</li>
-</ul>
-
-<h3>2. The Buffstreams App & Mobile Experience</h3>
-<p>Streaming on a browser can be frustrating. That is why we optimized our platform for mobile performance.</p>
-<ul>
-    <li>Android & iOS Ready: Our responsive design works flawlessly on iPhones and Android devices.</li>
-    <li>Chromecast & Airplay Support: Don't watch on a small screen. Cast our high-quality streams directly to your Smart TV using our integrated player features.</li>
-</ul>
-
-<h3>3. Real-Time Stats and "Live" Data</h3>
-<p>Buffstreamz isn't just about video; it's about information. We act as a comprehensive sports data hub, providing live scores, team lineups, and real-time odds alongside the visual stream. You can track the stats while you watch the game.</p>
-
-<h3>4. HD Quality, Minimal Lag</h3>
-<p>We utilize advanced adaptive bitrate technology. This means if you are on a fast US connection (5G or Fiber), you get crystal clear 1080p HD. If you are on a mobile data connection, the stream optimizes to ensure you don't buffer during the critical moments.</p>
-
-<h2>What You Can Watch on Buffstreamz</h2>
-<p>We have organized our schedule to prioritize the biggest events in the US calendar:</p>
-<ul>
-    <li>American Football: NFL Regular Season, Playoffs, and the Super Bowl.</li>
-    <li>Basketball: NBA, WNBA, and NCAA March Madness.</li>
-    <li>Combat Sports: UFC, Bellator MMA, and PPV Boxing (Canelo, Fury, Joshua).</li>
-    <li>Baseball: Full MLB Season coverage including the World Series.</li>
-    <li>Motorsports: Formula 1 (F1), NASCAR, and IndyCar.</li>
-    <li>Global Sports: Premier League Soccer, Champions League, Tennis, and yes, even International Cricket.</li>
-</ul>
-
-<h2>Frequently Asked Questions (FAQ)</h2>
-
-<h3>Is Buffstreams free to use?</h3>
-<p>Yes. Buffstreams is a community-supported platform. We provide free access to live streams and sports data to ensure every fan can support their team, regardless of their budget.</p>
-
-<h3>Do I need to sign up?</h3>
-<p>No. We believe in privacy and ease of access. You do not need to create an account, share your email, or provide credit card details to use Buffstreams.</p>
-
-<h3>How do I watch on my TV?</h3>
-<p>Open Buffstreams on your mobile device. In the video player, look for the "Cast" icon. Click it and select your Roku, Chromecast, or Apple TV device to beam the game to your big screen.</p>
-
-<h3>Is there a Buffstreams App?</h3>
-<p>We offer a specialized Android APK for users who prefer an app experience. You can find the safe download link in our site footer.</p>
-
-<h2>Experience the New Buffstreams Today</h2>
-<p>Stop searching for unreliable alternatives. Whether you are a die-hard Chiefs fan, a Lakers loyalist, or a UFC addict, Buffstreams is your ultimate destination.</p>
-<p>Reliable. High Definition. Free.</p>
-<p>Start streaming now and never miss a moment.</p>
+	  
   </article>
 </main>
 
-<!-- Footer -->
 <footer>
   <div class="disclaimer-box">
     <h3>DMCA Notice & Content Compliance</h3>
 	  <p><b>Digital Millennium Copyright Act (DMCA) Policy</b></p>
 	  <p>Buffstreams functions as a search engine and information directory. We are fully compliant with the Digital Millennium Copyright Act (DMCA).</p>
 	  <p><b>1. Content Hosting</b></p>
-	  <p>Buffstreams.world acts as a conduit service provider. We do not host, archive, store, or distribute media files of any kind. All media content found on this domain is hosted by third-party, non-affiliated providers (such as various live streaming video hosts) that are publicly accessible via the internet.</p>
+	  <p>Buffstreams.world acts as a conduit service provider. We do not host, archive, store, or distribute media files of any kind.</p>
 	  <p><b>2. Third-Party Links</b></p>
-	  <p>This website strictly acts as a directory of information. We utilize standard web crawling and indexing techniques to find links already available on the public web. The owners and administrators of Buffstreams have no control over the content, copyright compliance, or legality of the streams found on third-party websites.</p>
+	  <p>This website strictly acts as a directory of information utilizing standard web crawling.</p>
 	  <p><b>3. Copyright Infringement Claims</b></p>
-	  <p>We respect the intellectual property rights of rights holders. If you are a copyright owner or an agent thereof and believe that any content on our directory infringes upon your copyrights, please contact the original hosting provider for immediate removal. Additionally, you may submit a formal DMCA takedown request to our abuse team, and we will expedite the removal of the specific embedded link from our search index in accordance with US Law.</p>
+	  <p>If you believe content infringes upon your copyrights, please contact the original hosting provider or submit a formal DMCA takedown request to our abuse team.</p>
 	  <p><b>4. User Responsibility</b></p>
-	  <p>By using this platform, users acknowledge that they are responsible for ensuring that their access to digital content complies with the laws and regulations of their local jurisdiction.<li><a href="/Disclaimer/"> Learn More!</a></li></p>
-    
+	  <p>Users are responsible for ensuring that their access to digital content complies with local laws.</p>
   </div>
 
-	<!-- New Partners/Keywords Menu -->
-    <ul class="partners-menu">
+  <ul class="partners-menu">
       <li><a href="https://buffstreams.world/">Buffstreams</a></li>
       <li><a href="https://sportsurge.shop/">Sportsurge</a></li>
       <li><a href="https://nflbite.top/">Nflbite</a></li>
       <li><a href="https://streameastv2.world/">Streameast</a></li>
       <li><a href="https://totalsportek.top/">Totalsportek</a></li>
-		<li><a href="https://hesgoal.guru/">Hesgoal</a></li>
-    </ul>
-
-
+      <li><a href="https://hesgoal.guru/">Hesgoal</a></li>
+  </ul>
 	
   <ul class="footer-menu">
     <li><a href="/">Home</a></li>
@@ -186,83 +411,170 @@
   <p>© 2025 buffstreams.world. All rights reserved.</p>
 </footer>
 
-<!-- [NEW] Sticky Ad Placeholder -->
-  <div id="sticky-ad-placeholder">
-    <div id="sticky-footer-ad">
-      <div class="ad-content"><span class="emoji">📲</span><span class="cta-text">Get App!</span><a href="https://tinyurl.com/BuffstreamsApp" class="download-btn" rel="nofollow" target="_blank">⬇ Download</a></div>
-      <span id="close-ad">&#10060;</span>
-    </div>
-  </div>
-
-<!-- Search Overlay -->
-<div class="search-overlay" id="search-overlay">
-  <div class="search-overlay-content">
-    <button class="close-search-btn" id="close-search-btn" aria-label="Close Search">
-      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512" style="width: 0.75em; height: 1em;"><path fill="currentColor" d="M342.6 150.6c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0L192 210.7 86.6 105.4c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3L146.7 256 41.4 361.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0L192 301.3 297.4 406.6c12.5 12.5 32.8 12.5 45.3 0s12.5-32.8 0-45.3L237.3 256 342.6 150.6z"/></svg>
-    </button>
-    <div class="search-input-container">
-      <input type="text" id="search-input" placeholder="Start typing to find any match..." autocomplete="off">
-    </div>
-    <div class="search-results-container" id="search-results-container">
-      <div class="search-placeholder">
-        <p>Find live matches by team, sport, or title.</p>
-      </div>
-    </div>
-  </div>
-</div>
+<!-- Sticky Ad Container -->
+<div id="sticky-ad-placeholder"></div>
 
 <script src="script.js" defer></script>
-<!-- Note: The mobiledetectscript.js is loaded dynamically via the main script.js -->
+<script src="bookmark-prompt.js" defer></script>
 
-	<script src="bookmark-prompt.js" defer></script>
+<script defer>
+  if ('serviceWorker' in navigator) {
+    window.addEventListener('load', () => {
+      navigator.serviceWorker.register('/sw.js').catch(err => console.log('SW failed', err));
+    });
+  }
+</script>
 
-	<!-- ... your page content ... -->
-
-    <script defer>
-      // Register the service worker
-      if ('serviceWorker' in navigator) {
-        window.addEventListener('load', () => {
-          navigator.serviceWorker.register('/sw.js').then(registration => {
-            console.log('ServiceWorker registration successful with scope: ', registration.scope);
-          }, err => {
-            console.log('ServiceWorker registration failed: ', err);
-          });
-        });
+<!-- Dynamic Affiliate Offer Script (Triple Logic: Specific > Global > Technical Fallback) -->
+<script>
+  (function() {
+    // =================================================================
+    // 1. CONFIGURATION
+    // =================================================================
+    
+    // LISTED COUNTRIES (Tier 1)
+    const specificOffers = {
+      'US': { 
+        img: '/Images/webpartnarsUSA.webp', 
+        link: 'https://record.webpartners.co/_QUm2k2WIfIruiHimTOg2YWNd7ZgqdRLk/1/',
+        cta: 'Claim Up To $2000' 
+      },
+      'GB': { 
+        img: '/Images/1winGreece.webp', 
+        link: 'https://www.effectivegatecpm.com/mwvtqzkj?key=daf26372fb52174ce25eca816951dd61',
+        cta: 'Bet £10 Get £30' 
+      },
+      'CA': { 
+        img: '/Images/BetssonCanada.webp', 
+        link: 'https://record.betsson.com/_Ipto0Q-i5zSwcAgXsjz1uGNd7ZgqdRLk/1/',
+        cta: 'Get $500 Free Bet' 
+      },
+      'GR': { 
+        img: '/Images/1winGreece.webp', // Using Canada Image
+        link: 'https://1wksrw.com/betting?open=register&p=xctu',
+        cta: 'Claim Bonus Now' 
       }
-    </script>
+    };
 
-	<!-- [ADD THIS] New, faster delayed Google Analytics loader -->
-  <script>
-    const GTAG_ID = 'G-XTE70X7LT6';
-    let gtagLoaded = false;
-    function loadGtag() {
-      if (gtagLoaded) return;
-      gtagLoaded = true;
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){ dataLayer.push(arguments); }
-      gtag('js', new Date());
-      gtag('config', GTAG_ID);
-      const script = document.createElement('script');
-      script.src = `https://www.googletagmanager.com/gtag/js?id=${GTAG_ID}`;
-      script.async = true;
-      document.head.appendChild(script);
-      ['scroll', 'mousemove', 'touchstart'].forEach(type => {
-        window.removeEventListener(type, loadGtag);
-      });
+    // GLOBAL OFFER (Tier 2)
+    // Shown to countries NOT in the list above (e.g. France, Japan)
+    const globalOffer = {
+      img: '/Images/1winGreece.webp', 
+      link: 'https://1wksrw.com/betting?open=register&p=xctu',
+      cta: 'Join & Win Big' 
+    };
+
+    // TECHNICAL FALLBACK (Tier 3)
+    // Shown if API fails, is blocked, or user is offline
+    const technicalFallbackOffer = {
+      img: '/Images/1winGreece.webp', 
+      link: 'https://www.effectivegatecpm.com/mwvtqzkj?key=daf26372fb52174ce25eca816951dd61',
+      cta: 'Play Now' 
+    };
+
+    const container = document.getElementById('dynamic-offer-container');
+
+    // =================================================================
+    // 2. RENDER FUNCTION
+    // =================================================================
+    function renderOffer(data) {
+      if (!container) return;
+      
+      const html = `
+        <a href="${data.link}" target="_blank" rel="nofollow noopener" class="affiliate-card" aria-label="Exclusive Betting Offer">
+          <img src="${data.img}" alt="Sports Bonus" class="aff-image" width="300" height="250" loading="eager">
+          <div class="aff-cta-btn">
+             <span>${data.cta}</span>
+          </div>
+        </a>
+      `;
+      container.innerHTML = html;
     }
-    window.addEventListener('scroll', loadGtag, { once: true });
-    window.addEventListener('mousemove', loadGtag, { once: true });
-    window.addEventListener('touchstart', loadGtag, { once: true });
-    setTimeout(loadGtag, 4000);
-  </script>
 
+    // =================================================================
+    // 3. ROBUST GEO-DETECTION LOGIC
+    // =================================================================
+    async function initAdStrategy() {
+      let detectedCountry = null;
 
+      try {
+        // --- Method 1: GeoJS (Primary) ---
+        // Timestamp prevents caching
+        const res = await fetch('https://get.geojs.io/v1/ip/country.json?_=' + new Date().getTime());
+        if (!res.ok) throw new Error('GeoJS failed');
+        const data = await res.json();
+        if (data.country) detectedCountry = data.country.toUpperCase();
+
+      } catch (primaryError) {
+        // console.warn("Primary API failed, trying backup...");
+        try {
+          // --- Method 2: Country.is (Backup) ---
+          const resBackup = await fetch('https://api.country.is');
+          if (!resBackup.ok) throw new Error('Country.is failed');
+          const dataBackup = await resBackup.json();
+          if (dataBackup.country) detectedCountry = dataBackup.country.toUpperCase();
+        } catch (backupError) {
+          // Both APIs failed.
+          // detectedCountry remains null.
+        }
+      }
+
+      // --- LOGIC DECISION TREE ---
+      if (detectedCountry) {
+        // API Succeeded. Check if country is in our specific list.
+        if (specificOffers.hasOwnProperty(detectedCountry)) {
+          // Tier 1: Listed Country
+          renderOffer(specificOffers[detectedCountry]);
+        } else {
+          // Tier 2: Unlisted Country (Global)
+          renderOffer(globalOffer);
+        }
+      } else {
+        // Tier 3: API Failed / Blocked (Technical Fallback)
+        // console.log("Showing Technical Fallback");
+        renderOffer(technicalFallbackOffer);
+      }
+    }
+
+    // Start immediately
+    initAdStrategy();
+  })();
+</script>
+
+<!-- Google Analytics / AdSense Delayed Loader (Performance Protection) -->
+<script>
+  const GTAG_ID = 'G-XTE70X7LT6';
+  let gtagLoaded = false;
+  
+  function loadGtag() {
+    if (gtagLoaded) return;
+    gtagLoaded = true;
+    
+    // Google Analytics
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){ dataLayer.push(arguments); }
+    gtag('js', new Date());
+    gtag('config', GTAG_ID);
+    
+    const script = document.createElement('script');
+    script.src = `https://www.googletagmanager.com/gtag/js?id=${GTAG_ID}`;
+    script.async = true;
+    document.head.appendChild(script);
+
+    // Remove listeners so it only runs once
+    ['scroll', 'mousemove', 'touchstart'].forEach(type => {
+      window.removeEventListener(type, loadGtag);
+    });
+  }
+
+  // Trigger on user interaction OR after 4 seconds (fallback)
+  window.addEventListener('scroll', loadGtag, { once: true });
+  window.addEventListener('mousemove', loadGtag, { once: true });
+  window.addEventListener('touchstart', loadGtag, { once: true });
+  setTimeout(loadGtag, 4000);
+</script>
 </body>
 </html>
-
-
-
-
 
 
 
