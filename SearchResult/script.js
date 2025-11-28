@@ -17,12 +17,12 @@ document.addEventListener("DOMContentLoaded", function() {
 
     // --- GEO TARGETING CONFIGURATION ---
     const GEO_OFFERS = {
-        'US': { img: '../test.jpg', link: 'YOUR_USA_AFFILIATE_LINK_HERE', cta: 'Claim $500 Bonus', label: 'EXCLUSIVE', alt: 'USA Exclusive Bonus' },
-        'GB': { img: '../test.jpg', link: 'YOUR_UK_AFFILIATE_LINK_HERE', cta: 'Bet £10 Get £30', label: 'UK SPECIAL', alt: 'UK Betting Offer' },
-        'CA': { img: '../test.jpg', link: 'YOUR_CANADA_AFFILIATE_LINK_HERE', cta: 'Get $200 Free Bet', label: 'BONUS', alt: 'Canada Sports Bonus' },
-        'GR': { img: '../test.jpg', link: 'YOUR_GREECE_AFFILIATE_LINK_HERE', cta: 'Claim Bonus Now', label: 'OFFER', alt: 'Greece Welcome Bonus' },
-        'WORLDWIDE': { img: '../test.jpg', link: 'YOUR_GLOBAL_AFFILIATE_LINK_HERE', cta: 'Join & Win Big', label: 'SPONSORED', alt: 'Global Sports Betting Offer' },
-        'default': { img: '../test.jpg', link: 'YOUR_GLOBAL_AFFILIATE_LINK_HERE', cta: 'Join & Win Big', label: 'SPONSORED', alt: 'Global Sports Betting Offer' }
+        'US': { img: '/Images/webpartnarsUSA.webp', link: 'https://record.webpartners.co/_QUm2k2WIfIruiHimTOg2YWNd7ZgqdRLk/1/', cta: 'Claim Up To $2000', label: 'EXCLUSIVE', alt: 'USA Exclusive Bonus' },
+        'GB': { img: '/Images/1winGreece.webp', link: 'https://www.effectivegatecpm.com/mwvtqzkj?key=daf26372fb52174ce25eca816951dd61', cta: 'Bet £10 Get £30', label: 'UK SPECIAL', alt: 'UK Betting Offer' },
+        'CA': { img: '/Images/BetssonCanada.webp', link: 'https://record.betsson.com/_Ipto0Q-i5zSwcAgXsjz1uGNd7ZgqdRLk/1/', cta: 'Get $500 Free Bet', label: 'BONUS', alt: 'Canada Sports Bonus' },
+        'GR': { img: '/Images/1winGreece.webp', link: 'https://1wksrw.com/betting?open=register&p=xctu', cta: 'Claim Bonus Now', label: 'OFFER', alt: 'Greece Welcome Bonus' },
+        'WORLDWIDE': { img: '/Images/1winGreece.webp', link: 'https://1wksrw.com/betting?open=register&p=xctu', cta: 'Join & Win Big', label: 'SPONSORED', alt: 'Global Sports Betting Offer' },
+        'default': { img: '/Images/1winGreece.webp', link: 'https://www.effectivegatecpm.com/mwvtqzkj?key=daf26372fb52174ce25eca816951dd61', cta: 'Join & Win Big', label: 'SPONSORED', alt: 'Global Sports Betting Offer' }
     };
     let currentAffiliateOffer = GEO_OFFERS['default'];
 
@@ -464,3 +464,5 @@ document.addEventListener("DOMContentLoaded", function() {
 
     loadMatches();
 });
+
+
