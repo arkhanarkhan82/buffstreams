@@ -1178,34 +1178,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=17938</loc>
-        <lastmod>2025-11-29</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=17880</loc>
-        <lastmod>2025-11-29</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=17879</loc>
-        <lastmod>2025-11-29</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=17878</loc>
-        <lastmod>2025-11-29</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=supercars</loc>
         <lastmod>2025-11-29</lastmod>
         <changefreq>daily</changefreq>
@@ -1871,13 +1843,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=premier-league-live</loc>
-        <lastmod>2025-11-29</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=suditrol-vs-us-avellino</loc>
         <lastmod>2025-11-29</lastmod>
         <changefreq>daily</changefreq>
@@ -2501,13 +2466,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=berry-college-vs-lagrange-college-american-football-21357</loc>
-        <lastmod>2025-11-29</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=hope-vs-wisconsin-lacrosse-american-football-21331</loc>
         <lastmod>2025-11-29</lastmod>
         <changefreq>daily</changefreq>
@@ -2516,6 +2474,13 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=johns-hopkins-university-vs-springfield-american-football-21359</loc>
+        <lastmod>2025-11-29</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=berry-college-vs-lagrange-college-american-football-21357</loc>
         <lastmod>2025-11-29</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -2830,6 +2795,27 @@
     </url>
 
     <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=wisconsin-river-falls-vs-chapman-university-american-football-21366</loc>
+        <lastmod>2025-11-29</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=bethel-mn-vs-coe-college-american-football-21364</loc>
+        <lastmod>2025-11-29</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=wartburg-college-vs-wheaton-american-football-21362</loc>
+        <lastmod>2025-11-29</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=wisconsin-whitewater-vs-depauw-american-football-21333</loc>
         <lastmod>2025-11-29</lastmod>
         <changefreq>daily</changefreq>
@@ -2851,28 +2837,7 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=wisconsin-river-falls-vs-chapman-university-american-football-21366</loc>
-        <lastmod>2025-11-29</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=saint-johns-mn-vs-monmouth-il-american-football-21334</loc>
-        <lastmod>2025-11-29</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=wartburg-college-vs-wheaton-american-football-21362</loc>
-        <lastmod>2025-11-29</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=bethel-mn-vs-coe-college-american-football-21364</loc>
         <lastmod>2025-11-29</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -4496,14 +4461,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=atlanta-hawks-vs-detroit-pistons-1629471501</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=milwaukee-bucks-vs-washington-wizards-1629471503</loc>
         <lastmod>2025-12-01</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=milwaukee-bucks-vs-washington-wizards-1629471503</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=atlanta-hawks-vs-detroit-pistons-1629471501</loc>
         <lastmod>2025-12-01</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -4524,13 +4489,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=charlotte-hornets-vs-brooklyn-nets-1629471507</loc>
-        <lastmod>2025-12-01</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=los-angeles-clippers-vs-miami-heat-1629471508</loc>
         <lastmod>2025-12-01</lastmod>
         <changefreq>daily</changefreq>
@@ -4545,6 +4503,13 @@
     </url>
 
     <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=charlotte-hornets-vs-brooklyn-nets-1629471507</loc>
+        <lastmod>2025-12-01</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=anaheim-ducks-vs-st-louis-blues-1629471510</loc>
         <lastmod>2025-12-02</lastmod>
         <changefreq>daily</changefreq>
@@ -4552,7 +4517,7 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=canada-vs-bahamas-1629471521</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=dominican-republic-vs-mexico-1629471523</loc>
         <lastmod>2025-12-02</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -4573,7 +4538,7 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=dominican-republic-vs-mexico-1629471523</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=canada-vs-bahamas-1629471521</loc>
         <lastmod>2025-12-02</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -9320,6 +9285,13 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=MTc2NDQ0NDYwMF9oYW5kYmFsbF9pcmFud2h1bmdhcnl3</loc>
+        <lastmod>2025-11-29</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=MTc2NDQ0NDYwMF9oYW5kYmFsbF9rYXpha2hzdGFuZm5vcndheWY=</loc>
         <lastmod>2025-11-29</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
