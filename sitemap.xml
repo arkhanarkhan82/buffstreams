@@ -485,13 +485,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=tba-vs-tba-1629471449</loc>
-        <lastmod>2025-11-30</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=spain-open</loc>
         <lastmod>2025-11-30</lastmod>
         <changefreq>daily</changefreq>
@@ -1374,6 +1367,13 @@
     </url>
 
     <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=new-york-jets-vs-atlanta-falcons-2261373</loc>
+        <lastmod>2025-11-30</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=miami-dolphins-vs-new-orleans-saints-2261372</loc>
         <lastmod>2025-11-30</lastmod>
         <changefreq>daily</changefreq>
@@ -1382,13 +1382,6 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=cleveland-browns-vs-san-francisco-49ers-2261369</loc>
-        <lastmod>2025-11-30</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=new-york-jets-vs-atlanta-falcons-2261373</loc>
         <lastmod>2025-11-30</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
