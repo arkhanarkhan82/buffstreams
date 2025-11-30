@@ -674,13 +674,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=live-event_2025-national-championship-final-live-stream</loc>
-        <lastmod>2025-11-30</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=1764529200000-uk-championship-table-2</loc>
         <lastmod>2025-11-30</lastmod>
         <changefreq>daily</changefreq>
@@ -1570,13 +1563,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=winnipeg-jets-vs-buffalo-sabres-1629471506</loc>
-        <lastmod>2025-12-01</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=orlando-magic-vs-chicago-bull</loc>
         <lastmod>2025-12-01</lastmod>
         <changefreq>daily</changefreq>
@@ -1592,6 +1578,13 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=brooklyn-nets-vs-charlotte-hornets</loc>
+        <lastmod>2025-12-01</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=buffalo-sabres-vs-winnipeg-jets</loc>
         <lastmod>2025-12-01</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -2144,14 +2137,21 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=18054</loc>
-        <lastmod>2025-12-06</lastmod>
+        <loc>https://buffstreams.world/Matchinformation/?id=live_cfb_james-madison-troy-live-streaming-474713568</loc>
+        <lastmod>2025-12-05</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=18053</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=live_cfb_jacksonville-state-gamecocks-kennesaw-st-live-streaming-474474240</loc>
+        <lastmod>2025-12-05</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=live_cfb_tulane-north-texas-live-streaming-476363808</loc>
         <lastmod>2025-12-06</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -2159,13 +2159,6 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=18056</loc>
-        <lastmod>2025-12-06</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=18055</loc>
         <lastmod>2025-12-06</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -2544,6 +2537,13 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=MTc2NDU4MjMwMF90ZW5uaXNfbWFyY3Vzd2FsdGVyc3RoZW9jb2F0cw==</loc>
+        <lastmod>2025-12-01</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=MTc2NDU4NTAwMF90ZW5uaXNfdmFuZXNhc3VsY292YWRvbWluaWthcGlyb2hvdmE=</loc>
         <lastmod>2025-12-01</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
