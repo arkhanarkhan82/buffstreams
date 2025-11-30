@@ -912,13 +912,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=hamburg-vs-stuttgart-2276742</loc>
-        <lastmod>2025-11-30</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=live-event_world-rally-championship-2025-rally-saudi-arabia-live-stream</loc>
         <lastmod>2025-11-30</lastmod>
         <changefreq>daily</changefreq>
@@ -1584,14 +1577,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=utah-jazz-vs-houston-rockets</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=denver-nuggets-vs-dallas-mavericks</loc>
         <lastmod>2025-12-02</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=denver-nuggets-vs-dallas-mavericks</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=utah-jazz-vs-houston-rockets</loc>
         <lastmod>2025-12-02</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1683,6 +1676,13 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=borussia-monchengladbach-vs-fc-st-pauli-1485256</loc>
+        <lastmod>2025-12-02</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=hertha-bsc-vs-1-fc-kaiserslautern-1485261</loc>
         <lastmod>2025-12-02</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
