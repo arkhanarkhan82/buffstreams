@@ -884,13 +884,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=vfl-wolfsburg-w-vs-sc-freiburg-w-1401292</loc>
-        <lastmod>2025-12-05</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=fortuna-dusseldorf-vs-fc-schalke-04-1388743</loc>
         <lastmod>2025-12-05</lastmod>
         <changefreq>daily</changefreq>
@@ -899,6 +892,13 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=preussen-munster-vs-hannover-96-1388748</loc>
+        <lastmod>2025-12-05</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=vfl-wolfsburg-w-vs-sc-freiburg-w-1401292</loc>
         <lastmod>2025-12-05</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -2648,13 +2648,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-brighton-and-hove-albion-vs-west-ham-united</loc>
-        <lastmod>2025-12-07</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=ppv-cagliari-vs-roma</loc>
         <lastmod>2025-12-07</lastmod>
         <changefreq>daily</changefreq>
@@ -2663,6 +2656,13 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=ppv-ogc-nice-vs-angers-sco</loc>
+        <lastmod>2025-12-07</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-brighton-and-hove-albion-vs-west-ham-united</loc>
         <lastmod>2025-12-07</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -2704,14 +2704,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-aj-auxerre-vs-fc-metz</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-havre-ac-vs-paris-fc</loc>
         <lastmod>2025-12-07</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-havre-ac-vs-paris-fc</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-aj-auxerre-vs-fc-metz</loc>
         <lastmod>2025-12-07</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -7549,6 +7549,13 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=MTc2NTAzMTQwMF9mb290YmFsbF9mY2tvbG5zdHBhdWxp</loc>
+        <lastmod>2025-12-06</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=MTc2NTAzMTQwMF9oYW5kYmFsbF9tb250ZW5lZ3Jvd3NlcmJpYXc=</loc>
         <lastmod>2025-12-06</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
