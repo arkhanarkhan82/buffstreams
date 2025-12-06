@@ -863,6 +863,13 @@
     </url>
 
     <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-goal-arena</loc>
+        <lastmod>2025-12-06</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=fc-heidenheim-vs-freiburg-2276750</loc>
         <lastmod>2025-12-06</lastmod>
         <changefreq>daily</changefreq>
@@ -2319,13 +2326,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=manchester-united-w-vs-west-ham-w-football-1417251</loc>
-        <lastmod>2025-12-07</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=london-city-lionesses-vs-brighton-w-football-1417253</loc>
         <lastmod>2025-12-07</lastmod>
         <changefreq>daily</changefreq>
@@ -2333,7 +2333,7 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=tottenham-hotspur-w-vs-aston-villa-w-football-1417254</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=manchester-united-w-vs-west-ham-w-football-1417251</loc>
         <lastmod>2025-12-07</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -2341,6 +2341,13 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=leicester-city-wfc-vs-manchester-city-w-football-1417255</loc>
+        <lastmod>2025-12-07</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=tottenham-hotspur-w-vs-aston-villa-w-football-1417254</loc>
         <lastmod>2025-12-07</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -3082,14 +3089,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-ca-osasuna-vs-levante-ud</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-wolverhampton-wanderers-vs-manchester-united</loc>
         <lastmod>2025-12-08</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-wolverhampton-wanderers-vs-manchester-united</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-ca-osasuna-vs-levante-ud</loc>
         <lastmod>2025-12-08</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
