@@ -8,7 +8,7 @@ document.addEventListener("DOMContentLoaded", () => {
         apiPrimary: 'https://streamed.pk/api',
         apiBackup: 'https://topembed.pw/api.php?format=json',
         proxyUrl: 'https://corsproxy.io/?',
-        watchPageBase: 'https://streamsite.github.io/streampageforall/',
+        watchPageBase: 'https://anisamoni.github.io/newpage2/',
         discordServerId: "1422384816472457288"
     };
 
@@ -348,6 +348,7 @@ document.addEventListener("DOMContentLoaded", () => {
     loadMatchDetails();
     loadDiscordWidget();
 });
+
 
 
 
