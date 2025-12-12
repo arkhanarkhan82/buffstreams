@@ -165,10 +165,12 @@ def generate_xml():
     date_monthly = get_first_day_of_month_iso()
 
     # 1. STATIC PAGES
+    # UPDATED: Homepage now uses 'date_monthly' instead of 'date_always'
+    # This prevents the date from updating every single day.
     xml_lines.append(f"""
     <url>
         <loc>{DOMAIN}/</loc>
-        <lastmod>{date_always}</lastmod>
+        <lastmod>{date_monthly}</lastmod>
         <changefreq>always</changefreq>
         <priority>1.0</priority>
     </url>""")
@@ -222,8 +224,6 @@ def generate_xml():
     print(f"Found {len(matches)} total matches.")
     
     for match in matches:
-        # --- FIXED URL HERE ---
-        # Changed from /Schedule/ to /Matchinformation/
         match_url = f"{DOMAIN}/Matchinformation/?id={match['id']}"
         
         try:
