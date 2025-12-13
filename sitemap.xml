@@ -254,13 +254,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-wwe-friday-night-smackdown</loc>
-        <lastmod>2025-12-13</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=st--louis-blues-vs-chicago-blackhawks-2347375</loc>
         <lastmod>2025-12-13</lastmod>
         <changefreq>daily</changefreq>
@@ -275,6 +268,13 @@
     </url>
 
     <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=18371</loc>
+        <lastmod>2025-12-13</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=ppv-event-04-lucha-libre-pwr-en-espanol-ppv-004</loc>
         <lastmod>2025-12-13</lastmod>
         <changefreq>daily</changefreq>
@@ -283,6 +283,13 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=ppv-event-03-erik-miloc-vs-nahuel-gonzalo-garcia-ppv-03</loc>
+        <lastmod>2025-12-13</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=live-event_friday-night-smackdown-live-stream</loc>
         <lastmod>2025-12-13</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -311,27 +318,6 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=philadelphia-76ers-vs-indiana-pacers-2389260</loc>
-        <lastmod>2025-12-13</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=live-event_miloc-vs-garcia-live-stream</loc>
-        <lastmod>2025-12-13</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=live-event_college-football-awards-live-stream</loc>
-        <lastmod>2025-12-13</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-event-07-snocross-national-mt-zion-ppv-07</loc>
         <lastmod>2025-12-13</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -527,13 +513,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=snooker-shoot-out-billar</loc>
-        <lastmod>2025-12-13</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=cordoba-vs-eibar-football-1391958</loc>
         <lastmod>2025-12-13</lastmod>
         <changefreq>daily</changefreq>
@@ -549,6 +528,13 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=atletico-madrid-vs-valencia-football-1390970</loc>
+        <lastmod>2025-12-13</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=snooker-shoot-out-billar</loc>
         <lastmod>2025-12-13</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -2158,14 +2144,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-rayo-vallecano-vs-real-betis</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-manchester-united-vs-bournemouth</loc>
         <lastmod>2025-12-15</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-manchester-united-vs-bournemouth</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-rayo-vallecano-vs-real-betis</loc>
         <lastmod>2025-12-15</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
