@@ -653,7 +653,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=union-berlin-w-vs-eintracht-frankfurt-w-1401298</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=union-berlin-w-vs-eintracht-frankfurt-w-football-1401298</loc>
+        <lastmod>2025-12-15</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=fenerbahce-vs-konyaspor-1394569</loc>
         <lastmod>2025-12-15</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -737,14 +744,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=anaheim-ducks-vs-new-york-rangers-1629472188</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=florida-panthers-vs-tampa-bay-lightning-1629472189</loc>
         <lastmod>2025-12-16</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=florida-panthers-vs-tampa-bay-lightning-1629472189</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=anaheim-ducks-vs-new-york-rangers-1629472188</loc>
         <lastmod>2025-12-16</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -772,14 +779,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=nashville-predators-vs-st-louis-blues-1629472191</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=los-angeles-kings-vs-dallas-stars-1629472192</loc>
         <lastmod>2025-12-16</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=los-angeles-kings-vs-dallas-stars-1629472192</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=nashville-predators-vs-st-louis-blues-1629472191</loc>
         <lastmod>2025-12-16</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -905,13 +912,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=new-york-islanders-vs-detroit-red-wings-1629472214</loc>
-        <lastmod>2025-12-17</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=anaheim-ducks-vs-columbus-blue-jackets-1629472216</loc>
         <lastmod>2025-12-17</lastmod>
         <changefreq>daily</changefreq>
@@ -926,6 +926,20 @@
     </url>
 
     <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=new-york-islanders-vs-detroit-red-wings-1629472214</loc>
+        <lastmod>2025-12-17</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=philadelphia-flyers-vs-montreal-canadiens-1629472213</loc>
+        <lastmod>2025-12-17</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=chicago-blackhawks-vs-toronto-maple-leafs-1629472212</loc>
         <lastmod>2025-12-17</lastmod>
         <changefreq>daily</changefreq>
@@ -934,13 +948,6 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=utah-mammoth-vs-boston-bruins-1629472211</loc>
-        <lastmod>2025-12-17</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=philadelphia-flyers-vs-montreal-canadiens-1629472213</loc>
         <lastmod>2025-12-17</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1010,14 +1017,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=colorado-avalanche-vs-seattle-kraken-1629472227</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=calgary-flames-vs-san-jose-sharks-1629472228</loc>
         <lastmod>2025-12-17</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=calgary-flames-vs-san-jose-sharks-1629472228</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=colorado-avalanche-vs-seattle-kraken-1629472227</loc>
         <lastmod>2025-12-17</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
