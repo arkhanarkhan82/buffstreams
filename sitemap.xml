@@ -198,13 +198,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ufc-fight-night-royval-vs-kape-mma-2394</loc>
-        <lastmod>2025-12-14</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=gonzaga-vs-ucla-2375722</loc>
         <lastmod>2025-12-14</lastmod>
         <changefreq>daily</changefreq>
@@ -520,13 +513,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=manchester-city-w-vs-aston-villa-w-1417257</loc>
-        <lastmod>2025-12-14</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=brighton-w-vs-chelsea-w-1417259</loc>
         <lastmod>2025-12-14</lastmod>
         <changefreq>daily</changefreq>
@@ -534,7 +520,7 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=fc-schalke-04-vs-1-fc-nurnberg-1388756</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=manchester-city-w-vs-aston-villa-w-1417257</loc>
         <lastmod>2025-12-14</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -549,6 +535,13 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=sv-elversberg-vs-fortuna-dusseldorf-1388751</loc>
+        <lastmod>2025-12-14</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=fc-schalke-04-vs-1-fc-nurnberg-1388756</loc>
         <lastmod>2025-12-14</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -597,14 +590,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=bremerhaven-vs-augsburger-panther-hockey-408961</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=eisbaren-berlin-vs-schwenninger-hockey-408962</loc>
         <lastmod>2025-12-14</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=eisbaren-berlin-vs-schwenninger-hockey-408962</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=bremerhaven-vs-augsburger-panther-hockey-408961</loc>
         <lastmod>2025-12-14</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
