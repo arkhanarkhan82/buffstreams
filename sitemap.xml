@@ -212,6 +212,13 @@
     </url>
 
     <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=charleroi-vs-union-st-gilloise-1382567</loc>
+        <lastmod>2025-12-14</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=levante-vs-villarreal-2279549</loc>
         <lastmod>2025-12-14</lastmod>
         <changefreq>daily</changefreq>
@@ -332,13 +339,6 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=nac-breda-vs-utrecht-2268291</loc>
-        <lastmod>2025-12-14</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=munchen-vs-nurnberg-ice-tigers-hockey-408964</loc>
         <lastmod>2025-12-14</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1003,14 +1003,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=nashville-predators-vs-st-louis-blues-1629472191</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=los-angeles-kings-vs-dallas-stars-1629472192</loc>
         <lastmod>2025-12-16</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=los-angeles-kings-vs-dallas-stars-1629472192</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=nashville-predators-vs-st-louis-blues-1629472191</loc>
         <lastmod>2025-12-16</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
