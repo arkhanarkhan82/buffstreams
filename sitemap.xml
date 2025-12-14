@@ -240,13 +240,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=live_ncaa_utah-utes-mississippi-state-live-streaming-426190464</loc>
-        <lastmod>2025-12-14</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=colorado-avalanche-vs-nashville-predators-2347388</loc>
         <lastmod>2025-12-14</lastmod>
         <changefreq>daily</changefreq>
@@ -269,6 +262,13 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=aew-saturday-night-collision-aew-1</loc>
+        <lastmod>2025-12-14</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=wwe-saturday-nights-main-event-game-175421</loc>
         <lastmod>2025-12-14</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -318,13 +318,6 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=ppv-event-15-sumo-fight-club-pppv15</loc>
-        <lastmod>2025-12-14</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=live-event_saturday-nights-main-event-live-stream</loc>
         <lastmod>2025-12-14</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -416,13 +409,6 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=live-event_kevin-hayler-brown-vs-cletus-seldin-live-stream</loc>
-        <lastmod>2025-12-14</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=18335</loc>
         <lastmod>2025-12-14</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -534,13 +520,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=brighton-w-vs-chelsea-w-1417259</loc>
-        <lastmod>2025-12-14</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=manchester-city-w-vs-aston-villa-w-1417257</loc>
         <lastmod>2025-12-14</lastmod>
         <changefreq>daily</changefreq>
@@ -548,14 +527,7 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=womens-elite-1629471975</loc>
-        <lastmod>2025-12-14</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=sv-elversberg-vs-fortuna-dusseldorf-1388751</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=brighton-w-vs-chelsea-w-1417259</loc>
         <lastmod>2025-12-14</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -570,6 +542,20 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=sv-darmstadt-98-vs-preussen-munster-1388750</loc>
+        <lastmod>2025-12-14</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=sv-elversberg-vs-fortuna-dusseldorf-1388751</loc>
+        <lastmod>2025-12-14</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=womens-elite-1629471975</loc>
         <lastmod>2025-12-14</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
