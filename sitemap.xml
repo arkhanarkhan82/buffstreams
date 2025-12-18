@@ -254,13 +254,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=detroit-red-wings-vs-utah-mammoth-2347412</loc>
-        <lastmod>2025-12-18</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=nflstreams_live</loc>
         <lastmod>2025-12-18</lastmod>
         <changefreq>daily</changefreq>
@@ -1395,14 +1388,7 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-vf-b-stuttgart-vs-tsg-hoffenheim</loc>
-        <lastmod>2025-12-20</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-hamburg-sv-vs-eintracht-frankfurt</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-vf-l-wolfsburg-vs-sc-freiburg</loc>
         <lastmod>2025-12-20</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1416,7 +1402,7 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-vf-l-wolfsburg-vs-sc-freiburg</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-vf-b-stuttgart-vs-tsg-hoffenheim</loc>
         <lastmod>2025-12-20</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1424,6 +1410,13 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=ppv-fc-augsburg-vs-werder-bremen</loc>
+        <lastmod>2025-12-20</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-hamburg-sv-vs-eintracht-frankfurt</loc>
         <lastmod>2025-12-20</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1458,7 +1451,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-afc-bournemouth-vs-burnley</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-manchester-city-vs-west-ham-united</loc>
+        <lastmod>2025-12-20</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-wolverhampton-wanderers-vs-brentford</loc>
         <lastmod>2025-12-20</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1479,14 +1479,7 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-manchester-city-vs-west-ham-united</loc>
-        <lastmod>2025-12-20</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-wolverhampton-wanderers-vs-brentford</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-afc-bournemouth-vs-burnley</loc>
         <lastmod>2025-12-20</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1556,14 +1549,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-osasuna-vs-alav-s</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-tottenham-hotspur-vs-liverpool</loc>
         <lastmod>2025-12-20</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-tottenham-hotspur-vs-liverpool</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-osasuna-vs-alav-s</loc>
         <lastmod>2025-12-20</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1633,7 +1626,7 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-leeds-united-vs-crystal-palace</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-real-madrid-vs-sevilla</loc>
         <lastmod>2025-12-20</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1647,7 +1640,7 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-real-madrid-vs-sevilla</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-leeds-united-vs-crystal-palace</loc>
         <lastmod>2025-12-20</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1962,7 +1955,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-tampa-bay-buccaneers-vs-carolina-panthers</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-los-angeles-chargers-vs-dallas-cowboys</loc>
+        <lastmod>2025-12-21</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-new-york-jets-vs-new-orleans-saints</loc>
         <lastmod>2025-12-21</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1983,14 +1983,7 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-kansas-city-chiefs-vs-tennessee-titans</loc>
-        <lastmod>2025-12-21</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-los-angeles-chargers-vs-dallas-cowboys</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-tampa-bay-buccaneers-vs-carolina-panthers</loc>
         <lastmod>2025-12-21</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -2004,7 +1997,7 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-new-york-jets-vs-new-orleans-saints</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-kansas-city-chiefs-vs-tennessee-titans</loc>
         <lastmod>2025-12-21</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -2039,14 +2032,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-las-vegas-raiders-vs-houston-texans</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-pittsburgh-steelers-vs-detroit-lions</loc>
         <lastmod>2025-12-21</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-pittsburgh-steelers-vs-detroit-lions</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-las-vegas-raiders-vs-houston-texans</loc>
         <lastmod>2025-12-21</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -2067,14 +2060,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-fulham-vs-nottingham-forest</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-athletic-club-vs-espanyol</loc>
         <lastmod>2025-12-22</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-athletic-club-vs-espanyol</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-fulham-vs-nottingham-forest</loc>
         <lastmod>2025-12-22</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
