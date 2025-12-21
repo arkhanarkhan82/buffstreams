@@ -401,13 +401,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-world-darts-championship</loc>
-        <lastmod>2025-12-21</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=live-event_pfl-africa-4-2025-finals-live-stream</loc>
         <lastmod>2025-12-21</lastmod>
         <changefreq>daily</changefreq>
@@ -878,6 +871,13 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=dubai-vs-olimpia-milano-basketball-454448</loc>
+        <lastmod>2025-12-23</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=al-sadd-vs-shabab-al-ahli-dubai-1438752</loc>
         <lastmod>2025-12-23</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
