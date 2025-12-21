@@ -275,13 +275,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=peru-vs-bolivia-2374461</loc>
-        <lastmod>2025-12-21</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=salt-lake-city-stars-vs-stockton-kings-2399315</loc>
         <lastmod>2025-12-21</lastmod>
         <changefreq>daily</changefreq>
@@ -303,13 +296,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=real-betis-vs-getafe-2279555</loc>
-        <lastmod>2025-12-21</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=clemson-vs-cincinnati-2375927</loc>
         <lastmod>2025-12-21</lastmod>
         <changefreq>daily</changefreq>
@@ -318,13 +304,6 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=arizona-state-vs-oregon-state-2375925</loc>
-        <lastmod>2025-12-21</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=genoa-vs-atalanta-2265189</loc>
         <lastmod>2025-12-21</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -542,6 +521,13 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=boston-bruins-vs-ottawa-senators-2347451</loc>
+        <lastmod>2025-12-22</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=cal-poly-vs-idaho-2375944</loc>
         <lastmod>2025-12-22</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
