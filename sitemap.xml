@@ -198,6 +198,13 @@
     </url>
 
     <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=northern-brave-vs-auckland-hearts-1629472741</loc>
+        <lastmod>2025-12-26</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=denver-nuggets-vs-minnesota-timberwolves-2357781</loc>
         <lastmod>2025-12-26</lastmod>
         <changefreq>daily</changefreq>
@@ -374,6 +381,20 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=portsmouth-vs-qpr-football-1386817</loc>
+        <lastmod>2025-12-26</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=tranmere-rovers-vs-fleetwood-town-2274324</loc>
+        <lastmod>2025-12-26</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=stockport-county-vs-lincoln-city-2274896</loc>
         <lastmod>2025-12-26</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -598,20 +619,6 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=newport-county-vs-barnet-2274326</loc>
-        <lastmod>2025-12-26</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=tranmere-rovers-vs-fleetwood-town-2274324</loc>
-        <lastmod>2025-12-26</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=stockport-county-vs-lincoln-city-2274896</loc>
         <lastmod>2025-12-26</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1731,14 +1738,7 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-seattle-seahawks-vs-carolina-panthers</loc>
-        <lastmod>2025-12-28</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-new-england-patriots-vs-new-york-jets</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-new-orleans-saints-vs-tennessee-titans</loc>
         <lastmod>2025-12-28</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1759,7 +1759,7 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-jacksonville-jaguars-vs-indianapolis-colts</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-seattle-seahawks-vs-carolina-panthers</loc>
         <lastmod>2025-12-28</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1773,7 +1773,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-new-orleans-saints-vs-tennessee-titans</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-new-england-patriots-vs-new-york-jets</loc>
+        <lastmod>2025-12-28</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-jacksonville-jaguars-vs-indianapolis-colts</loc>
         <lastmod>2025-12-28</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1962,14 +1969,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-angola-vs-egypt</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-zimbabwe-vs-south-africa</loc>
         <lastmod>2025-12-29</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-zimbabwe-vs-south-africa</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-angola-vs-egypt</loc>
         <lastmod>2025-12-29</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
