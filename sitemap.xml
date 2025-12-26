@@ -548,13 +548,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=wrexham-vs-sheffield-utd-1386818</loc>
-        <lastmod>2025-12-26</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=al-hilal-saudi-fc-vs-al-khaleej-saihat-1436004</loc>
         <lastmod>2025-12-26</lastmod>
         <changefreq>daily</changefreq>
@@ -563,6 +556,13 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=standard-liege-vs-st-truiden-1382579</loc>
+        <lastmod>2025-12-26</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=wrexham-vs-sheffield-utd-1386818</loc>
         <lastmod>2025-12-26</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1157,6 +1157,13 @@
     </url>
 
     <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=al-ittihad-vs-al-shabab-2311777</loc>
+        <lastmod>2025-12-27</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=uganda-vs-tanzania-2215539</loc>
         <lastmod>2025-12-27</lastmod>
         <changefreq>daily</changefreq>
@@ -1612,13 +1619,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-tampa-bay-buccaneers-vs-miami-dolphins</loc>
-        <lastmod>2025-12-28</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=ppv-seattle-seahawks-vs-carolina-panthers</loc>
         <lastmod>2025-12-28</lastmod>
         <changefreq>daily</changefreq>
@@ -1633,14 +1633,7 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-arizona-cardinals-vs-cincinnati-bengals</loc>
-        <lastmod>2025-12-28</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-jacksonville-jaguars-vs-indianapolis-colts</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-tampa-bay-buccaneers-vs-miami-dolphins</loc>
         <lastmod>2025-12-28</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1655,6 +1648,20 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=ppv-new-england-patriots-vs-new-york-jets</loc>
+        <lastmod>2025-12-28</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-arizona-cardinals-vs-cincinnati-bengals</loc>
+        <lastmod>2025-12-28</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-jacksonville-jaguars-vs-indianapolis-colts</loc>
         <lastmod>2025-12-28</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
