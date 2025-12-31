@@ -1045,7 +1045,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=tampa-bay-lightning-vs-los-angeles-kings-1629472843</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=detroit-red-wings-vs-pittsburgh-penguins-1629472841</loc>
+        <lastmod>2026-01-02</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=winnipeg-jets-vs-toronto-maple-leafs-1629472840</loc>
         <lastmod>2026-01-02</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1059,14 +1066,7 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=detroit-red-wings-vs-pittsburgh-penguins-1629472841</loc>
-        <lastmod>2026-01-02</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=winnipeg-jets-vs-toronto-maple-leafs-1629472840</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=tampa-bay-lightning-vs-los-angeles-kings-1629472843</loc>
         <lastmod>2026-01-02</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1178,14 +1178,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=bin-jalawi-cups-race-night-1629472853</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=sylhet-titans-vs-rangpur-riders-1629472963</loc>
         <lastmod>2026-01-02</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=sylhet-titans-vs-rangpur-riders-1629472963</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=bin-jalawi-cups-race-night-1629472853</loc>
         <lastmod>2026-01-02</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1304,13 +1304,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-toulouse-vs-lens</loc>
-        <lastmod>2026-01-02</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=ppv-cagliari-vs-ac-milan</loc>
         <lastmod>2026-01-02</lastmod>
         <changefreq>daily</changefreq>
@@ -1318,7 +1311,7 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=americas-day-at-the-races-1629472884</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-toulouse-vs-lens</loc>
         <lastmod>2026-01-02</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1333,6 +1326,13 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=fc-bayern-munich-basketball-vs-maccabi-tel-aviv-1629472882</loc>
+        <lastmod>2026-01-02</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=americas-day-at-the-races-1629472884</loc>
         <lastmod>2026-01-02</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1444,14 +1444,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-arizona-wildcats-vs-smu-mustangs</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-wake-forest-demon-deacons-vs-mississippi-state-bulldogs</loc>
         <lastmod>2026-01-03</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-wake-forest-demon-deacons-vs-mississippi-state-bulldogs</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-arizona-wildcats-vs-smu-mustangs</loc>
         <lastmod>2026-01-03</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1479,13 +1479,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=minnesota-wild-vs-anaheim-ducks-1629472901</loc>
-        <lastmod>2026-01-03</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=seattle-kraken-vs-vancouver-canucks-1629472900</loc>
         <lastmod>2026-01-03</lastmod>
         <changefreq>daily</changefreq>
@@ -1493,7 +1486,28 @@
     </url>
 
     <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=minnesota-wild-vs-anaheim-ducks-1629472901</loc>
+        <lastmod>2026-01-03</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=memphis-grizzlies-vs-los-angeles-lakers-1629472899</loc>
+        <lastmod>2026-01-03</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=western-sydney-wanderers-w-vs-canberra-united-w-1484520</loc>
+        <lastmod>2026-01-03</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=brisbane-roar-vs-wellington-phoenix-1469620</loc>
         <lastmod>2026-01-03</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1521,13 +1535,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-sassuolo-vs-parma</loc>
-        <lastmod>2026-01-03</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=ppv-genoa-vs-pisa</loc>
         <lastmod>2026-01-03</lastmod>
         <changefreq>daily</changefreq>
@@ -1535,7 +1542,7 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-brighton-hove-albion-vs-burnley</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-sassuolo-vs-parma</loc>
         <lastmod>2026-01-03</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1543,6 +1550,13 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=ppv-wolverhampton-wanderers-vs-west-ham-united</loc>
+        <lastmod>2026-01-03</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-brighton-hove-albion-vs-burnley</loc>
         <lastmod>2026-01-03</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1822,14 +1836,7 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-fulham-vs-liverpool</loc>
-        <lastmod>2026-01-04</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-everton-vs-brentford</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-newcastle-united-vs-crystal-palace</loc>
         <lastmod>2026-01-04</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1843,7 +1850,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-newcastle-united-vs-crystal-palace</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-fulham-vs-liverpool</loc>
+        <lastmod>2026-01-04</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-everton-vs-brentford</loc>
         <lastmod>2026-01-04</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1913,7 +1927,28 @@
     </url>
 
     <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-cleveland-browns-vs-cincinnati-bengals</loc>
+        <lastmod>2026-01-04</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=ppv-tennessee-titans-vs-jacksonville-jaguars</loc>
+        <lastmod>2026-01-04</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-dallas-cowboys-vs-new-york-giants</loc>
+        <lastmod>2026-01-04</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-green-bay-packers-vs-minnesota-vikings</loc>
         <lastmod>2026-01-04</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1934,27 +1969,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-green-bay-packers-vs-minnesota-vikings</loc>
-        <lastmod>2026-01-04</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-cleveland-browns-vs-cincinnati-bengals</loc>
-        <lastmod>2026-01-04</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-dallas-cowboys-vs-new-york-giants</loc>
-        <lastmod>2026-01-04</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=18855</loc>
         <lastmod>2026-01-04</lastmod>
         <changefreq>daily</changefreq>
@@ -1969,14 +1983,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-paris-saint-germain-vs-paris-fc</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-internazionale-vs-bologna</loc>
         <lastmod>2026-01-04</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-internazionale-vs-bologna</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-paris-saint-germain-vs-paris-fc</loc>
         <lastmod>2026-01-04</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -2011,35 +2025,7 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-kansas-city-chiefs-vs-las-vegas-raiders</loc>
-        <lastmod>2026-01-04</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-arizona-cardinals-vs-los-angeles-rams</loc>
-        <lastmod>2026-01-04</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-washington-commanders-vs-philadelphia-eagles</loc>
-        <lastmod>2026-01-04</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-detroit-lions-vs-chicago-bears</loc>
-        <lastmod>2026-01-04</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-miami-dolphins-vs-new-england-patriots</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-los-angeles-chargers-vs-denver-broncos</loc>
         <lastmod>2026-01-04</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -2053,7 +2039,35 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-los-angeles-chargers-vs-denver-broncos</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-washington-commanders-vs-philadelphia-eagles</loc>
+        <lastmod>2026-01-04</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-miami-dolphins-vs-new-england-patriots</loc>
+        <lastmod>2026-01-04</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-arizona-cardinals-vs-los-angeles-rams</loc>
+        <lastmod>2026-01-04</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-detroit-lions-vs-chicago-bears</loc>
+        <lastmod>2026-01-04</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-kansas-city-chiefs-vs-las-vegas-raiders</loc>
         <lastmod>2026-01-04</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
