@@ -198,6 +198,20 @@
     </url>
 
     <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=western-sydney-wanderers-w-vs-canberra-united-w-1484520</loc>
+        <lastmod>2026-01-03</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=brisbane-roar-vs-wellington-phoenix-2355335</loc>
+        <lastmod>2026-01-03</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=california-vs-notre-dame-2376135</loc>
         <lastmod>2026-01-03</lastmod>
         <changefreq>daily</changefreq>
@@ -226,13 +240,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=central-stags-vs-canterbury-kings-2374229</loc>
-        <lastmod>2026-01-03</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=golden-state-warriors-vs-oklahoma-city-thunder-2357843</loc>
         <lastmod>2026-01-03</lastmod>
         <changefreq>daily</changefreq>
@@ -241,6 +248,13 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=phoenix-suns-vs-sacramento-kings-2357842</loc>
+        <lastmod>2026-01-03</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=wwe-friday-night-smackdown-wwe-009</loc>
         <lastmod>2026-01-03</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -310,13 +324,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=live-event_friday-night-smackdown-live-stream</loc>
-        <lastmod>2026-01-03</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=washington-wizards-vs-brooklyn-nets-2357836</loc>
         <lastmod>2026-01-03</lastmod>
         <changefreq>daily</changefreq>
@@ -353,20 +360,6 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=nflstreams_live</loc>
-        <lastmod>2026-01-03</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=western-sydney-wanderers-w-vs-canberra-united-w-1484520</loc>
-        <lastmod>2026-01-03</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=brisbane-roar-vs-wellington-phoenix-2355335</loc>
         <lastmod>2026-01-03</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
