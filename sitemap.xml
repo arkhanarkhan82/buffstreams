@@ -247,6 +247,13 @@
     </url>
 
     <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=united-cup-day-2-tn-1</loc>
+        <lastmod>2026-01-03</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=wwe-friday-night-smackdown-wwe-009</loc>
         <lastmod>2026-01-03</lastmod>
         <changefreq>daily</changefreq>
@@ -325,13 +332,6 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=indiana-pacers-vs-san-antonio-spurs-2357835</loc>
-        <lastmod>2026-01-03</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=day-2-1629472885</loc>
         <lastmod>2026-01-03</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -933,14 +933,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=show-court-1-day-1-1629472939</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=pat-rafter-arena-day-1-1629472940</loc>
         <lastmod>2026-01-04</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=pat-rafter-arena-day-1-1629472940</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=show-court-1-day-1-1629472939</loc>
         <lastmod>2026-01-04</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
