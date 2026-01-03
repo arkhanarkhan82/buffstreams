@@ -198,14 +198,7 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=western-sydney-wanderers-w-vs-canberra-united-w-1484520</loc>
-        <lastmod>2026-01-03</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=brisbane-roar-vs-wellington-phoenix-2355335</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=sydney-thunder-vs-hobart-hurricanes-2290600</loc>
         <lastmod>2026-01-03</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -317,13 +310,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=tgl-boston-common-vs-los-angeles-pga-526234</loc>
-        <lastmod>2026-01-03</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=washington-wizards-vs-brooklyn-nets-2357836</loc>
         <lastmod>2026-01-03</lastmod>
         <changefreq>daily</changefreq>
@@ -346,13 +332,6 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=nflstreams_live</loc>
-        <lastmod>2026-01-03</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=sydney-thunder-vs-hobart-hurricanes-2290600</loc>
         <lastmod>2026-01-03</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1178,7 +1157,7 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=sporting-gijon-vs-malaga-football-1391975</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=sporting-gijon-vs-malaga-1391975</loc>
         <lastmod>2026-01-04</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -2005,6 +1984,13 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=auckland-hearts-vs-otago-sparks-1629473027</loc>
+        <lastmod>2026-01-06</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=noakhali-express-vs-sylhet-titans-1629473028</loc>
         <lastmod>2026-01-06</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
