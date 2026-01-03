@@ -198,6 +198,20 @@
     </url>
 
     <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=melbourne-city-vs-sydney-fc-2355333</loc>
+        <lastmod>2026-01-03</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=adelaide-giants-vs-sydney-blue-sox-2395148</loc>
+        <lastmod>2026-01-03</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=sydney-thunder-vs-hobart-hurricanes-2290600</loc>
         <lastmod>2026-01-03</lastmod>
         <changefreq>daily</changefreq>
@@ -332,27 +346,6 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=nflstreams_live</loc>
-        <lastmod>2026-01-03</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=adelaide-giants-vs-sydney-blue-sox-2395148</loc>
-        <lastmod>2026-01-03</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=melbourne-city-vs-sydney-fc-2355333</loc>
-        <lastmod>2026-01-03</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=brisbane-roar-fc-w-vs-wellington-phoenix-w-1484521</loc>
         <lastmod>2026-01-03</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1143,14 +1136,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=frankfurt-lowen-vs-schwenninger-hockey-409019</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=bremerhaven-vs-iserlohn-roosters-hockey-409017</loc>
         <lastmod>2026-01-04</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=bremerhaven-vs-iserlohn-roosters-hockey-409017</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=frankfurt-lowen-vs-schwenninger-hockey-409019</loc>
         <lastmod>2026-01-04</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -2116,8 +2109,22 @@
     </url>
 
     <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=18950</loc>
+        <lastmod>2026-01-09</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=live-event_formula-e-2026-gp-mexico-city-live-stream</loc>
         <lastmod>2026-01-09</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=18951</loc>
+        <lastmod>2026-01-10</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
