@@ -569,14 +569,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=multiview-matchweek-20-game-187788</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=goal-rush-matchweek-20-game-352362</loc>
         <lastmod>2026-01-04</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=goal-rush-matchweek-20-game-352362</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=multiview-matchweek-20-game-187788</loc>
         <lastmod>2026-01-04</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1507,14 +1507,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=golden-state-warriors-vs-los-angeles-clippers-1629473025</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=utah-jazz-vs-portland-trail-blazers-1629473024</loc>
         <lastmod>2026-01-06</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=utah-jazz-vs-portland-trail-blazers-1629473024</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=golden-state-warriors-vs-los-angeles-clippers-1629473025</loc>
         <lastmod>2026-01-06</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1745,13 +1745,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=vegas-golden-knights-vs-winnipeg-jets-1629473071</loc>
-        <lastmod>2026-01-07</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=pat-rafter-arena-day-4-1629473075</loc>
         <lastmod>2026-01-07</lastmod>
         <changefreq>daily</changefreq>
@@ -1760,6 +1753,13 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=show-court-1-day-4-1629473076</loc>
+        <lastmod>2026-01-07</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=vegas-golden-knights-vs-winnipeg-jets-1629473071</loc>
         <lastmod>2026-01-07</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1794,13 +1794,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=contest-of-slampions-2025-1629473078</loc>
-        <lastmod>2026-01-07</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=texas-legends-vs-mexico-city-capitanes-1629473079</loc>
         <lastmod>2026-01-07</lastmod>
         <changefreq>daily</changefreq>
@@ -1809,6 +1802,13 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=oklahoma-city-blue-vs-valley-suns-1629473080</loc>
+        <lastmod>2026-01-07</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=contest-of-slampions-2025-1629473078</loc>
         <lastmod>2026-01-07</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
