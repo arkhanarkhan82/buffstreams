@@ -205,6 +205,13 @@
     </url>
 
     <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=tba-vs-tba-1629472954</loc>
+        <lastmod>2026-01-04</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=ilt20-final-desert-vipers-vs-mi-emirates-cricket-1</loc>
         <lastmod>2026-01-04</lastmod>
         <changefreq>daily</changefreq>
@@ -933,14 +940,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=deportivo-la-coruna-vs-cadiz-1391981</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=real-sociedad-vs-atletico-madrid-1390997</loc>
         <lastmod>2026-01-04</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=real-sociedad-vs-atletico-madrid-1390997</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=deportivo-la-coruna-vs-cadiz-1391981</loc>
         <lastmod>2026-01-04</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1780,13 +1787,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=contest-of-slampions-2025-1629473078</loc>
-        <lastmod>2026-01-07</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=nashville-predators-vs-edmonton-oilers-1629473077</loc>
         <lastmod>2026-01-07</lastmod>
         <changefreq>daily</changefreq>
@@ -1802,6 +1802,13 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=oklahoma-city-blue-vs-valley-suns-1629473080</loc>
+        <lastmod>2026-01-07</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=contest-of-slampions-2025-1629473078</loc>
         <lastmod>2026-01-07</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
