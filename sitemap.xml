@@ -198,6 +198,13 @@
     </url>
 
     <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=live-event_nfl-network-live-stream</loc>
+        <lastmod>2026-01-04</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=lazio-vs-napoli-2265213</loc>
         <lastmod>2026-01-04</lastmod>
         <changefreq>daily</changefreq>
@@ -345,14 +352,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=bremerhaven-vs-iserlohn-roosters-hockey-409017</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=frankfurt-lowen-vs-schwenninger-hockey-409019</loc>
         <lastmod>2026-01-04</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=frankfurt-lowen-vs-schwenninger-hockey-409019</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=bremerhaven-vs-iserlohn-roosters-hockey-409017</loc>
         <lastmod>2026-01-04</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -772,6 +779,13 @@
     </url>
 
     <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=live-event_nfl-redzone-live-stream</loc>
+        <lastmod>2026-01-04</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=hellas-verona-vs-torino-2265215</loc>
         <lastmod>2026-01-04</lastmod>
         <changefreq>daily</changefreq>
@@ -801,20 +815,6 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=seton-hall-vs-creighton-2376220</loc>
-        <lastmod>2026-01-04</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=nfl-redzone-game-6262</loc>
-        <lastmod>2026-01-04</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=nfl-network-247-nfl-2025-516518</loc>
         <lastmod>2026-01-04</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1262,14 +1262,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=live_cfb_north-central-cardinals-uw-river-falls-falcons-live-streaming-487232928</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=live_ncaa_st-marys-seattle-live-streaming-460583280</loc>
         <lastmod>2026-01-05</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=live_ncaa_st-marys-seattle-live-streaming-460583280</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=live_cfb_north-central-cardinals-uw-river-falls-falcons-live-streaming-487232928</loc>
         <lastmod>2026-01-05</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
