@@ -212,13 +212,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=pat-rafter-arena-day-2-1629473358</loc>
-        <lastmod>2026-01-05</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=sydney-sixers-vs-brisbane-heat-2290603</loc>
         <lastmod>2026-01-05</lastmod>
         <changefreq>daily</changefreq>
@@ -1038,28 +1031,14 @@
     </url>
 
     <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-manchester-city-vs-brighton-hove-albion</loc>
+        <lastmod>2026-01-07</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=ppv-crystal-palace-vs-aston-villa</loc>
-        <lastmod>2026-01-07</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-everton-vs-wolverhampton-wanderers</loc>
-        <lastmod>2026-01-07</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-brentford-vs-sunderland</loc>
-        <lastmod>2026-01-07</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-afc-bournemouth-vs-tottenham-hotspur</loc>
         <lastmod>2026-01-07</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1073,7 +1052,21 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-manchester-city-vs-brighton-hove-albion</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-afc-bournemouth-vs-tottenham-hotspur</loc>
+        <lastmod>2026-01-07</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-brentford-vs-sunderland</loc>
+        <lastmod>2026-01-07</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-everton-vs-wolverhampton-wanderers</loc>
         <lastmod>2026-01-07</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1423,20 +1416,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-werder-bremen-vs-tsg-hoffenheim</loc>
-        <lastmod>2026-01-10</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-sc-freiburg-vs-hamburg-sv</loc>
-        <lastmod>2026-01-10</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=ppv-1-fc-union-berlin-vs-mainz</loc>
         <lastmod>2026-01-10</lastmod>
         <changefreq>daily</changefreq>
@@ -1451,7 +1430,21 @@
     </url>
 
     <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-werder-bremen-vs-tsg-hoffenheim</loc>
+        <lastmod>2026-01-10</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=ppv-1-fc-heidenheim-1846-vs-fc-cologne</loc>
+        <lastmod>2026-01-10</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-sc-freiburg-vs-hamburg-sv</loc>
         <lastmod>2026-01-10</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1542,14 +1535,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-aew-saturday-night-collision</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-green-bay-packers-vs-chicago-bears</loc>
         <lastmod>2026-01-11</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-green-bay-packers-vs-chicago-bears</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-aew-saturday-night-collision</loc>
         <lastmod>2026-01-11</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
