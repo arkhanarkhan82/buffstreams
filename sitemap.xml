@@ -198,6 +198,13 @@
     </url>
 
     <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=vietnam-u23-vs-jordan-u23-1629473030</loc>
+        <lastmod>2026-01-06</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=pat-rafter-arena-day-3-1629473021</loc>
         <lastmod>2026-01-06</lastmod>
         <changefreq>daily</changefreq>
@@ -240,13 +247,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=calgary-flames-vs-seattle-kraken-2347547</loc>
-        <lastmod>2026-01-06</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=live-event_pfl-africa-4-2025-finals-live-stream</loc>
         <lastmod>2026-01-06</lastmod>
         <changefreq>daily</changefreq>
@@ -255,13 +255,6 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=nflstreams_live</loc>
-        <lastmod>2026-01-06</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=vietnam-u23-vs-jordan-u23-1629473030</loc>
         <lastmod>2026-01-06</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1563,13 +1556,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-udinese-vs-pisa</loc>
-        <lastmod>2026-01-10</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=ppv-como-vs-bologna</loc>
         <lastmod>2026-01-10</lastmod>
         <changefreq>daily</changefreq>
@@ -1577,21 +1563,14 @@
     </url>
 
     <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-udinese-vs-pisa</loc>
+        <lastmod>2026-01-10</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=ppv-1-fc-heidenheim-1846-vs-fc-cologne</loc>
-        <lastmod>2026-01-10</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-1-fc-union-berlin-vs-mainz</loc>
-        <lastmod>2026-01-10</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-sc-freiburg-vs-hamburg-sv</loc>
         <lastmod>2026-01-10</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1606,6 +1585,20 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=ppv-werder-bremen-vs-tsg-hoffenheim</loc>
+        <lastmod>2026-01-10</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-1-fc-union-berlin-vs-mainz</loc>
+        <lastmod>2026-01-10</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-sc-freiburg-vs-hamburg-sv</loc>
         <lastmod>2026-01-10</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1633,14 +1626,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-girona-vs-osasuna</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-bayer-leverkusen-vs-vf-b-stuttgart</loc>
         <lastmod>2026-01-10</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-bayer-leverkusen-vs-vf-b-stuttgart</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-girona-vs-osasuna</loc>
         <lastmod>2026-01-10</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
