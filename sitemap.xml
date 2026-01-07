@@ -198,6 +198,20 @@
     </url>
 
     <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=live_u20-world-championship-division-ii-group-a_romania-u20-spain-u20-live-streaming-487529280</loc>
+        <lastmod>2026-01-07</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=qatar-u23-vs-uae-u23-1629473093</loc>
+        <lastmod>2026-01-07</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=turk-telekom-ankara-vs-dolomiti-energia-trento-1629473092</loc>
         <lastmod>2026-01-07</lastmod>
         <changefreq>daily</changefreq>
@@ -241,20 +255,6 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=nflstreams_live</loc>
-        <lastmod>2026-01-07</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=live_u20-world-championship-division-ii-group-a_romania-u20-spain-u20-live-streaming-487529280</loc>
-        <lastmod>2026-01-07</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=qatar-u23-vs-uae-u23-1629473093</loc>
         <lastmod>2026-01-07</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1535,13 +1535,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-como-vs-bologna</loc>
-        <lastmod>2026-01-10</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=ppv-udinese-vs-pisa</loc>
         <lastmod>2026-01-10</lastmod>
         <changefreq>daily</changefreq>
@@ -1549,21 +1542,7 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-st-pauli-vs-rb-leipzig</loc>
-        <lastmod>2026-01-10</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-sc-freiburg-vs-hamburg-sv</loc>
-        <lastmod>2026-01-10</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-1-fc-heidenheim-1846-vs-fc-cologne</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-como-vs-bologna</loc>
         <lastmod>2026-01-10</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1578,6 +1557,27 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=ppv-werder-bremen-vs-tsg-hoffenheim</loc>
+        <lastmod>2026-01-10</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-sc-freiburg-vs-hamburg-sv</loc>
+        <lastmod>2026-01-10</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-st-pauli-vs-rb-leipzig</loc>
+        <lastmod>2026-01-10</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-1-fc-heidenheim-1846-vs-fc-cologne</loc>
         <lastmod>2026-01-10</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
