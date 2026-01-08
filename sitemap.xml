@@ -198,6 +198,20 @@
     </url>
 
     <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=ac-milan-vs-genoa-2265220</loc>
+        <lastmod>2026-01-08</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=real-madrid-baloncesto-vs-maccabi-tel-aviv-bc-2345351</loc>
+        <lastmod>2026-01-08</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=valencia-basket-vs-as-monaco-basket-2345350</loc>
         <lastmod>2026-01-08</lastmod>
         <changefreq>daily</changefreq>
@@ -261,13 +275,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=al-najma-unaizah-vs-al-ettifaq-2311811</loc>
-        <lastmod>2026-01-08</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=al-nassr-vs-al-qadsiah-2311806</loc>
         <lastmod>2026-01-08</lastmod>
         <changefreq>daily</changefreq>
@@ -311,20 +318,6 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=nflstreams_live</loc>
-        <lastmod>2026-01-08</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ac-milan-vs-genoa-2265220</loc>
-        <lastmod>2026-01-08</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=real-madrid-baloncesto-vs-maccabi-tel-aviv-bc-2345351</loc>
         <lastmod>2026-01-08</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -681,14 +674,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=zalgiris-kaunas-vs-crvena-zvezda-meridianbet-belgrade-1629473189</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=hapoel-tel-aviv-basketball-vs-paris-basketball-1629473190</loc>
         <lastmod>2026-01-09</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=hapoel-tel-aviv-basketball-vs-paris-basketball-1629473190</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=zalgiris-kaunas-vs-crvena-zvezda-meridianbet-belgrade-1629473189</loc>
         <lastmod>2026-01-09</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -884,13 +877,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=toronto-raptors-vs-boston-celtics-1629473205</loc>
-        <lastmod>2026-01-10</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=new-orleans-pelicans-vs-washington-wizards-1629473207</loc>
         <lastmod>2026-01-10</lastmod>
         <changefreq>daily</changefreq>
@@ -899,6 +885,13 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=philadelphia-76ers-vs-orlando-magic-1629473206</loc>
+        <lastmod>2026-01-10</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=toronto-raptors-vs-boston-celtics-1629473205</loc>
         <lastmod>2026-01-10</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1283,13 +1276,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-werder-bremen-vs-tsg-hoffenheim</loc>
-        <lastmod>2026-01-10</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=ppv-sc-freiburg-vs-hamburg-sv</loc>
         <lastmod>2026-01-10</lastmod>
         <changefreq>daily</changefreq>
@@ -1297,14 +1283,21 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-st-pauli-vs-rb-leipzig</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-1-fc-union-berlin-vs-mainz</loc>
         <lastmod>2026-01-10</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-1-fc-union-berlin-vs-mainz</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-werder-bremen-vs-tsg-hoffenheim</loc>
+        <lastmod>2026-01-10</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-st-pauli-vs-rb-leipzig</loc>
         <lastmod>2026-01-10</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1577,14 +1570,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-girona-vs-osasuna</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-bayer-leverkusen-vs-vf-b-stuttgart</loc>
         <lastmod>2026-01-10</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-bayer-leverkusen-vs-vf-b-stuttgart</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-girona-vs-osasuna</loc>
         <lastmod>2026-01-10</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1766,14 +1759,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-raf-05-covington-vs-rockhold</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-aew-saturday-night-collision</loc>
         <lastmod>2026-01-11</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-aew-saturday-night-collision</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-raf-05-covington-vs-rockhold</loc>
         <lastmod>2026-01-11</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
