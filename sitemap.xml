@@ -254,13 +254,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=australia-u23-vs-thailand-u23-1629473134</loc>
-        <lastmod>2026-01-08</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=sylhet-titans-vs-dhaka-capitals-2408082</loc>
         <lastmod>2026-01-08</lastmod>
         <changefreq>daily</changefreq>
@@ -276,6 +269,13 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=live_u20-world-championship-division-ii-group-a_spain-u20-south-korea-u20-live-streaming-487793664</loc>
+        <lastmod>2026-01-08</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=iraq-u23-vs-china-pr-u23-1629473137</loc>
         <lastmod>2026-01-08</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1220,13 +1220,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-udinese-vs-pisa</loc>
-        <lastmod>2026-01-10</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=ppv-como-vs-bologna</loc>
         <lastmod>2026-01-10</lastmod>
         <changefreq>daily</changefreq>
@@ -1234,7 +1227,21 @@
     </url>
 
     <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-udinese-vs-pisa</loc>
+        <lastmod>2026-01-10</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=ppv-werder-bremen-vs-tsg-hoffenheim</loc>
+        <lastmod>2026-01-10</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-1-fc-union-berlin-vs-mainz</loc>
         <lastmod>2026-01-10</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1249,13 +1256,6 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=ppv-sc-freiburg-vs-hamburg-sv</loc>
-        <lastmod>2026-01-10</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-1-fc-union-berlin-vs-mainz</loc>
         <lastmod>2026-01-10</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
