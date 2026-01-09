@@ -597,6 +597,13 @@
     </url>
 
     <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=detroit-vs-wright-state-2376361</loc>
+        <lastmod>2026-01-10</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=manhattan-vs-canisius-2376364</loc>
         <lastmod>2026-01-10</lastmod>
         <changefreq>daily</changefreq>
@@ -1752,14 +1759,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=court-15-qualifying-first-round-1629473336</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=court-12-qualifying-first-round-1629473325</loc>
         <lastmod>2026-01-11</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=court-7-qualifying-first-round-1629473335</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=court-17-qualifying-first-round-1629473329</loc>
         <lastmod>2026-01-11</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1767,13 +1774,6 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=court-14-qualifying-first-round-1629473334</loc>
-        <lastmod>2026-01-11</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=court-5-qualifying-first-round-1629473333</loc>
         <lastmod>2026-01-11</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1794,7 +1794,21 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=court-17-qualifying-first-round-1629473329</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=court-6-qualifying-first-round-1629473326</loc>
+        <lastmod>2026-01-11</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=court-15-qualifying-first-round-1629473336</loc>
+        <lastmod>2026-01-11</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=anz-arena-qualifying-first-round-1629473323</loc>
         <lastmod>2026-01-11</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1808,6 +1822,13 @@
     </url>
 
     <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=court-7-qualifying-first-round-1629473335</loc>
+        <lastmod>2026-01-11</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=court-16-qualifying-first-round-1629473327</loc>
         <lastmod>2026-01-11</lastmod>
         <changefreq>daily</changefreq>
@@ -1815,21 +1836,7 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=court-6-qualifying-first-round-1629473326</loc>
-        <lastmod>2026-01-11</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=court-12-qualifying-first-round-1629473325</loc>
-        <lastmod>2026-01-11</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=anz-arena-qualifying-first-round-1629473323</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=court-5-qualifying-first-round-1629473333</loc>
         <lastmod>2026-01-11</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1885,14 +1892,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=centre-court-day-1-1629473343</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=show-court-1-day-1-1629473342</loc>
         <lastmod>2026-01-12</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=show-court-1-day-1-1629473342</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=centre-court-day-1-1629473343</loc>
         <lastmod>2026-01-12</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
