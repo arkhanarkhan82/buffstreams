@@ -240,13 +240,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=tna-impact-tna-1</loc>
-        <lastmod>2026-01-09</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=chicago-bulls-vs-miami-heat-2357888</loc>
         <lastmod>2026-01-09</lastmod>
         <changefreq>daily</changefreq>
@@ -800,14 +793,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=lebanon-u23-vs-korea-republic-u23-1629473231</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=uae-u23-vs-japan-u23-1629473230</loc>
         <lastmod>2026-01-10</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=uae-u23-vs-japan-u23-1629473230</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=lebanon-u23-vs-korea-republic-u23-1629473231</loc>
         <lastmod>2026-01-10</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1907,6 +1900,13 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=rajshahi-warriors-vs-rangpur-riders-1629473351</loc>
+        <lastmod>2026-01-12</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=sydney-thunder-vs-melbourne-renegades-1629473352</loc>
         <lastmod>2026-01-12</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
