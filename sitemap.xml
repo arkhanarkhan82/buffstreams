@@ -198,6 +198,20 @@
     </url>
 
     <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=live_u20-world-championship-division-ii-group-a_south-korea-u20-romania-u20-live-streaming-488165184</loc>
+        <lastmod>2026-01-10</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=syria-u23-vs-qatar-u23-1629473253</loc>
+        <lastmod>2026-01-10</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=juve-stabia-vs-pescara-2297826</loc>
         <lastmod>2026-01-10</lastmod>
         <changefreq>daily</changefreq>
@@ -534,20 +548,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=como-vs-bologna-2265227</loc>
-        <lastmod>2026-01-10</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=udinese-vs-pisa-2265234</loc>
-        <lastmod>2026-01-10</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=gillingham-vs-milton-keynes-dons-2274369</loc>
         <lastmod>2026-01-10</lastmod>
         <changefreq>daily</changefreq>
@@ -577,20 +577,6 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=nflstreams_live</loc>
-        <lastmod>2026-01-10</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=live_u20-world-championship-division-ii-group-a_south-korea-u20-romania-u20-live-streaming-488165184</loc>
-        <lastmod>2026-01-10</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=syria-u23-vs-qatar-u23-1629473253</loc>
         <lastmod>2026-01-10</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1220,14 +1206,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-event-07-battle-at-the-barn-xviii-ppv-07</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-event-03-real-american-freestyle-ppv-03</loc>
         <lastmod>2026-01-11</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-event-03-real-american-freestyle-ppv-03</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-event-07-battle-at-the-barn-xviii-ppv-07</loc>
         <lastmod>2026-01-11</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1416,13 +1402,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=melbourne-victory-w-vs-brisbane-roar-fc-w-1484529</loc>
-        <lastmod>2026-01-11</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=melbourne-city-vs-newcastle-jets-2355342</loc>
         <lastmod>2026-01-11</lastmod>
         <changefreq>daily</changefreq>
@@ -1472,13 +1451,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=tottenham-hotspur-w-vs-leicester-city-wfc-football-1417267</loc>
-        <lastmod>2026-01-11</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=chelsea-w-vs-west-ham-w-football-1417265</loc>
         <lastmod>2026-01-11</lastmod>
         <changefreq>daily</changefreq>
@@ -1487,6 +1459,13 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=aston-villa-w-vs-brighton-w-football-1417264</loc>
+        <lastmod>2026-01-11</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=tottenham-hotspur-w-vs-leicester-city-wfc-football-1417267</loc>
         <lastmod>2026-01-11</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
