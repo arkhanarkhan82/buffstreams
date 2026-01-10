@@ -345,13 +345,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=boreham-wood-vs-burton-albion-2392009</loc>
-        <lastmod>2026-01-10</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=newcastle-united-vs-bournemouth-2392027</loc>
         <lastmod>2026-01-10</lastmod>
         <changefreq>daily</changefreq>
@@ -373,28 +366,7 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ipswich-town-vs-blackpool-2392021</loc>
-        <lastmod>2026-01-10</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=doncaster-rovers-vs-southampton-2392016</loc>
-        <lastmod>2026-01-10</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=manchester-city-vs-exeter-city-2392024</loc>
-        <lastmod>2026-01-10</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=stoke-city-vs-coventry-city-2392035</loc>
         <lastmod>2026-01-10</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -444,13 +416,6 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=atromitos-vs-olympiakos-piraeus-football-1400847</loc>
-        <lastmod>2026-01-10</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=las-palmas-vs-deportivo-la-coruna-1391991</loc>
         <lastmod>2026-01-10</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1983,14 +1948,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-juventus-vs-cremonese</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-liverpool-vs-barnsley</loc>
         <lastmod>2026-01-12</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-liverpool-vs-barnsley</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-juventus-vs-cremonese</loc>
         <lastmod>2026-01-12</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
