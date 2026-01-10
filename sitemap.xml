@@ -205,13 +205,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=pat-rafter-arena-day-7-1629473212</loc>
-        <lastmod>2026-01-10</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=canterbury-kings-vs-auckland-aces-2374235</loc>
         <lastmod>2026-01-10</lastmod>
         <changefreq>daily</changefreq>
@@ -296,13 +289,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=perth-heat-vs-sydney-blue-sox-2395157</loc>
-        <lastmod>2026-01-10</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=melbourne-renegades-vs-melbourne-stars-2290609</loc>
         <lastmod>2026-01-10</lastmod>
         <changefreq>daily</changefreq>
@@ -324,6 +310,13 @@
     </url>
 
     <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=pat-rafter-arena-day-7-1629473212</loc>
+        <lastmod>2026-01-10</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=perth-glory-vs-central-coast-mariners-2355340</loc>
         <lastmod>2026-01-10</lastmod>
         <changefreq>daily</changefreq>
@@ -339,6 +332,13 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=paarl-royals-vs-pretoria-capitals-2374269</loc>
+        <lastmod>2026-01-10</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=perth-heat-vs-sydney-blue-sox-2395159</loc>
         <lastmod>2026-01-10</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1199,14 +1199,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-raf-05-covington-vs-rockhold</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-aew-saturday-night-collision</loc>
         <lastmod>2026-01-11</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-aew-saturday-night-collision</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-raf-05-covington-vs-rockhold</loc>
         <lastmod>2026-01-11</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -2158,14 +2158,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=boston-celtics-vs-indiana-pacers-1629473386</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=philadelphia-76ers-vs-toronto-raptors-1629473385</loc>
         <lastmod>2026-01-13</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=philadelphia-76ers-vs-toronto-raptors-1629473385</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=boston-celtics-vs-indiana-pacers-1629473386</loc>
         <lastmod>2026-01-13</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
