@@ -310,20 +310,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=sunrisers-eastern-cape-vs-durban-s-super-giants-2374271</loc>
-        <lastmod>2026-01-11</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=malaga-vs-ad-ceuta-fc-football-1391992</loc>
-        <lastmod>2026-01-11</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=levante-vs-espanyol-2279578</loc>
         <lastmod>2026-01-11</lastmod>
         <changefreq>daily</changefreq>
@@ -331,21 +317,7 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=granada-vs-castell-n-2280226</loc>
-        <lastmod>2026-01-11</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=liv-golf-promotions-2026-fourth-round-1629473305</loc>
-        <lastmod>2026-01-11</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=west-ham-vs-qpr-1629473298</loc>
         <lastmod>2026-01-11</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -388,13 +360,6 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=aris-vs-aek-athens-2287140</loc>
-        <lastmod>2026-01-11</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=cheshire-phoenix-vs-newcastle-eagles-2377472</loc>
         <lastmod>2026-01-11</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1248,13 +1213,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=fsv-mainz-05-vs-1-fc-heidenheim-1388457</loc>
-        <lastmod>2026-01-13</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=borussia-dortmund-vs-werder-bremen-1388453</loc>
         <lastmod>2026-01-13</lastmod>
         <changefreq>daily</changefreq>
@@ -1262,7 +1220,35 @@
     </url>
 
     <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=fsv-mainz-05-vs-1-fc-heidenheim-1388457</loc>
+        <lastmod>2026-01-13</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=hamburger-sv-vs-bayer-leverkusen-1388455</loc>
+        <lastmod>2026-01-13</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=newcastle-vs-manchester-city-1629473411</loc>
+        <lastmod>2026-01-13</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=bayeux-vs-marseille-1629473413</loc>
+        <lastmod>2026-01-13</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=as-roma-vs-torino-1629473412</loc>
         <lastmod>2026-01-13</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
