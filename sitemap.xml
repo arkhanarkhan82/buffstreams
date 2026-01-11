@@ -198,13 +198,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=liverpool-w-vs-london-city-lionesses-1417266</loc>
-        <lastmod>2026-01-11</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=west-ham-vs-qpr-1629473298</loc>
         <lastmod>2026-01-11</lastmod>
         <changefreq>daily</changefreq>
@@ -220,6 +213,13 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=borussia-monchengladbach-vs-fc-augsburg-1388445</loc>
+        <lastmod>2026-01-11</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=liverpool-w-vs-london-city-lionesses-1417266</loc>
         <lastmod>2026-01-11</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -443,14 +443,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=adler-mannheim-vs-bremerhaven-hockey-409040</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=augsburger-panther-vs-kolner-hockey-409041</loc>
         <lastmod>2026-01-11</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=augsburger-panther-vs-kolner-hockey-409041</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=adler-mannheim-vs-bremerhaven-hockey-409040</loc>
         <lastmod>2026-01-11</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
