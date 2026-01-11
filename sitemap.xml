@@ -226,34 +226,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=raf-05-covington-vs-rockhold-game-111756</loc>
-        <lastmod>2026-01-11</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-event-07-battle-at-the-barn-xviii-ppv-07</loc>
-        <lastmod>2026-01-11</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-event-03-real-american-freestyle-ppv-03</loc>
-        <lastmod>2026-01-11</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=aew-saturday-night-collision-aew-1</loc>
-        <lastmod>2026-01-11</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=subriel-matias-vs-dalton-smith-2385653</loc>
         <lastmod>2026-01-11</lastmod>
         <changefreq>daily</changefreq>
@@ -310,14 +282,7 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=chelsea-w-vs-west-ham-w-1417265</loc>
-        <lastmod>2026-01-11</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=manchester-city-w-vs-everton-w-1417262</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=aston-villa-w-vs-brighton-w-1417264</loc>
         <lastmod>2026-01-11</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -331,7 +296,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=aston-villa-w-vs-brighton-w-1417264</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=manchester-city-w-vs-everton-w-1417262</loc>
+        <lastmod>2026-01-11</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=chelsea-w-vs-west-ham-w-1417265</loc>
         <lastmod>2026-01-11</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -436,13 +408,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=borussia-monchengladbach-vs-fc-augsburg-1388445</loc>
-        <lastmod>2026-01-11</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=liverpool-w-vs-london-city-lionesses-1417266</loc>
         <lastmod>2026-01-11</lastmod>
         <changefreq>daily</changefreq>
@@ -451,6 +416,13 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=west-ham-vs-qpr-1629473298</loc>
+        <lastmod>2026-01-11</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=borussia-monchengladbach-vs-fc-augsburg-1388445</loc>
         <lastmod>2026-01-11</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1171,7 +1143,7 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=court-5-qualifying-first-round-1629473369</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=court-6-qualifying-first-round-1629473368</loc>
         <lastmod>2026-01-12</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1185,7 +1157,7 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=court-6-qualifying-first-round-1629473368</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=court-5-qualifying-first-round-1629473369</loc>
         <lastmod>2026-01-12</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1592,6 +1564,13 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=portland-trail-blazers-vs-golden-state-warriors-1629473454</loc>
+        <lastmod>2026-01-14</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=hobart-hurricanes-vs-brisbane-heat-1629473456</loc>
         <lastmod>2026-01-14</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
