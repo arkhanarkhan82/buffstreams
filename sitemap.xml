@@ -198,6 +198,13 @@
     </url>
 
     <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-event-03-wild-west-shootout-ppv-03</loc>
+        <lastmod>2026-01-11</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=boston-bruins-vs-pittsburgh-penguins-2347594</loc>
         <lastmod>2026-01-11</lastmod>
         <changefreq>daily</changefreq>
@@ -247,13 +254,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=torreense-vs-uni-o-de-leiria-2396847</loc>
-        <lastmod>2026-01-11</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=americas-day-at-the-races-1629473316</loc>
         <lastmod>2026-01-11</lastmod>
         <changefreq>daily</changefreq>
@@ -262,20 +262,6 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=orlando-magic-vs-new-orleans-pelicans-2357907</loc>
-        <lastmod>2026-01-11</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=inter-milan-vs-napoli-2265230</loc>
-        <lastmod>2026-01-11</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=winnipeg-jets-vs-new-jersey-devils-2347593</loc>
         <lastmod>2026-01-11</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -297,13 +283,6 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=nflstreams_live</loc>
-        <lastmod>2026-01-11</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-event-03-wild-west-shootout-ppv-03</loc>
         <lastmod>2026-01-11</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
