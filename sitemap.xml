@@ -226,13 +226,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=san-diego-clippers-vs-windy-city-bulls-2377833</loc>
-        <lastmod>2026-01-16</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=portland-trail-blazers-vs-atlanta-hawks-2357944</loc>
         <lastmod>2026-01-16</lastmod>
         <changefreq>daily</changefreq>
@@ -248,27 +241,6 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=vegas-golden-knights-vs-toronto-maple-leafs-2347630</loc>
-        <lastmod>2026-01-16</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=edmonton-oilers-vs-new-york-islanders-2347628</loc>
-        <lastmod>2026-01-16</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=utah-mammoth-vs-dallas-stars-2347629</loc>
-        <lastmod>2026-01-16</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=dallas-mavericks-vs-utah-jazz-2357942</loc>
         <lastmod>2026-01-16</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -297,13 +269,6 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=nflstreams_live</loc>
-        <lastmod>2026-01-16</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=melbourne-city-w-vs-newcastle-jets-fc-w-1484530</loc>
         <lastmod>2026-01-16</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1948,13 +1913,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-strasbourg-vs-metz</loc>
-        <lastmod>2026-01-18</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=ppv-wolverhampton-wanderers-vs-newcastle-united</loc>
         <lastmod>2026-01-18</lastmod>
         <changefreq>daily</changefreq>
@@ -1963,6 +1921,13 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=ppv-bologna-vs-fiorentina</loc>
+        <lastmod>2026-01-18</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-strasbourg-vs-metz</loc>
         <lastmod>2026-01-18</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -2081,14 +2046,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-ac-milan-vs-lecce</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-lyon-vs-brest</loc>
         <lastmod>2026-01-18</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-lyon-vs-brest</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-ac-milan-vs-lecce</loc>
         <lastmod>2026-01-18</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -2298,14 +2263,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-elche-vs-sevilla</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-brighton-hove-albion-vs-afc-bournemouth</loc>
         <lastmod>2026-01-19</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-brighton-hove-albion-vs-afc-bournemouth</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-elche-vs-sevilla</loc>
         <lastmod>2026-01-19</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
