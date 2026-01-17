@@ -205,6 +205,20 @@
     </url>
 
     <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=hamburger-sv-vs-borussia-monchengladbach-1388464</loc>
+        <lastmod>2026-01-17</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=1-fc-koln-vs-fsv-mainz-05-1388463</loc>
+        <lastmod>2026-01-17</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=hoffenheim-vs-bayer-leverkusen-2276795</loc>
         <lastmod>2026-01-17</lastmod>
         <changefreq>daily</changefreq>
@@ -471,14 +485,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=spartans-vs-inverness-ct-football-1491358</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=airdrie-united-vs-arbroath-football-1488582</loc>
         <lastmod>2026-01-17</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=airdrie-united-vs-arbroath-football-1488582</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=spartans-vs-inverness-ct-football-1491358</loc>
         <lastmod>2026-01-17</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -919,7 +933,7 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-oktagon-82-czech</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-oktagon-82-german</loc>
         <lastmod>2026-01-17</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -933,7 +947,7 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-oktagon-82-german</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-oktagon-82-czech</loc>
         <lastmod>2026-01-17</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1577,13 +1591,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=lane-vs-pague-1629473631</loc>
-        <lastmod>2026-01-18</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=court-10-1629473640</loc>
         <lastmod>2026-01-18</lastmod>
         <changefreq>daily</changefreq>
@@ -1634,6 +1641,13 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=john-cain-arena-1629473639</loc>
+        <lastmod>2026-01-18</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=lane-vs-pague-1629473631</loc>
         <lastmod>2026-01-18</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
