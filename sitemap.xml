@@ -1906,7 +1906,7 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=guimaraes-vs-fc-porto-football-1396398</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=guimaraes-vs-fc-porto-1396398</loc>
         <lastmod>2026-01-18</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -2243,6 +2243,13 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=panetolikos-vs-levadiakos-2287145</loc>
+        <lastmod>2026-01-19</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=besiktas-vs-kayserispor-1394588</loc>
         <lastmod>2026-01-19</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
