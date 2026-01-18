@@ -198,6 +198,13 @@
     </url>
 
     <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=havelse-vs-hoffenheim-ii-2281816</loc>
+        <lastmod>2026-01-18</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=st-truiden-vs-oh-leuven-1382587</loc>
         <lastmod>2026-01-18</lastmod>
         <changefreq>daily</changefreq>
@@ -752,13 +759,6 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=nflstreams_live</loc>
-        <lastmod>2026-01-18</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=havelse-vs-hoffenheim-ii-2281816</loc>
         <lastmod>2026-01-18</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
