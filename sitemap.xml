@@ -394,6 +394,13 @@
     </url>
 
     <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=eastern-washington-vs-sacramento-state-2411247</loc>
+        <lastmod>2026-01-24</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=uc-davis-vs-uc-riverside-2376925</loc>
         <lastmod>2026-01-24</lastmod>
         <changefreq>daily</changefreq>
@@ -745,6 +752,13 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=jacksonville-vs-eastern-kentucky-2376889</loc>
+        <lastmod>2026-01-24</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=oral-roberts-vs-north-dakota-state-2376905</loc>
         <lastmod>2026-01-24</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1137,20 +1151,6 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=texas-tech-vs-houston-2376948</loc>
-        <lastmod>2026-01-24</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=eastern-washington-vs-sacramento-state-2411247</loc>
-        <lastmod>2026-01-24</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=oral-roberts-vs-north-dakota-state-2376905</loc>
         <lastmod>2026-01-24</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -3922,14 +3922,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=tigre-vs-estudiantes-de-rio-cuarto-football-1491831</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=argentinos-jrs-vs-sarmiento-junin-football-1491819</loc>
         <lastmod>2026-01-26</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=argentinos-jrs-vs-sarmiento-junin-football-1491819</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=tigre-vs-estudiantes-de-rio-cuarto-football-1491831</loc>
         <lastmod>2026-01-26</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
