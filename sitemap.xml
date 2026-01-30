@@ -198,6 +198,13 @@
     </url>
 
     <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=afghanistan-vs-ireland-1629480883</loc>
+        <lastmod>2026-01-30</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=1769756400000-wta-manila-prozorova-vekic</loc>
         <lastmod>2026-01-30</lastmod>
         <changefreq>daily</changefreq>
@@ -528,13 +535,6 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=nflstreams_live</loc>
-        <lastmod>2026-01-30</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=new-zealand-vs-england-1629480884</loc>
         <lastmod>2026-01-30</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -2256,7 +2256,7 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-nottingham-forest-vs-crystal-palace</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-lyon-vs-lille</loc>
         <lastmod>2026-02-01</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -2270,14 +2270,7 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-lyon-vs-lille</loc>
-        <lastmod>2026-02-01</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-aston-villa-vs-brentford</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-nottingham-forest-vs-crystal-palace</loc>
         <lastmod>2026-02-01</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -2285,6 +2278,13 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=ppv-manchester-united-vs-fulham</loc>
+        <lastmod>2026-02-01</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-aston-villa-vs-brentford</loc>
         <lastmod>2026-02-01</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -2319,13 +2319,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-toulouse-vs-aj-auxerre</loc>
-        <lastmod>2026-02-01</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=ppv-angers-vs-metz</loc>
         <lastmod>2026-02-01</lastmod>
         <changefreq>daily</changefreq>
@@ -2334,6 +2327,13 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=ppv-nice-vs-brest</loc>
+        <lastmod>2026-02-01</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-toulouse-vs-aj-auxerre</loc>
         <lastmod>2026-02-01</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
