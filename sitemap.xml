@@ -485,6 +485,13 @@
     </url>
 
     <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-oktagon-83-english</loc>
+        <lastmod>2026-01-31</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=ppv-oktagon-83-german</loc>
         <lastmod>2026-01-31</lastmod>
         <changefreq>daily</changefreq>
@@ -493,13 +500,6 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=ppv-oktagon-83-czech</loc>
-        <lastmod>2026-01-31</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-oktagon-83-english</loc>
         <lastmod>2026-01-31</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -947,14 +947,7 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=brighton-w-vs-london-city-lionesses-football-1417277</loc>
-        <lastmod>2026-02-01</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=west-ham-w-vs-tottenham-hotspur-w-football-1417275</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=everton-w-vs-aston-villa-w-football-1417278</loc>
         <lastmod>2026-02-01</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -968,7 +961,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=everton-w-vs-aston-villa-w-football-1417278</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=west-ham-w-vs-tottenham-hotspur-w-football-1417275</loc>
+        <lastmod>2026-02-01</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=brighton-w-vs-london-city-lionesses-football-1417277</loc>
         <lastmod>2026-02-01</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1738,14 +1738,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-sunderland-vs-burnley</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-mallorca-vs-sevilla</loc>
         <lastmod>2026-02-02</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-mallorca-vs-sevilla</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-sunderland-vs-burnley</loc>
         <lastmod>2026-02-02</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -2025,13 +2025,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-oktagon-84-german</loc>
-        <lastmod>2026-02-14</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=ppv-oktagon-84-czech</loc>
         <lastmod>2026-02-14</lastmod>
         <changefreq>daily</changefreq>
@@ -2040,6 +2033,13 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=ppv-oktagon-84-english</loc>
+        <lastmod>2026-02-14</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-oktagon-84-german</loc>
         <lastmod>2026-02-14</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
