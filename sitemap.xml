@@ -198,6 +198,13 @@
     </url>
 
     <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=benfica-vs-alverca-2283510</loc>
+        <lastmod>2026-02-08</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=czech-republic-w-vs-finland-w-hockey-419989</loc>
         <lastmod>2026-02-08</lastmod>
         <changefreq>daily</changefreq>
@@ -262,13 +269,6 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=uab-vs-rice-2382172</loc>
-        <lastmod>2026-02-08</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-team-women-s-free</loc>
         <lastmod>2026-02-08</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -352,21 +352,7 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-women-s-snowboard-big-air-qualifying</loc>
-        <lastmod>2026-02-08</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=ppv-team-event-day-3-venue-feed</loc>
-        <lastmod>2026-02-08</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=duisburg-vs-verl-2281838</loc>
         <lastmod>2026-02-08</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -443,7 +429,7 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=benfica-vs-alverca-2283510</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-team-men-s-free</loc>
         <lastmod>2026-02-08</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -702,13 +688,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=orlando-magic-vs-milwaukee-bucks-basketball-470243</loc>
-        <lastmod>2026-02-10</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=miami-heat-vs-utah-jazz-basketball-470242</loc>
         <lastmod>2026-02-10</lastmod>
         <changefreq>daily</changefreq>
@@ -723,7 +702,7 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=minnesota-timberwolves-vs-atlanta-hawks-basketball-470244</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=orlando-magic-vs-milwaukee-bucks-basketball-470243</loc>
         <lastmod>2026-02-10</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -731,6 +710,13 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=new-orleans-pelicans-vs-sacramento-kings-basketball-470245</loc>
+        <lastmod>2026-02-10</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=minnesota-timberwolves-vs-atlanta-hawks-basketball-470244</loc>
         <lastmod>2026-02-10</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
