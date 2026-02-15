@@ -198,6 +198,13 @@
     </url>
 
     <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=womens-giant-slalom-run-1-2427502</loc>
+        <lastmod>2026-02-15</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=ppv-norway-vs-italy-m-round-robin</loc>
         <lastmod>2026-02-15</lastmod>
         <changefreq>daily</changefreq>
@@ -345,20 +352,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-women-s-monobob-run-1</loc>
-        <lastmod>2026-02-15</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=womens-giant-slalom-run-1-2427502</loc>
-        <lastmod>2026-02-15</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=ppv-men-s-snowboard-slopestyle-qualifying</loc>
         <lastmod>2026-02-15</lastmod>
         <changefreq>daily</changefreq>
@@ -374,6 +367,13 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=mens-12-5km-pursuit-2427513</loc>
+        <lastmod>2026-02-15</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-women-s-monobob-run-2</loc>
         <lastmod>2026-02-15</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -464,14 +464,7 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=everton-w-vs-west-ham-w-football-1417291</loc>
-        <lastmod>2026-02-15</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=manchester-united-w-vs-london-city-lionesses-football-1417287</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=chelsea-w-vs-liverpool-w-football-1417290</loc>
         <lastmod>2026-02-15</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -485,7 +478,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=chelsea-w-vs-liverpool-w-football-1417290</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=manchester-united-w-vs-london-city-lionesses-football-1417287</loc>
+        <lastmod>2026-02-15</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=everton-w-vs-west-ham-w-football-1417291</loc>
         <lastmod>2026-02-15</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1031,20 +1031,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-tennessee-tech-golden-eagles-vs-texas-a-m-aggies</loc>
-        <lastmod>2026-02-15</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-james-madison-dukes-vs-florida-state-seminoles</loc>
-        <lastmod>2026-02-15</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=ppv-michigan-state-spartans-vs-louisville-cardinals</loc>
         <lastmod>2026-02-15</lastmod>
         <changefreq>daily</changefreq>
@@ -1053,6 +1039,20 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=ppv-uc-davis-aggies-vs-texas-longhorns</loc>
+        <lastmod>2026-02-15</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-tennessee-tech-golden-eagles-vs-texas-a-m-aggies</loc>
+        <lastmod>2026-02-15</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-james-madison-dukes-vs-florida-state-seminoles</loc>
         <lastmod>2026-02-15</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1374,7 +1374,7 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-players-championship-board-3</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-players-championship-board-2</loc>
         <lastmod>2026-02-16</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
