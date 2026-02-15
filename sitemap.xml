@@ -387,6 +387,20 @@
     </url>
 
     <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=manchester-united-w-vs-london-city-lionesses-football-1417287</loc>
+        <lastmod>2026-02-15</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=wsl-multiview-game-162623</loc>
+        <lastmod>2026-02-15</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=aston-villa-w-vs-tottenham-hotspur-w-football-1417288</loc>
         <lastmod>2026-02-15</lastmod>
         <changefreq>daily</changefreq>
@@ -402,20 +416,6 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=chelsea-w-vs-liverpool-w-football-1417290</loc>
-        <lastmod>2026-02-15</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=wsl-multiview-game-162623</loc>
-        <lastmod>2026-02-15</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=manchester-united-w-vs-london-city-lionesses-football-1417287</loc>
         <lastmod>2026-02-15</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -520,20 +520,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-usa-vs-china-w-round-robin</loc>
-        <lastmod>2026-02-15</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-denmark-vs-italy-w-round-robin</loc>
-        <lastmod>2026-02-15</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=ppv-japan-vs-south-korea-w-round-robin</loc>
         <lastmod>2026-02-15</lastmod>
         <changefreq>daily</changefreq>
@@ -542,6 +528,20 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=ppv-great-britain-vs-sweden-w-round-robin</loc>
+        <lastmod>2026-02-15</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-usa-vs-china-w-round-robin</loc>
+        <lastmod>2026-02-15</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-denmark-vs-italy-w-round-robin</loc>
         <lastmod>2026-02-15</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1017,6 +1017,13 @@
     </url>
 
     <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-uc-davis-aggies-vs-texas-longhorns</loc>
+        <lastmod>2026-02-15</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=ppv-james-madison-dukes-vs-florida-state-seminoles</loc>
         <lastmod>2026-02-15</lastmod>
         <changefreq>daily</changefreq>
@@ -1025,13 +1032,6 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=ppv-michigan-state-spartans-vs-louisville-cardinals</loc>
-        <lastmod>2026-02-15</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-uc-davis-aggies-vs-texas-longhorns</loc>
         <lastmod>2026-02-15</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1367,7 +1367,7 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-players-championship-board-4</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-players-championship-board-2</loc>
         <lastmod>2026-02-16</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
