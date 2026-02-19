@@ -198,6 +198,48 @@
     </url>
 
     <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-men-s-women-s-sprints-heats</loc>
+        <lastmod>2026-02-19</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-men-s-team-large-hill-ski-jump</loc>
+        <lastmod>2026-02-19</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-sweden-vs-czechia-m-round-robin</loc>
+        <lastmod>2026-02-19</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=italy-curling-vs-switzerland-curling-2420369</loc>
+        <lastmod>2026-02-19</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=norway-curling-vs-canada-curling-2420371</loc>
+        <lastmod>2026-02-19</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=germany-curling-vs-china-curling-2420319</loc>
+        <lastmod>2026-02-19</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=pre-season-testing-practice-2-2408105</loc>
         <lastmod>2026-02-19</lastmod>
         <changefreq>daily</changefreq>
@@ -324,41 +366,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-sweden-vs-czechia-m-round-robin</loc>
-        <lastmod>2026-02-19</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=italy-curling-vs-switzerland-curling-2420369</loc>
-        <lastmod>2026-02-19</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=norway-curling-vs-canada-curling-2420371</loc>
-        <lastmod>2026-02-19</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=germany-curling-vs-china-curling-2420319</loc>
-        <lastmod>2026-02-19</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-men-s-team-large-hill-ski-jump</loc>
-        <lastmod>2026-02-19</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=ppv-men-s-freeski-halfpipe-qualifying</loc>
         <lastmod>2026-02-19</lastmod>
         <changefreq>daily</changefreq>
@@ -401,21 +408,7 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-men-s-women-s-sprints-finals</loc>
-        <lastmod>2026-02-19</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=ppv-men-s-team-large-hill-2-x7-5-km-relay</loc>
-        <lastmod>2026-02-19</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-two-woman-bobsled-training</loc>
         <lastmod>2026-02-19</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -429,7 +422,7 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-japan-vs-china-w-round-robin</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-two-woman-bobsled-training</loc>
         <lastmod>2026-02-19</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -443,14 +436,21 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-great-britain-vs-italy-w-round-robin</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-canada-vs-south-korea-w-round-robin</loc>
         <lastmod>2026-02-19</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-canada-vs-south-korea-w-round-robin</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-japan-vs-china-w-round-robin</loc>
+        <lastmod>2026-02-19</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-great-britain-vs-italy-w-round-robin</loc>
         <lastmod>2026-02-19</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -961,14 +961,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-1-fc-union-berlin-vs-bayer-leverkusen</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-vf-l-wolfsburg-vs-fc-augsburg</loc>
         <lastmod>2026-02-21</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-vf-l-wolfsburg-vs-fc-augsburg</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-1-fc-union-berlin-vs-bayer-leverkusen</loc>
         <lastmod>2026-02-21</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -982,7 +982,7 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-brentford-vs-brighton-hove-albion</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-chelsea-vs-burnley</loc>
         <lastmod>2026-02-21</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -996,7 +996,7 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-chelsea-vs-burnley</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-brentford-vs-brighton-hove-albion</loc>
         <lastmod>2026-02-21</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1031,7 +1031,7 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-osasuna-vs-real-madrid</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-rb-leipzig-vs-borussia-dortmund</loc>
         <lastmod>2026-02-21</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1045,7 +1045,7 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-rb-leipzig-vs-borussia-dortmund</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-osasuna-vs-real-madrid</loc>
         <lastmod>2026-02-21</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1073,14 +1073,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-manchester-city-vs-newcastle-united</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-atl-tico-madrid-vs-espanyol</loc>
         <lastmod>2026-02-21</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-atl-tico-madrid-vs-espanyol</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-manchester-city-vs-newcastle-united</loc>
         <lastmod>2026-02-21</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1136,7 +1136,7 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-nottingham-forest-vs-liverpool</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-aj-auxerre-vs-stade-rennais</loc>
         <lastmod>2026-02-22</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1164,7 +1164,7 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-aj-auxerre-vs-stade-rennais</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-nottingham-forest-vs-liverpool</loc>
         <lastmod>2026-02-22</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1206,14 +1206,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-st-pauli-vs-werder-bremen</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-tottenham-hotspur-vs-arsenal</loc>
         <lastmod>2026-02-22</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-tottenham-hotspur-vs-arsenal</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-st-pauli-vs-werder-bremen</loc>
         <lastmod>2026-02-22</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1248,14 +1248,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-as-roma-vs-cremonese</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-strasbourg-vs-lyon</loc>
         <lastmod>2026-02-22</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-strasbourg-vs-lyon</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-as-roma-vs-cremonese</loc>
         <lastmod>2026-02-22</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
