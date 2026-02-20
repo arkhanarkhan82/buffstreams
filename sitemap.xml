@@ -198,6 +198,20 @@
     </url>
 
     <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=italy-u17-vs-france-u17-2435745</loc>
+        <lastmod>2026-02-20</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=wests-tigers-vs-penrith-panthers-2435645</loc>
+        <lastmod>2026-02-20</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=adelaide-united-vs-perth-glory-2355373</loc>
         <lastmod>2026-02-20</lastmod>
         <changefreq>daily</changefreq>
@@ -241,13 +255,6 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=ppv-event-04-bfl-86-ppv-004</loc>
-        <lastmod>2026-02-20</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=tna-impact-tna-1</loc>
         <lastmod>2026-02-20</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -387,20 +394,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=wests-tigers-vs-penrith-panthers-2435645</loc>
-        <lastmod>2026-02-20</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=italy-u17-vs-france-u17-2435745</loc>
-        <lastmod>2026-02-20</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=magical-kenya-open-dp-world-tour-tgl-001</loc>
         <lastmod>2026-02-20</lastmod>
         <changefreq>daily</changefreq>
@@ -513,14 +506,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=al-okhdood-vs-al-qadisiyah-fc-football-1436111</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=al-taawon-vs-al-fayha-football-1436113</loc>
         <lastmod>2026-02-20</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=al-taawon-vs-al-fayha-football-1436113</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=al-okhdood-vs-al-qadisiyah-fc-football-1436111</loc>
         <lastmod>2026-02-20</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1579,6 +1572,13 @@
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=live-event_claressa-shields-vs-franchon-crews-dezurn-live-stream</loc>
         <lastmod>2026-02-23</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=live-event_motogp-2026-grand-prix-of-thailand-live-stream</loc>
+        <lastmod>2026-02-27</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
