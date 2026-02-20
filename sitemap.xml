@@ -471,14 +471,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=al-taawon-vs-al-fayha-football-1436113</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=al-okhdood-vs-al-qadisiyah-fc-football-1436111</loc>
         <lastmod>2026-02-20</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=al-okhdood-vs-al-qadisiyah-fc-football-1436111</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=al-taawon-vs-al-fayha-football-1436113</loc>
         <lastmod>2026-02-20</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -716,7 +716,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=19881</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-event-02-bison-kombat-6-ppv-02</loc>
+        <lastmod>2026-02-20</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-event-03-bray-v-coria-ppv-03</loc>
         <lastmod>2026-02-20</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -739,6 +746,20 @@
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=llaneros-vs-independiente-medell-n-2414931</loc>
         <lastmod>2026-02-20</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-event-04-toughman-contest-ppv-004</loc>
+        <lastmod>2026-02-21</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-event-05-house-of-glory-no-turning-back-ppv-05</loc>
+        <lastmod>2026-02-21</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
