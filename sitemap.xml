@@ -198,6 +198,13 @@
     </url>
 
     <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=melbourne-storm-vs-gold-coast-titans-2435648</loc>
+        <lastmod>2026-02-21</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=melbourne-city-vs-melbourne-victory-2355376</loc>
         <lastmod>2026-02-21</lastmod>
         <changefreq>daily</changefreq>
@@ -248,27 +255,6 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=ppv-event-09-xfn-407-ppv-09</loc>
-        <lastmod>2026-02-21</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-event-07-jara-v-gerez-en-espanol-ppv-07</loc>
-        <lastmod>2026-02-21</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-event-06-combat-fc-12-ppv-06</loc>
-        <lastmod>2026-02-21</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=wwe-friday-night-smackdown-wwe-009</loc>
         <lastmod>2026-02-21</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -388,13 +374,6 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=admin-rally-tv</loc>
-        <lastmod>2026-02-21</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=melbourne-storm-vs-gold-coast-titans-2435648</loc>
         <lastmod>2026-02-21</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1472,14 +1451,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ufc-fight-night-strickland-vs-hernandez-mma-2535</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ufc-fight-night-strickland-vs-hernandez-mma-2536</loc>
         <lastmod>2026-02-21</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ufc-fight-night-strickland-vs-hernandez-mma-2536</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ufc-fight-night-strickland-vs-hernandez-mma-2535</loc>
         <lastmod>2026-02-21</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -2181,6 +2160,27 @@
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=live-event_luis-torres-valenzuela-vs-rene-tellez-giron-live-stream</loc>
         <lastmod>2026-02-27</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=live-event_moto2-2026-grand-prix-of-thailand-live-stream</loc>
+        <lastmod>2026-02-28</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=live-event_indycar-2026-firestone-grand-prix-of-st-petersburg-live-stream</loc>
+        <lastmod>2026-02-28</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=live-event_nascar-o-reilly-auto-parts-series-2026-focused-health-250-live-stream</loc>
+        <lastmod>2026-02-28</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
