@@ -198,6 +198,34 @@
     </url>
 
     <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-four-man-bobsled-final-run</loc>
+        <lastmod>2026-02-22</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=arka-gdynia-vs-gks-katowice-2267891</loc>
+        <lastmod>2026-02-22</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=twente-vs-groningen-2268367</loc>
+        <lastmod>2026-02-22</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=felgueiras-vs-penafiel-2284460</loc>
+        <lastmod>2026-02-22</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=kayserispor-vs-antalyaspor-2282981</loc>
         <lastmod>2026-02-22</lastmod>
         <changefreq>daily</changefreq>
@@ -248,20 +276,6 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=v8-supercars-sydney-supersprint-game-4u8337</loc>
-        <lastmod>2026-02-22</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=mario-barrios-vs-ryan-garcia-2425675</loc>
-        <lastmod>2026-02-22</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=superbet-poland-darts-open--day-3-2428402</loc>
         <lastmod>2026-02-22</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -338,34 +352,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=felgueiras-vs-penafiel-2284460</loc>
-        <lastmod>2026-02-22</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-four-man-bobsled-final-run</loc>
-        <lastmod>2026-02-22</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=arka-gdynia-vs-gks-katowice-2267891</loc>
-        <lastmod>2026-02-22</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=twente-vs-groningen-2268367</loc>
-        <lastmod>2026-02-22</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=genoa-vs-torino-2265290</loc>
         <lastmod>2026-02-22</lastmod>
         <changefreq>daily</changefreq>
@@ -381,6 +367,13 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=sheffield-united-vs-sheffield-wednesday-2275583</loc>
+        <lastmod>2026-02-22</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=superbet-poland-darts-open--day-3-2428402</loc>
         <lastmod>2026-02-22</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -527,14 +520,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-goal-rush</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-aj-auxerre-vs-stade-rennais</loc>
         <lastmod>2026-02-22</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-aj-auxerre-vs-stade-rennais</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-goal-rush</loc>
         <lastmod>2026-02-22</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -870,13 +863,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=detroit-tigers-vs-baltimore-orioles-2392751</loc>
-        <lastmod>2026-02-22</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=atlanta-braves-vs-minnesota-twins-2392755</loc>
         <lastmod>2026-02-22</lastmod>
         <changefreq>daily</changefreq>
@@ -885,6 +871,13 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=houston-astros-vs-st--louis-cardinals-2392758</loc>
+        <lastmod>2026-02-22</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=detroit-tigers-vs-baltimore-orioles-2392751</loc>
         <lastmod>2026-02-22</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1010,7 +1003,7 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=texas-rangers-vs-colorado-rockies-2392744</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=san-francisco-giants-vs-chicago-cubs-2392745</loc>
         <lastmod>2026-02-22</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1024,7 +1017,7 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=san-francisco-giants-vs-chicago-cubs-2392745</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=texas-rangers-vs-colorado-rockies-2392744</loc>
         <lastmod>2026-02-22</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
