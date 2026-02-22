@@ -205,13 +205,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=central-coast-mariners-vs-western-sydney-wanderers-2355377</loc>
-        <lastmod>2026-02-22</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=v8-supercars-sydney-supersprint-game-4u8337</loc>
         <lastmod>2026-02-22</lastmod>
         <changefreq>daily</changefreq>
@@ -248,13 +241,6 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=mario-barrios-vs-ryan-garcia-2425675</loc>
-        <lastmod>2026-02-22</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-event-03-toughman-contest-ev-003</loc>
         <lastmod>2026-02-22</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -338,13 +324,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-four-man-bobsled-run-3</loc>
-        <lastmod>2026-02-22</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=womens-50km-mass-start-classic-2427556</loc>
         <lastmod>2026-02-22</lastmod>
         <changefreq>daily</changefreq>
@@ -381,6 +360,13 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=felgueiras-vs-penafiel-2284460</loc>
+        <lastmod>2026-02-22</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-four-man-bobsled-final-run</loc>
         <lastmod>2026-02-22</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -548,14 +534,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=oxford-united-w-vs-charlton-athletic-w-football-1514956</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=manchester-city-w-vs-sheffield-united-w-football-1514955</loc>
         <lastmod>2026-02-22</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=manchester-city-w-vs-sheffield-united-w-football-1514955</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=oxford-united-w-vs-charlton-athletic-w-football-1514956</loc>
         <lastmod>2026-02-22</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
