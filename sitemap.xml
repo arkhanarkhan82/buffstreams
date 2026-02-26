@@ -205,13 +205,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=argentinos-juniors-vs-barcelona-sc-2405731</loc>
-        <lastmod>2026-02-26</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=live-event_nascar-truck-series-2026-fr8-208-live-stream</loc>
         <lastmod>2026-02-26</lastmod>
         <changefreq>daily</changefreq>
@@ -268,6 +261,13 @@
     </url>
 
     <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=wta-500-merida-atp-500-acapulco-wta-250-austin-tn-1</loc>
+        <lastmod>2026-02-26</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=japan-basketball-vs-china-basketball-2389692</loc>
         <lastmod>2026-02-26</lastmod>
         <changefreq>daily</changefreq>
@@ -303,14 +303,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ferencvarosi-tc-vs-ludogorets-football-1515539</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=plzen-vs-panathinaikos-football-1515540</loc>
         <lastmod>2026-02-26</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=plzen-vs-panathinaikos-football-1515540</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ferencvarosi-tc-vs-ludogorets-football-1515539</loc>
         <lastmod>2026-02-26</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1024,13 +1024,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-borussia-m-nchengladbach-vs-1-fc-union-berlin</loc>
-        <lastmod>2026-02-28</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=ppv-werder-bremen-vs-1-fc-heidenheim-1846</loc>
         <lastmod>2026-02-28</lastmod>
         <changefreq>daily</changefreq>
@@ -1038,7 +1031,7 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-burnley-vs-brentford</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-borussia-m-nchengladbach-vs-1-fc-union-berlin</loc>
         <lastmod>2026-02-28</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1046,6 +1039,13 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=ppv-newcastle-united-vs-everton</loc>
+        <lastmod>2026-02-28</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-burnley-vs-brentford</loc>
         <lastmod>2026-02-28</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1164,7 +1164,7 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-fulham-vs-tottenham-hotspur</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-paris-fc-vs-nice</loc>
         <lastmod>2026-03-01</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1185,7 +1185,7 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-paris-fc-vs-nice</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-fulham-vs-tottenham-hotspur</loc>
         <lastmod>2026-03-01</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1213,13 +1213,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-metz-vs-brest</loc>
-        <lastmod>2026-03-01</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=ppv-lorient-vs-aj-auxerre</loc>
         <lastmod>2026-03-01</lastmod>
         <changefreq>daily</changefreq>
@@ -1234,7 +1227,7 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-eintracht-frankfurt-vs-sc-freiburg</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-metz-vs-brest</loc>
         <lastmod>2026-03-01</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1242,6 +1235,13 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=ppv-arsenal-vs-chelsea</loc>
+        <lastmod>2026-03-01</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-eintracht-frankfurt-vs-sc-freiburg</loc>
         <lastmod>2026-03-01</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1276,14 +1276,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-marseille-vs-lyon</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-as-roma-vs-juventus</loc>
         <lastmod>2026-03-01</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-as-roma-vs-juventus</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-marseille-vs-lyon</loc>
         <lastmod>2026-03-01</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1318,14 +1318,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-australian-grand-prix-practice-1</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-australian-grand-prix-practice-2</loc>
         <lastmod>2026-03-06</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-australian-grand-prix-practice-3</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-australian-grand-prix-qualifying</loc>
         <lastmod>2026-03-07</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
