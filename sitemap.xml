@@ -464,6 +464,13 @@
     </url>
 
     <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=kolner-vs-erc-ingolstadt-hockey-409088</loc>
+        <lastmod>2026-02-27</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=bremerhaven-vs-adler-mannheim-hockey-409092</loc>
         <lastmod>2026-02-27</lastmod>
         <changefreq>daily</changefreq>
@@ -472,13 +479,6 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=schwenninger-vs-frankfurt-lowen-hockey-409087</loc>
-        <lastmod>2026-02-27</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=kolner-vs-erc-ingolstadt-hockey-409088</loc>
         <lastmod>2026-02-27</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1731,14 +1731,7 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-sassuolo-vs-atalanta</loc>
-        <lastmod>2026-03-01</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-fulham-vs-tottenham-hotspur</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-brighton-hove-albion-vs-nottingham-forest</loc>
         <lastmod>2026-03-01</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1752,14 +1745,21 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-brighton-hove-albion-vs-nottingham-forest</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-paris-fc-vs-nice</loc>
         <lastmod>2026-03-01</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-paris-fc-vs-nice</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-sassuolo-vs-atalanta</loc>
+        <lastmod>2026-03-01</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-fulham-vs-tottenham-hotspur</loc>
         <lastmod>2026-03-01</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1787,14 +1787,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-lorient-vs-aj-auxerre</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-metz-vs-brest</loc>
         <lastmod>2026-03-01</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-metz-vs-brest</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-lorient-vs-aj-auxerre</loc>
         <lastmod>2026-03-01</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1892,7 +1892,7 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-australian-grand-prix-practice-1</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-australian-grand-prix-practice-2</loc>
         <lastmod>2026-03-06</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
