@@ -219,13 +219,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=tna-impact-tna-1</loc>
-        <lastmod>2026-02-27</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=live-event_nascar-truck-series-2026-fr8-208-live-stream</loc>
         <lastmod>2026-02-27</lastmod>
         <changefreq>daily</changefreq>
@@ -1731,6 +1724,13 @@
     </url>
 
     <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-manchester-united-vs-crystal-palace</loc>
+        <lastmod>2026-03-01</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=ppv-paris-fc-vs-nice</loc>
         <lastmod>2026-03-01</lastmod>
         <changefreq>daily</changefreq>
@@ -1753,13 +1753,6 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=ppv-fulham-vs-tottenham-hotspur</loc>
-        <lastmod>2026-03-01</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-manchester-united-vs-crystal-palace</loc>
         <lastmod>2026-03-01</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
