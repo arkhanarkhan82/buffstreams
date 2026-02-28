@@ -1052,6 +1052,13 @@
     </url>
 
     <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-toronto-blue-jays-vs-new-york-yankees</loc>
+        <lastmod>2026-02-28</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=baltimore-orioles-vs-atlanta-braves-2392850</loc>
         <lastmod>2026-02-28</lastmod>
         <changefreq>daily</changefreq>
@@ -1227,6 +1234,13 @@
     </url>
 
     <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-chicago-cubs-vs-los-angeles-dodgers</loc>
+        <lastmod>2026-02-28</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=le-havre-vs-paris-sg-2278316</loc>
         <lastmod>2026-02-28</lastmod>
         <changefreq>daily</changefreq>
@@ -1241,13 +1255,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=cleveland-guardians-vs-chicago-white-sox-2392847</loc>
-        <lastmod>2026-02-28</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=texas-rangers-vs-los-angeles-dodgers-2392843</loc>
         <lastmod>2026-02-28</lastmod>
         <changefreq>daily</changefreq>
@@ -1255,7 +1262,7 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=colorado-rockies-vs-kansas-city-royals-2392846</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=cleveland-guardians-vs-chicago-white-sox-2392847</loc>
         <lastmod>2026-02-28</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1277,6 +1284,13 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=los-angeles-angels-vs-arizona-diamondbacks-2392851</loc>
+        <lastmod>2026-02-28</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=colorado-rockies-vs-kansas-city-royals-2392846</loc>
         <lastmod>2026-02-28</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -2004,14 +2018,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=viborg-vs-fc-nordsjaelland-football-1379480</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=fc-midtjylland-vs-brondby-football-1379477</loc>
         <lastmod>2026-03-01</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=fc-midtjylland-vs-brondby-football-1379477</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=viborg-vs-fc-nordsjaelland-football-1379480</loc>
         <lastmod>2026-03-01</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -2193,7 +2207,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-australian-grand-prix-practice-3</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-australian-grand-prix-qualifying</loc>
+        <lastmod>2026-03-07</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=live-event_nascar-o-reilly-auto-parts-series-2026-govx-200-live-stream</loc>
         <lastmod>2026-03-07</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
