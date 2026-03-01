@@ -198,20 +198,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=thailand-gp-2365952</loc>
-        <lastmod>2026-03-01</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=chinese-taipei-basketball-vs-china-basketball-2389733</loc>
-        <lastmod>2026-03-01</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=thailand-grand-prix-moto3-2417403</loc>
         <lastmod>2026-03-01</lastmod>
         <changefreq>daily</changefreq>
@@ -373,14 +359,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=eisbaren-berlin-vs-bremerhaven-hockey-409093</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=frankfurt-lowen-vs-grizzly-wolfsburg-hockey-409094</loc>
         <lastmod>2026-03-01</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=frankfurt-lowen-vs-grizzly-wolfsburg-hockey-409094</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=eisbaren-berlin-vs-bremerhaven-hockey-409093</loc>
         <lastmod>2026-03-01</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -548,14 +534,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=sporting-gijon-vs-leganes-football-1392065</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=mirandes-vs-ad-ceuta-fc-football-1392070</loc>
         <lastmod>2026-03-01</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=mirandes-vs-ad-ceuta-fc-football-1392070</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=sporting-gijon-vs-leganes-football-1392065</loc>
         <lastmod>2026-03-01</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -639,13 +625,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=viborg-vs-fc-nordsjaelland-football-1379480</loc>
-        <lastmod>2026-03-01</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=fc-midtjylland-vs-brondby-football-1379477</loc>
         <lastmod>2026-03-01</lastmod>
         <changefreq>daily</changefreq>
@@ -654,6 +633,13 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=sonderjyske-vs-odense-football-1379478</loc>
+        <lastmod>2026-03-01</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=viborg-vs-fc-nordsjaelland-football-1379480</loc>
         <lastmod>2026-03-01</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1381,7 +1367,7 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-australian-grand-prix-practice-2</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-australian-grand-prix-practice-1</loc>
         <lastmod>2026-03-06</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1395,7 +1381,7 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-australian-grand-prix-qualifying</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-australian-grand-prix-practice-3</loc>
         <lastmod>2026-03-07</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
