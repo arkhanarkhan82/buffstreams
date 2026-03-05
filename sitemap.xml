@@ -198,6 +198,13 @@
     </url>
 
     <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=arnold-palmer-invitational-pga-tour-pga-526234</loc>
+        <lastmod>2026-03-05</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=uruguay-u17-vs-argentina-u17-football-1528803</loc>
         <lastmod>2026-03-05</lastmod>
         <changefreq>daily</changefreq>
@@ -262,13 +269,6 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=admin-rally-tv</loc>
-        <lastmod>2026-03-05</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=arnold-palmer-invitational-pga-tour-pga-526234</loc>
         <lastmod>2026-03-05</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -856,14 +856,7 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-rb-leipzig-vs-fc-augsburg</loc>
-        <lastmod>2026-03-07</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-1-fc-heidenheim-1846-vs-tsg-hoffenheim</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-vf-l-wolfsburg-vs-hamburg-sv</loc>
         <lastmod>2026-03-07</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -884,7 +877,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-vf-l-wolfsburg-vs-hamburg-sv</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-rb-leipzig-vs-fc-augsburg</loc>
+        <lastmod>2026-03-07</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-1-fc-heidenheim-1846-vs-tsg-hoffenheim</loc>
         <lastmod>2026-03-07</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1024,14 +1024,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-bologna-vs-hellas-verona</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-lens-vs-metz</loc>
         <lastmod>2026-03-08</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-lens-vs-metz</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-bologna-vs-hellas-verona</loc>
         <lastmod>2026-03-08</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1080,14 +1080,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-1-fc-union-berlin-vs-werder-bremen</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-leeds-united-vs-norwich-city</loc>
         <lastmod>2026-03-08</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-leeds-united-vs-norwich-city</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-1-fc-union-berlin-vs-werder-bremen</loc>
         <lastmod>2026-03-08</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
