@@ -198,6 +198,13 @@
     </url>
 
     <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=live-event_formula-1-2026-australia-gp-live-stream</loc>
+        <lastmod>2026-03-06</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=uk-open-darts-session-1-2-darts-1</loc>
         <lastmod>2026-03-06</lastmod>
         <changefreq>daily</changefreq>
@@ -255,13 +262,6 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=admin-rally-tv</loc>
-        <lastmod>2026-03-06</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=live-event_formula-1-2026-australia-gp-live-stream</loc>
         <lastmod>2026-03-06</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -373,7 +373,7 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=adler-mannheim-vs-kolner-hockey-409112</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=munchen-vs-grizzly-wolfsburg-hockey-409107</loc>
         <lastmod>2026-03-06</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -387,7 +387,7 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=munchen-vs-grizzly-wolfsburg-hockey-409107</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=adler-mannheim-vs-kolner-hockey-409112</loc>
         <lastmod>2026-03-06</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -583,14 +583,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=barracas-central-vs-banfield-football-1491939</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=platense-vs-estudiantes-lp-football-1491946</loc>
         <lastmod>2026-03-06</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=platense-vs-estudiantes-lp-football-1491946</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=barracas-central-vs-banfield-football-1491939</loc>
         <lastmod>2026-03-06</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -765,14 +765,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=rosario-central-vs-tigre-football-1491949</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=union-santa-fe-vs-talleres-cordoba-football-1491951</loc>
         <lastmod>2026-03-07</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=union-santa-fe-vs-talleres-cordoba-football-1491951</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=rosario-central-vs-tigre-football-1491949</loc>
         <lastmod>2026-03-07</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1619,7 +1619,7 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-fiorentina-vs-parma</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-lens-vs-metz</loc>
         <lastmod>2026-03-08</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1633,7 +1633,7 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-lens-vs-metz</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-fiorentina-vs-parma</loc>
         <lastmod>2026-03-08</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1661,13 +1661,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-lille-vs-lorient</loc>
-        <lastmod>2026-03-08</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=ppv-brest-vs-le-havre-ac</loc>
         <lastmod>2026-03-08</lastmod>
         <changefreq>daily</changefreq>
@@ -1675,7 +1668,7 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-leeds-united-vs-norwich-city</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-lille-vs-lorient</loc>
         <lastmod>2026-03-08</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1683,6 +1676,13 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=ppv-1-fc-union-berlin-vs-werder-bremen</loc>
+        <lastmod>2026-03-08</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-leeds-united-vs-norwich-city</loc>
         <lastmod>2026-03-08</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1703,14 +1703,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-ac-milan-vs-inter-milan</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-lyon-vs-paris-fc</loc>
         <lastmod>2026-03-08</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-lyon-vs-paris-fc</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-ac-milan-vs-inter-milan</loc>
         <lastmod>2026-03-08</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1745,7 +1745,7 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-acc-men-s-conference-tournament</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-big-12-men-s-conference-tournament</loc>
         <lastmod>2026-03-10</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
