@@ -226,13 +226,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=tna-impact-tna-1</loc>
-        <lastmod>2026-03-06</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=live-event_indycar-2026-good-ranchers-250-live-stream</loc>
         <lastmod>2026-03-06</lastmod>
         <changefreq>daily</changefreq>
@@ -283,6 +276,13 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=joburg-open-dp-world-tour-tgl-001</loc>
+        <lastmod>2026-03-06</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=uk-open-darts-session-1-2-darts-1</loc>
         <lastmod>2026-03-06</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -401,6 +401,13 @@
     </url>
 
     <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=bremerhaven-vs-erc-ingolstadt-hockey-409113</loc>
+        <lastmod>2026-03-06</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=munchen-vs-grizzly-wolfsburg-hockey-409107</loc>
         <lastmod>2026-03-06</lastmod>
         <changefreq>daily</changefreq>
@@ -409,13 +416,6 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=nurnberg-ice-tigers-vs-eisbaren-berlin-hockey-409109</loc>
-        <lastmod>2026-03-06</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=bremerhaven-vs-erc-ingolstadt-hockey-409113</loc>
         <lastmod>2026-03-06</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1633,13 +1633,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-lens-vs-metz</loc>
-        <lastmod>2026-03-08</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=ppv-fiorentina-vs-parma</loc>
         <lastmod>2026-03-08</lastmod>
         <changefreq>daily</changefreq>
@@ -1648,6 +1641,13 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=ppv-bologna-vs-hellas-verona</loc>
+        <lastmod>2026-03-08</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-lens-vs-metz</loc>
         <lastmod>2026-03-08</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1668,14 +1668,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-nice-vs-stade-rennais</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-brest-vs-le-havre-ac</loc>
         <lastmod>2026-03-08</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-brest-vs-le-havre-ac</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-nice-vs-stade-rennais</loc>
         <lastmod>2026-03-08</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1759,7 +1759,7 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-big-12-men-s-conference-tournament</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-acc-men-s-conference-tournament</loc>
         <lastmod>2026-03-10</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
