@@ -268,13 +268,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=australia-w-vs-india-w</loc>
-        <lastmod>2026-03-08</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=hong-kong-final-round-2445151</loc>
         <lastmod>2026-03-08</lastmod>
         <changefreq>daily</changefreq>
@@ -359,28 +352,7 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=belgrano-cordoba-vs-sarmiento-junin-football-1491940</loc>
-        <lastmod>2026-03-08</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=racing-club-vs-huracan-football-1491947</loc>
-        <lastmod>2026-03-08</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=ladbrokes-uk-open-day-3-2428554</loc>
-        <lastmod>2026-03-08</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=estoril-vs-casa-pia-1396456</loc>
         <lastmod>2026-03-08</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -926,6 +898,20 @@
     </url>
 
     <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=kolner-vs-eisbaren-berlin</loc>
+        <lastmod>2026-03-08</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=iserlohn-roosters-vs-bremerhaven</loc>
+        <lastmod>2026-03-08</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=triglav-kranj-vs-brinje-grosuplje-2276541</loc>
         <lastmod>2026-03-08</lastmod>
         <changefreq>daily</changefreq>
@@ -1052,21 +1038,7 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=kolner-vs-eisbaren-berlin-hockey-409115</loc>
-        <lastmod>2026-03-08</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=munchen-vs-frankfurt-lowen-hockey-409116</loc>
-        <lastmod>2026-03-08</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=iserlohn-roosters-vs-bremerhaven-hockey-409114</loc>
         <lastmod>2026-03-08</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1668,7 +1640,7 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=legia-warszawa-vs-cracovia-krakow-football-1380593</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=legia-warszawa-vs-cracovia-krakow-1380593</loc>
         <lastmod>2026-03-08</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1703,14 +1675,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=gimnasia-lp-vs-argentinos-jrs-football-1491943</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=lanus-vs-deportivo-riestra-football-1491945</loc>
         <lastmod>2026-03-08</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=lanus-vs-deportivo-riestra-football-1491945</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=gimnasia-lp-vs-argentinos-jrs-football-1491943</loc>
         <lastmod>2026-03-08</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
