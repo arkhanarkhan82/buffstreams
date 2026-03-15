@@ -240,27 +240,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-event-19-high-limit-racing-las-vegas-ppv-19</loc>
-        <lastmod>2026-03-15</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=liv-golf-singapore-game-162626</loc>
-        <lastmod>2026-03-15</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-event-13-shamrock-fc-374-ppv-13</loc>
-        <lastmod>2026-03-15</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=ashes-to-ashes-2447009</loc>
         <lastmod>2026-03-15</lastmod>
         <changefreq>daily</changefreq>
@@ -283,13 +262,6 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=live-event_indycar-2026-java-house-grand-prix-of-arlington-live-stream</loc>
-        <lastmod>2026-03-15</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=live-event_formula-1-2026-china-gp-live-stream</loc>
         <lastmod>2026-03-15</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -464,14 +436,7 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=cordoba-vs-real-sociedad-ii-football-1392089</loc>
-        <lastmod>2026-03-15</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=fc-midtjylland-vs-fc-nordsjaelland-football-1530559</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=frankfurt-lowen-vs-nurnberg-ice-tigers-hockey-409132</loc>
         <lastmod>2026-03-15</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -485,13 +450,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=eisbaren-berlin-vs-munchen-hockey-409131</loc>
-        <lastmod>2026-03-15</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=bremerhaven-vs-dresdner-eislowen-hockey-409130</loc>
         <lastmod>2026-03-15</lastmod>
         <changefreq>daily</changefreq>
@@ -499,7 +457,21 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=frankfurt-lowen-vs-nurnberg-ice-tigers-hockey-409132</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=eisbaren-berlin-vs-munchen-hockey-409131</loc>
+        <lastmod>2026-03-15</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=cordoba-vs-real-sociedad-ii-football-1392089</loc>
+        <lastmod>2026-03-15</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=fc-midtjylland-vs-fc-nordsjaelland-football-1530559</loc>
         <lastmod>2026-03-15</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1269,13 +1241,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=live_world-baseball-classic-final-round_dominican-republic-usa-live-streaming-524484720</loc>
-        <lastmod>2026-03-16</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=edmonton-oilers-vs-nashville-predators-2347943</loc>
         <lastmod>2026-03-16</lastmod>
         <changefreq>daily</changefreq>
@@ -1291,6 +1256,13 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=new-york-knicks-vs-golden-state-warriors-2358344</loc>
+        <lastmod>2026-03-16</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=dominican-republic-baseball-vs-usa-baseball-2449458</loc>
         <lastmod>2026-03-16</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
