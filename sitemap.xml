@@ -205,35 +205,7 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=pumas-vs-cruz-azul-2396211</loc>
-        <lastmod>2026-03-15</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-lafc-vs-st-louis-city-sc</loc>
-        <lastmod>2026-03-15</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=los-angeles-fc-vs-st--louis-city-sc-2406763</loc>
-        <lastmod>2026-03-15</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=los-angeles-clippers-vs-sacramento-kings-2358338</loc>
-        <lastmod>2026-03-15</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=north-melbourne-football-club-vs-port-adelaide-football-club-2399821</loc>
         <lastmod>2026-03-15</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -247,20 +219,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=vancouver-canucks-vs-seattle-kraken-2347937</loc>
-        <lastmod>2026-03-15</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=vegas-golden-knights-vs-chicago-blackhawks-2347938</loc>
-        <lastmod>2026-03-15</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=ppv-event-19-high-limit-racing-las-vegas-ppv-19</loc>
         <lastmod>2026-03-15</lastmod>
         <changefreq>daily</changefreq>
@@ -268,14 +226,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=liv-golf-singapore-game-162626</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-event-13-shamrock-fc-374-ppv-13</loc>
         <lastmod>2026-03-15</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-event-13-shamrock-fc-374-ppv-13</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=liv-golf-singapore-game-162626</loc>
         <lastmod>2026-03-15</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -325,13 +283,6 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=elten-safety-shoes-european-darts-trophy-day-3-2428558</loc>
-        <lastmod>2026-03-15</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-event-09-cage-warriors-202-ppv-09</loc>
         <lastmod>2026-03-15</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -506,14 +457,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=london-city-lionesses-vs-arsenal-w-football-1417296</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=aston-villa-w-vs-manchester-city-w-football-1417293</loc>
         <lastmod>2026-03-15</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=aston-villa-w-vs-manchester-city-w-football-1417293</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=london-city-lionesses-vs-arsenal-w-football-1417296</loc>
         <lastmod>2026-03-15</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -576,14 +527,7 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=straubing-tigers-vs-kolner-hockey-409134</loc>
-        <lastmod>2026-03-15</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=frankfurt-lowen-vs-nurnberg-ice-tigers-hockey-409132</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=eisbaren-berlin-vs-munchen-hockey-409131</loc>
         <lastmod>2026-03-15</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -597,7 +541,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=eisbaren-berlin-vs-munchen-hockey-409131</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=frankfurt-lowen-vs-nurnberg-ice-tigers-hockey-409132</loc>
+        <lastmod>2026-03-15</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=straubing-tigers-vs-kolner-hockey-409134</loc>
         <lastmod>2026-03-15</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
