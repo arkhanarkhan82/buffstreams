@@ -268,13 +268,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-event-06-toughman-contest-ev-06</loc>
-        <lastmod>2026-03-21</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=ppv-event-07-bkfc-87-stewart-v-gaffie-ev-07</loc>
         <lastmod>2026-03-21</lastmod>
         <changefreq>daily</changefreq>
@@ -282,28 +275,14 @@
     </url>
 
     <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-event-06-toughman-contest-ev-06</loc>
+        <lastmod>2026-03-21</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=lecot-belgian-darts-open-day-2-2428562</loc>
-        <lastmod>2026-03-21</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-event-11-attica-sprints-ev-11</loc>
-        <lastmod>2026-03-21</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-event-12-march-madness-cherokee-ev-12</loc>
-        <lastmod>2026-03-21</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-event-05-6pm-shooto-brazil-135-ev-05</loc>
         <lastmod>2026-03-21</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -366,13 +345,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=manchester-city-w-vs-tottenham-hotspur-w-football-1417301</loc>
-        <lastmod>2026-03-21</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=arsenal-w-vs-west-ham-w-football-1417298</loc>
         <lastmod>2026-03-21</lastmod>
         <changefreq>daily</changefreq>
@@ -381,6 +353,13 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=manchester-united-w-vs-everton-w-football-1417299</loc>
+        <lastmod>2026-03-21</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=manchester-city-w-vs-tottenham-hotspur-w-football-1417301</loc>
         <lastmod>2026-03-21</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -926,7 +905,7 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ufc-fight-night-evloev-vs-murphy-mma-2510</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ufc-fight-night-evloev-vs-murphy-mma-2507</loc>
         <lastmod>2026-03-21</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -940,7 +919,7 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ufc-fight-night-evloev-vs-murphy-mma-2507</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ufc-fight-night-evloev-vs-murphy-mma-2510</loc>
         <lastmod>2026-03-21</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1584,14 +1563,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=san-antonio-spurs-vs-indiana-pacers-2358391</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=houston-rockets-vs-miami-heat-2358390</loc>
         <lastmod>2026-03-22</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=houston-rockets-vs-miami-heat-2358390</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=san-antonio-spurs-vs-indiana-pacers-2358391</loc>
         <lastmod>2026-03-22</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -2249,7 +2228,7 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-japanese-grand-prix-practice-2</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-japanese-grand-prix-practice-1</loc>
         <lastmod>2026-03-27</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
