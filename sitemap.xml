@@ -198,35 +198,7 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=alabama-vs-texas-tech-2453656</loc>
-        <lastmod>2026-03-23</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=los-angeles-angels-vs-los-angeles-dodgers-2444919</loc>
-        <lastmod>2026-03-23</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=ppv-event-06-anthony-pettis-fc-22-ev-06</loc>
-        <lastmod>2026-03-23</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=utah-mammoth-vs-los-angeles-kings-2348000</loc>
-        <lastmod>2026-03-23</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=phoenix-suns-vs-toronto-raptors-2358399</loc>
         <lastmod>2026-03-23</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -248,13 +220,6 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=darlington-raceway-goodyear-400-racing-0059</loc>
-        <lastmod>2026-03-23</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=live-event_2026-nascar-cup-series-at-darlington-live-stream</loc>
         <lastmod>2026-03-23</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -443,6 +408,13 @@
     </url>
 
     <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-wwe-monday-night-raw</loc>
+        <lastmod>2026-03-24</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=chicago-bulls-vs-houston-rockets-2358405</loc>
         <lastmod>2026-03-24</lastmod>
         <changefreq>daily</changefreq>
@@ -520,6 +492,27 @@
     </url>
 
     <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-wwe-nxt</loc>
+        <lastmod>2026-03-25</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-aew-wednesday-night-dynamite</loc>
+        <lastmod>2026-03-26</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-tna-impact</loc>
+        <lastmod>2026-03-27</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=ppv-japanese-grand-prix-practice-1</loc>
         <lastmod>2026-03-27</lastmod>
         <changefreq>daily</changefreq>
@@ -555,7 +548,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-japanese-grand-prix-qualifying</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-wwe-friday-night-smackdown</loc>
+        <lastmod>2026-03-28</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-japanese-grand-prix-practice-3</loc>
         <lastmod>2026-03-28</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -592,6 +592,13 @@
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=live-event_bryan-acosta-vs-ronny-rios-live-stream</loc>
         <lastmod>2026-03-28</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-aew-saturday-night-collision</loc>
+        <lastmod>2026-03-29</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
