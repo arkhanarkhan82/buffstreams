@@ -198,6 +198,13 @@
     </url>
 
     <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=atpwta-1000-miami-tn-1</loc>
+        <lastmod>2026-03-23</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=uci-volta-ciclista-a-catalunya-game-13622</loc>
         <lastmod>2026-03-23</lastmod>
         <changefreq>daily</changefreq>
@@ -234,13 +241,6 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=admin-rally-tv</loc>
-        <lastmod>2026-03-23</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=atpwta-1000-miami-tn-1</loc>
         <lastmod>2026-03-23</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -590,14 +590,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-malta-vs-luxembourg</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-gibraltar-vs-latvia</loc>
         <lastmod>2026-03-26</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-gibraltar-vs-latvia</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-malta-vs-luxembourg</loc>
         <lastmod>2026-03-26</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -618,14 +618,7 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-italy-vs-northern-ireland</loc>
-        <lastmod>2026-03-26</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-slovakia-vs-kosovo</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-poland-vs-albania</loc>
         <lastmod>2026-03-26</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -646,7 +639,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-poland-vs-albania</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-slovakia-vs-kosovo</loc>
+        <lastmod>2026-03-26</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-italy-vs-northern-ireland</loc>
         <lastmod>2026-03-26</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
