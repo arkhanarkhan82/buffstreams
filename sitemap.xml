@@ -198,20 +198,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-event-06-anthony-pettis-fc-22-ev-06</loc>
-        <lastmod>2026-03-23</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-event-05-uwc-57-ev-05</loc>
-        <lastmod>2026-03-23</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=live-event_nascar-o-reilly-auto-parts-series-2026-sport-clips-haircuts-vfw-help-a-hero-200-live-stream</loc>
         <lastmod>2026-03-23</lastmod>
         <changefreq>daily</changefreq>
@@ -268,13 +254,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=boston-red-sox-vs-minnesota-twins-2444921</loc>
-        <lastmod>2026-03-23</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=pittsburgh-pirates-vs-atlanta-braves-2444922</loc>
         <lastmod>2026-03-23</lastmod>
         <changefreq>daily</changefreq>
@@ -283,6 +262,13 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=washington-nationals-vs-baltimore-orioles-2444923</loc>
+        <lastmod>2026-03-23</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=boston-red-sox-vs-minnesota-twins-2444921</loc>
         <lastmod>2026-03-23</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -332,6 +318,13 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=live_ncaa-division-i-championship-women_ohio-state-buckeyes-notre-dame-live-streaming-1223608167</loc>
+        <lastmod>2026-03-23</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=live_ncaa-division-i-championship-women_west-virginia-mountaineers-kentucky-wildcats-live-streaming-1223609166</loc>
         <lastmod>2026-03-23</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -555,7 +548,7 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-japanese-grand-prix-practice-3</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-japanese-grand-prix-qualifying</loc>
         <lastmod>2026-03-28</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
