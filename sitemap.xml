@@ -639,14 +639,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-t-rkiye-vs-romania</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-gibraltar-vs-latvia</loc>
         <lastmod>2026-03-26</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-gibraltar-vs-latvia</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-t-rkiye-vs-romania</loc>
         <lastmod>2026-03-26</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -660,42 +660,7 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-italy-vs-northern-ireland</loc>
-        <lastmod>2026-03-26</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-poland-vs-albania</loc>
-        <lastmod>2026-03-26</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-wales-vs-bosnia-and-herzegovina</loc>
-        <lastmod>2026-03-26</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=ppv-slovakia-vs-kosovo</loc>
-        <lastmod>2026-03-26</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-czechia-vs-republic-of-ireland</loc>
-        <lastmod>2026-03-26</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-denmark-vs-north-macedonia</loc>
         <lastmod>2026-03-26</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -709,6 +674,41 @@
     </url>
 
     <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-wales-vs-bosnia-and-herzegovina</loc>
+        <lastmod>2026-03-26</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-poland-vs-albania</loc>
+        <lastmod>2026-03-26</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-denmark-vs-north-macedonia</loc>
+        <lastmod>2026-03-26</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-czechia-vs-republic-of-ireland</loc>
+        <lastmod>2026-03-26</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-italy-vs-northern-ireland</loc>
+        <lastmod>2026-03-26</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=ppv-tna-impact</loc>
         <lastmod>2026-03-27</lastmod>
         <changefreq>daily</changefreq>
@@ -716,7 +716,7 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-japanese-grand-prix-practice-1</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-japanese-grand-prix-practice-2</loc>
         <lastmod>2026-03-27</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -758,7 +758,7 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-japanese-grand-prix-qualifying</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-japanese-grand-prix-practice-3</loc>
         <lastmod>2026-03-28</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
