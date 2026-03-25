@@ -163,13 +163,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/blog/Is-Hesgoal-Back/</loc>
-        <lastmod>2026-03-01</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.7</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/blog/Totalsportek-Premier-League-Streams/</loc>
         <lastmod>2026-03-01</lastmod>
         <changefreq>monthly</changefreq>
@@ -184,6 +177,13 @@
     </url>
 
     <url>
+        <loc>https://buffstreams.world/blog/Is-NFLBITE-Down/</loc>
+        <lastmod>2026-03-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
         <loc>https://buffstreams.world/blog/Streameast-Down/</loc>
         <lastmod>2026-03-01</lastmod>
         <changefreq>monthly</changefreq>
@@ -191,10 +191,17 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/blog/Is-NFLBITE-Down/</loc>
+        <loc>https://buffstreams.world/blog/Is-Hesgoal-Back/</loc>
         <lastmod>2026-03-01</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=kyrgyzstan-vs-equatorial-guinea-2454895</loc>
+        <lastmod>2026-03-25</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
     </url>
 
     <url>
@@ -205,21 +212,7 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=china-u23-vs-thailand-u23-2454894</loc>
-        <lastmod>2026-03-25</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=kazakhstan-vs-comoros-2436336</loc>
-        <lastmod>2026-03-25</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=new-zealand-v-south-africa-cricket-1</loc>
         <lastmod>2026-03-25</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -247,13 +240,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=admin-willow-cricket</loc>
-        <lastmod>2026-03-25</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=admin-rally-tv</loc>
         <lastmod>2026-03-25</lastmod>
         <changefreq>daily</changefreq>
@@ -261,7 +247,7 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=kyrgyzstan-vs-equatorial-guinea-2454895</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=admin-willow-cricket</loc>
         <lastmod>2026-03-25</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -352,13 +338,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=dayton-vs-illinois-state-2455056</loc>
-        <lastmod>2026-03-25</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=indiana-pacers-vs-los-angeles-lakers-2358415</loc>
         <lastmod>2026-03-25</lastmod>
         <changefreq>daily</changefreq>
@@ -374,6 +353,13 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=philadelphia-76ers-vs-chicago-bulls-2358416</loc>
+        <lastmod>2026-03-25</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=dayton-vs-illinois-state-2455056</loc>
         <lastmod>2026-03-25</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -451,6 +437,13 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=utah-jazz-vs-washington-wizards-2358420</loc>
+        <lastmod>2026-03-26</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=auburn-vs-nevada-2455057</loc>
         <lastmod>2026-03-26</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -597,7 +590,7 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-japanese-grand-prix-practice-1</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-japanese-grand-prix-practice-2</loc>
         <lastmod>2026-03-27</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
