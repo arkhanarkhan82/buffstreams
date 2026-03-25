@@ -198,14 +198,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=admin-rally-tv</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=admin-willow-cricket</loc>
         <lastmod>2026-03-25</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=admin-willow-cricket</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=admin-rally-tv</loc>
         <lastmod>2026-03-25</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -311,6 +311,20 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=los-angeles-clippers-vs-toronto-raptors-2358425</loc>
+        <lastmod>2026-03-26</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=chicago-cubs-vs-washington-nationals-2386890</loc>
+        <lastmod>2026-03-26</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=milwaukee-brewers-vs-chicago-white-sox-2386884</loc>
         <lastmod>2026-03-26</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
