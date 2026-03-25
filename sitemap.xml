@@ -163,13 +163,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/blog/Is-Hesgoal-Back/</loc>
-        <lastmod>2026-03-01</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.7</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/blog/Totalsportek-Premier-League-Streams/</loc>
         <lastmod>2026-03-01</lastmod>
         <changefreq>monthly</changefreq>
@@ -184,6 +177,13 @@
     </url>
 
     <url>
+        <loc>https://buffstreams.world/blog/Is-NFLBITE-Down/</loc>
+        <lastmod>2026-03-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
         <loc>https://buffstreams.world/blog/Streameast-Down/</loc>
         <lastmod>2026-03-01</lastmod>
         <changefreq>monthly</changefreq>
@@ -191,10 +191,17 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/blog/Is-NFLBITE-Down/</loc>
+        <loc>https://buffstreams.world/blog/Is-Hesgoal-Back/</loc>
         <lastmod>2026-03-01</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=china-u23-vs-thailand-u23-2454894</loc>
+        <lastmod>2026-03-25</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
     </url>
 
     <url>
@@ -233,13 +240,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=admin-rally-tv</loc>
-        <lastmod>2026-03-25</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=admin-willow-cricket</loc>
         <lastmod>2026-03-25</lastmod>
         <changefreq>daily</changefreq>
@@ -247,7 +247,7 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=china-u23-vs-thailand-u23-2454894</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=admin-rally-tv</loc>
         <lastmod>2026-03-25</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -338,6 +338,13 @@
     </url>
 
     <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=njny-gotham-fc-w-vs-denver-summit-w-football-1508372</loc>
+        <lastmod>2026-03-25</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=washington-spirit-w-vs-utah-royals-w-football-1508373</loc>
         <lastmod>2026-03-25</lastmod>
         <changefreq>daily</changefreq>
@@ -345,7 +352,7 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=njny-gotham-fc-w-vs-denver-summit-w-football-1508372</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=dayton-vs-illinois-state-2455056</loc>
         <lastmod>2026-03-25</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
