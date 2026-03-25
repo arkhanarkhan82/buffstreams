@@ -394,7 +394,21 @@
     </url>
 
     <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=philadelphia-phillies-vs-texas-rangers-2386882</loc>
+        <lastmod>2026-03-26</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=san-diego-padres-vs-detroit-tigers-2386881</loc>
+        <lastmod>2026-03-26</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=st--louis-cardinals-vs-tampa-bay-rays-2386883</loc>
         <lastmod>2026-03-26</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
