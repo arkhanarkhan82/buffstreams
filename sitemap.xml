@@ -163,13 +163,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/blog/Is-Hesgoal-Back/</loc>
-        <lastmod>2026-03-01</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.7</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/blog/Totalsportek-Premier-League-Streams/</loc>
         <lastmod>2026-03-01</lastmod>
         <changefreq>monthly</changefreq>
@@ -184,6 +177,13 @@
     </url>
 
     <url>
+        <loc>https://buffstreams.world/blog/Is-NFLBITE-Down/</loc>
+        <lastmod>2026-03-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
         <loc>https://buffstreams.world/blog/Streameast-Down/</loc>
         <lastmod>2026-03-01</lastmod>
         <changefreq>monthly</changefreq>
@@ -191,7 +191,7 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/blog/Is-NFLBITE-Down/</loc>
+        <loc>https://buffstreams.world/blog/Is-Hesgoal-Back/</loc>
         <lastmod>2026-03-01</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
@@ -311,6 +311,13 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=los-angeles-clippers-vs-toronto-raptors-2358425</loc>
+        <lastmod>2026-03-26</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=new-york-mets-vs-pittsburgh-pirates-2386877</loc>
         <lastmod>2026-03-26</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
