@@ -163,13 +163,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/blog/Is-Hesgoal-Back/</loc>
-        <lastmod>2026-03-01</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.7</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/blog/Totalsportek-Premier-League-Streams/</loc>
         <lastmod>2026-03-01</lastmod>
         <changefreq>monthly</changefreq>
@@ -184,6 +177,13 @@
     </url>
 
     <url>
+        <loc>https://buffstreams.world/blog/Is-NFLBITE-Down/</loc>
+        <lastmod>2026-03-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
         <loc>https://buffstreams.world/blog/Streameast-Down/</loc>
         <lastmod>2026-03-01</lastmod>
         <changefreq>monthly</changefreq>
@@ -191,10 +191,17 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/blog/Is-NFLBITE-Down/</loc>
+        <loc>https://buffstreams.world/blog/Is-Hesgoal-Back/</loc>
         <lastmod>2026-03-01</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=manly-sea-eagles-vs-sydney-roosters-2417180</loc>
+        <lastmod>2026-03-26</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
     </url>
 
     <url>
@@ -248,13 +255,6 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=admin-rally-tv</loc>
-        <lastmod>2026-03-26</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=manly-sea-eagles-vs-sydney-roosters-2417180</loc>
         <lastmod>2026-03-26</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -933,7 +933,7 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-japanese-grand-prix-practice-3</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-japanese-grand-prix-qualifying</loc>
         <lastmod>2026-03-28</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
