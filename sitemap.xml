@@ -212,13 +212,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-event-02-kkm-challenge-series-lemoore-ppv-02</loc>
-        <lastmod>2026-03-26</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=hero-indian-open-2358631</loc>
         <lastmod>2026-03-26</lastmod>
         <changefreq>daily</changefreq>
@@ -716,13 +709,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=japanese-grand-prix-practice-1-2408117</loc>
-        <lastmod>2026-03-27</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=chile-vs-cape-verde-2424546</loc>
         <lastmod>2026-03-27</lastmod>
         <changefreq>daily</changefreq>
@@ -745,6 +731,13 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=china-vs-cura-ao-2423004</loc>
+        <lastmod>2026-03-27</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=japanese-grand-prix-practice-1-2408117</loc>
         <lastmod>2026-03-27</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
