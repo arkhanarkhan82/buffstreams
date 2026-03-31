@@ -233,13 +233,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=kolner-vs-schwenninger-hockey-423296</loc>
-        <lastmod>2026-03-31</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=live-event_indycar-2026-children-s-of-alabama-indy-grand-prix-live-stream</loc>
         <lastmod>2026-03-31</lastmod>
         <changefreq>daily</changefreq>
@@ -438,6 +431,13 @@
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=st--louis-cardinals-vs-new-york-mets-2386940</loc>
         <lastmod>2026-03-31</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=live-event_mcdonald-s-all-american-boys-live-stream</loc>
+        <lastmod>2026-04-01</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
@@ -856,14 +856,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=live_ufl_columbus-aviators-dc-defenders-live-streaming-1224221553</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=live-event_pedro-taduran-vs-gustavo-perez-alvarez-live-stream</loc>
         <lastmod>2026-04-04</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=live-event_pedro-taduran-vs-gustavo-perez-alvarez-live-stream</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=live_ufl_columbus-aviators-dc-defenders-live-streaming-1224221553</loc>
         <lastmod>2026-04-04</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
