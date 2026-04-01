@@ -198,13 +198,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=wwe-nxt-wwe2026</loc>
-        <lastmod>2026-04-01</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=live-event_indycar-2026-children-s-of-alabama-indy-grand-prix-live-stream</loc>
         <lastmod>2026-04-01</lastmod>
         <changefreq>daily</changefreq>
@@ -234,6 +227,13 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=live-event_lfc-63-legacy-fighting-championship-63-live-stream</loc>
+        <lastmod>2026-04-01</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=atp-wta-bucharest-houston-marrakech-bogota-charleston-tn-1</loc>
         <lastmod>2026-04-01</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -625,14 +625,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=castellon-vs-almeria-football-1392117</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=real-sociedad-ii-vs-eibar-football-1392118</loc>
         <lastmod>2026-04-02</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=real-sociedad-ii-vs-eibar-football-1392118</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=castellon-vs-almeria-football-1392117</loc>
         <lastmod>2026-04-02</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -751,13 +751,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=new-york-rangers-vs-montreal-canadiens-2348075</loc>
-        <lastmod>2026-04-02</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=philadelphia-flyers-vs-detroit-red-wings-2348073</loc>
         <lastmod>2026-04-02</lastmod>
         <changefreq>daily</changefreq>
@@ -787,6 +780,13 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=carolina-hurricanes-vs-columbus-blue-jackets-2348078</loc>
+        <lastmod>2026-04-02</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=new-york-rangers-vs-montreal-canadiens-2348075</loc>
         <lastmod>2026-04-02</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -963,6 +963,13 @@
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=live-event_2026-truck-series-at-bristol-live-stream</loc>
         <lastmod>2026-04-10</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=live-event_tenshin-nasukawa-vs-juan-francisco-estrada-live-stream</loc>
+        <lastmod>2026-04-11</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
