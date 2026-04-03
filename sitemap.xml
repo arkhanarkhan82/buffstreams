@@ -198,6 +198,13 @@
     </url>
 
     <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=new-york-yankees-vs-miami-marlins-2386976</loc>
+        <lastmod>2026-04-03</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=ppv-event-03-ares-39-ev-3</loc>
         <lastmod>2026-04-03</lastmod>
         <changefreq>daily</changefreq>
@@ -353,13 +360,6 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=admin-rally-tv</loc>
-        <lastmod>2026-04-03</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=new-york-yankees-vs-miami-marlins-2386976</loc>
         <lastmod>2026-04-03</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -703,6 +703,20 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=ppv-event-09-spring-nationals-at-wythe-ev-9</loc>
+        <lastmod>2026-04-04</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-event-10-williams-grove-sprints-ev-10</loc>
+        <lastmod>2026-04-04</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-event-11-usac-national-sprints-at-red-hill-ev-11</loc>
         <lastmod>2026-04-04</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1822,14 +1836,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-chicago-fire-fc-vs-nashville-sc</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-houston-dynamo-fc-vs-seattle-sounders-fc</loc>
         <lastmod>2026-04-05</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-houston-dynamo-fc-vs-seattle-sounders-fc</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-chicago-fire-fc-vs-nashville-sc</loc>
         <lastmod>2026-04-05</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1843,14 +1857,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-vancouver-whitecaps-vs-portland-timbers</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-la-galaxy-vs-minnesota-united-fc</loc>
         <lastmod>2026-04-05</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-la-galaxy-vs-minnesota-united-fc</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-vancouver-whitecaps-vs-portland-timbers</loc>
         <lastmod>2026-04-05</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1871,14 +1885,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-angers-vs-lyon</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-cremonese-vs-bologna</loc>
         <lastmod>2026-04-05</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-cremonese-vs-bologna</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-angers-vs-lyon</loc>
         <lastmod>2026-04-05</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1899,7 +1913,7 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-le-havre-ac-vs-aj-auxerre</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-metz-vs-nantes</loc>
         <lastmod>2026-04-05</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1913,7 +1927,7 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-metz-vs-nantes</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-le-havre-ac-vs-aj-auxerre</loc>
         <lastmod>2026-04-05</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
