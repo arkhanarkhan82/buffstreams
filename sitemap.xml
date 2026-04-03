@@ -247,28 +247,7 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=sporting-cp-vs-santa-clara-2283579</loc>
-        <lastmod>2026-04-03</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=rayo-vallecano-vs-elche-2279690</loc>
-        <lastmod>2026-04-03</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=bradford-bulls-vs-leeds-rhinos-2395885</loc>
-        <lastmod>2026-04-03</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=chicago-white-sox-vs-toronto-blue-jays-2386968</loc>
         <lastmod>2026-04-03</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -304,20 +283,6 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=ppv-event-02-brown-v-ducar-ev-2</loc>
-        <lastmod>2026-04-03</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=detroit-tigers-vs-st--louis-cardinals-2386980</loc>
-        <lastmod>2026-04-03</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=washington-nationals-vs-los-angeles-dodgers-2386971</loc>
         <lastmod>2026-04-03</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1682,7 +1647,7 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-vancouver-whitecaps-vs-portland-timbers</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-san-jose-earthquakes-vs-san-diego-fc</loc>
         <lastmod>2026-04-05</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1696,7 +1661,7 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-san-jose-earthquakes-vs-san-diego-fc</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-vancouver-whitecaps-vs-portland-timbers</loc>
         <lastmod>2026-04-05</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1738,13 +1703,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-le-havre-ac-vs-aj-auxerre</loc>
-        <lastmod>2026-04-05</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=ppv-metz-vs-nantes</loc>
         <lastmod>2026-04-05</lastmod>
         <changefreq>daily</changefreq>
@@ -1753,6 +1711,13 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=ppv-lorient-vs-paris-fc</loc>
+        <lastmod>2026-04-05</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-le-havre-ac-vs-aj-auxerre</loc>
         <lastmod>2026-04-05</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1787,14 +1752,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-as-monaco-vs-marseille</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-inter-milan-vs-as-roma</loc>
         <lastmod>2026-04-05</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-inter-milan-vs-as-roma</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-as-monaco-vs-marseille</loc>
         <lastmod>2026-04-05</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
