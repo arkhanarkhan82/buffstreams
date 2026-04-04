@@ -233,21 +233,7 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=melbourne-city-vs-western-sydney-wanderers-2355407</loc>
-        <lastmod>2026-04-04</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=gold-coast-titans-vs-brisbane-broncos-2417192</loc>
-        <lastmod>2026-04-04</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=queensland-reds-vs-western-force-2416967</loc>
         <lastmod>2026-04-04</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -331,6 +317,13 @@
     </url>
 
     <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=bundesliga-2-multiview-bundes3-1</loc>
+        <lastmod>2026-04-04</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=magdeburg-vs-bochum-2277193</loc>
         <lastmod>2026-04-04</lastmod>
         <changefreq>daily</changefreq>
@@ -346,6 +339,13 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=kaiserslautern-vs-fortuna-d-sseldorf-2277192</loc>
+        <lastmod>2026-04-04</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=german-darts-grand-prix--day-1-2454992</loc>
         <lastmod>2026-04-04</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -472,13 +472,6 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=bundesliga-goal-arena-game-2636262</loc>
-        <lastmod>2026-04-04</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=bundesliga-saturday-multiview-game-1516161</loc>
         <lastmod>2026-04-04</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -814,6 +807,13 @@
     </url>
 
     <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-german-darts-grand-prix-day-1-evening</loc>
+        <lastmod>2026-04-04</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=ppv-brest-vs-stade-rennais</loc>
         <lastmod>2026-04-04</lastmod>
         <changefreq>daily</changefreq>
@@ -871,13 +871,6 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=ottawa-senators-vs-minnesota-wild-2348090</loc>
-        <lastmod>2026-04-04</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=german-darts-grand-prix--day-1-2454992</loc>
         <lastmod>2026-04-04</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
