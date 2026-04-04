@@ -240,13 +240,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=live-event_pedro-taduran-vs-gustavo-perez-alvarez-live-stream</loc>
-        <lastmod>2026-04-04</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=live-event_nascar-truck-series-2026-black-s-tire-200-live-stream</loc>
         <lastmod>2026-04-04</lastmod>
         <changefreq>daily</changefreq>
@@ -478,14 +471,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=bundesliga-goal-arena-game-2636262</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=bundesliga-saturday-multiview-game-1516161</loc>
         <lastmod>2026-04-04</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=bundesliga-saturday-multiview-game-1516161</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=bundesliga-goal-arena-game-2636262</loc>
         <lastmod>2026-04-04</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -940,6 +933,13 @@
     </url>
 
     <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=kansas-city-royals-vs-milwaukee-brewers-2386992</loc>
+        <lastmod>2026-04-04</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=jagiellonia-bia-ystok-vs-lech-pozna--2267939</loc>
         <lastmod>2026-04-04</lastmod>
         <changefreq>daily</changefreq>
@@ -1304,13 +1304,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=kansas-city-royals-vs-milwaukee-brewers-2386992</loc>
-        <lastmod>2026-04-04</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=minnesota-twins-vs-tampa-bay-rays-2386990</loc>
         <lastmod>2026-04-04</lastmod>
         <changefreq>daily</changefreq>
@@ -1458,14 +1451,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-event-07-armored-mma-medieval-cage-fighting-ppv-07</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ufc-fight-night-moicano-vs-duncan-mma-2547</loc>
         <lastmod>2026-04-05</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ufc-fight-night-moicano-vs-duncan-mma-2547</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-event-07-armored-mma-medieval-cage-fighting-ppv-07</loc>
         <lastmod>2026-04-05</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -2326,13 +2319,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-german-darts-grand-prix-day-3-evening</loc>
-        <lastmod>2026-04-06</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=ppv-lecce-vs-atalanta</loc>
         <lastmod>2026-04-06</lastmod>
         <changefreq>daily</changefreq>
@@ -2341,6 +2327,13 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=ppv-juventus-vs-genoa</loc>
+        <lastmod>2026-04-06</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-german-darts-grand-prix-day-3-afternoon</loc>
         <lastmod>2026-04-06</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
