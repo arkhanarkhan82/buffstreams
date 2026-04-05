@@ -219,20 +219,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-event-07-armored-mma-medieval-cage-fighting-ppv-07</loc>
-        <lastmod>2026-04-05</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=tim-tszyu-vs-denis-nurja-2461506</loc>
-        <lastmod>2026-04-05</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=live-event_nascar-o-reilly-auto-parts-series-2026-north-carolina-education-lottery-250-presented-by-black-s-tire-live-stream</loc>
         <lastmod>2026-04-05</lastmod>
         <changefreq>daily</changefreq>
@@ -311,13 +297,6 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=atp-wta-bucharest-houston-marrakech-bogota-charleston-tn-1</loc>
-        <lastmod>2026-04-05</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=german-darts-grand-prix--day-2-2454993</loc>
         <lastmod>2026-04-05</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -653,13 +632,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-german-darts-grand-prix-day-2-evening</loc>
-        <lastmod>2026-04-05</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=fenerbah-e-vs-be-ikta--2283021</loc>
         <lastmod>2026-04-05</lastmod>
         <changefreq>daily</changefreq>
@@ -675,6 +647,13 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=detroit-red-wings-vs-minnesota-wild-2348104</loc>
+        <lastmod>2026-04-05</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=german-darts-grand-prix--day-2-2454993</loc>
         <lastmod>2026-04-05</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1809,6 +1788,13 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=ppv-ibf-junior-middleweight-eliminator-adams-vs-agyarko</loc>
+        <lastmod>2026-04-12</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=live-event_nascar-o-reilly-auto-parts-series-2026-nascar-o-reilly-auto-parts-series-race-at-bristol-live-stream</loc>
         <lastmod>2026-04-12</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
