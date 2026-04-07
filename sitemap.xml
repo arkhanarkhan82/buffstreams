@@ -163,7 +163,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/blog/Is-Hesgoal-Back/</loc>
+        <loc>https://buffstreams.world/blog/Streameast-Down/</loc>
+        <lastmod>2026-04-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/blog/Is-NFLBITE-Down/</loc>
         <lastmod>2026-04-01</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
@@ -184,17 +191,17 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/blog/Streameast-Down/</loc>
+        <loc>https://buffstreams.world/blog/Is-Hesgoal-Back/</loc>
         <lastmod>2026-04-01</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
     </url>
 
     <url>
-        <loc>https://buffstreams.world/blog/Is-NFLBITE-Down/</loc>
-        <lastmod>2026-04-01</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.7</priority>
+        <loc>https://buffstreams.world/Matchinformation/?id=new-york-mets-vs-arizona-diamondbacks-2387035</loc>
+        <lastmod>2026-04-07</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
     </url>
 
     <url>
@@ -247,49 +254,7 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=port-vale-vs-rotherham-united-2275133</loc>
-        <lastmod>2026-04-07</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=ucl-multicast-game-111</loc>
-        <lastmod>2026-04-07</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=virtus-pallacanestro-bologna-vs-bayern-m-nchen-basketball-2345503</loc>
-        <lastmod>2026-04-07</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=valencia-basket-vs-olimpia-milano-2345502</loc>
-        <lastmod>2026-04-07</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=fc-barcelona-basquet-vs-panathinaikos-bc-2345505</loc>
-        <lastmod>2026-04-07</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=olympiacos-bc-vs-real-madrid-baloncesto-2345501</loc>
-        <lastmod>2026-04-07</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=kk-crvena-zvezda-vs-paris-basketball-2345499</loc>
         <lastmod>2026-04-07</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -367,20 +332,6 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=admin-rally-tv</loc>
-        <lastmod>2026-04-07</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=gimnasia-m-vs-gimnasia-y-tiro-football-1503687</loc>
-        <lastmod>2026-04-07</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=new-york-mets-vs-arizona-diamondbacks-2387035</loc>
         <lastmod>2026-04-07</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1178,6 +1129,13 @@
     </url>
 
     <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=san-jose-sharks-vs-edmonton-oilers-hockey-416863</loc>
+        <lastmod>2026-04-09</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=los-angeles-clippers-vs-oklahoma-city-thunder-basketball-473314</loc>
         <lastmod>2026-04-09</lastmod>
         <changefreq>daily</changefreq>
@@ -1186,13 +1144,6 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=phoenix-suns-vs-dallas-mavericks-basketball-473315</loc>
-        <lastmod>2026-04-09</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=san-jose-sharks-vs-edmonton-oilers-hockey-416863</loc>
         <lastmod>2026-04-09</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
