@@ -198,6 +198,34 @@
     </url>
 
     <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=sassuolo-vs-como-2265363</loc>
+        <lastmod>2026-04-17</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=elversberg-vs-karlsruhe-2277207</loc>
+        <lastmod>2026-04-17</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=holstein-kiel-vs-kaiserslautern-2277210</loc>
+        <lastmod>2026-04-17</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=gks-katowice-vs-motor-lublin-2267955</loc>
+        <lastmod>2026-04-17</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=al-ahli-vs-johor-darul-ta-zim-2465563</loc>
         <lastmod>2026-04-17</lastmod>
         <changefreq>daily</changefreq>
@@ -283,34 +311,6 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=admin-rally-tv</loc>
-        <lastmod>2026-04-17</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=gks-katowice-vs-motor-lublin-2267955</loc>
-        <lastmod>2026-04-17</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=sassuolo-vs-como-2265363</loc>
-        <lastmod>2026-04-17</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=elversberg-vs-karlsruhe-2277207</loc>
-        <lastmod>2026-04-17</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=holstein-kiel-vs-kaiserslautern-2277210</loc>
         <lastmod>2026-04-17</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1717,14 +1717,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=live-event_manny-pacquiao-vs-ruslan-provodnikov-live-stream</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=live_nhl-playoffs_avalanche-kings-live-streaming-1271966760</loc>
         <lastmod>2026-04-18</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=live_nhl-playoffs_avalanche-kings-live-streaming-1271966760</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=live-event_manny-pacquiao-vs-ruslan-provodnikov-live-stream</loc>
         <lastmod>2026-04-18</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1780,13 +1780,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-fc-dallas-vs-la-galaxy</loc>
-        <lastmod>2026-04-19</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=ppv-minnesota-united-fc-vs-portland-timbers</loc>
         <lastmod>2026-04-19</lastmod>
         <changefreq>daily</changefreq>
@@ -1794,7 +1787,7 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-real-salt-lake-vs-san-diego-fc</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-fc-dallas-vs-la-galaxy</loc>
         <lastmod>2026-04-19</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1808,7 +1801,7 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-european-darts-grand-prix-day-3-evening-session</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-real-salt-lake-vs-san-diego-fc</loc>
         <lastmod>2026-04-19</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1822,7 +1815,7 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-hellas-verona-vs-ac-milan</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-as-monaco-vs-aj-auxerre</loc>
         <lastmod>2026-04-19</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1850,7 +1843,7 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-as-monaco-vs-aj-auxerre</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-hellas-verona-vs-ac-milan</loc>
         <lastmod>2026-04-19</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1871,6 +1864,13 @@
     </url>
 
     <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-nantes-vs-brest</loc>
+        <lastmod>2026-04-19</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=ppv-metz-vs-paris-fc</loc>
         <lastmod>2026-04-19</lastmod>
         <changefreq>daily</changefreq>
@@ -1885,7 +1885,7 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-nantes-vs-brest</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-bayern-munich-vs-vf-b-stuttgart</loc>
         <lastmod>2026-04-19</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1899,7 +1899,7 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-bayern-munich-vs-vf-b-stuttgart</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-european-darts-grand-prix-day-3-afternoon-session</loc>
         <lastmod>2026-04-19</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
