@@ -198,6 +198,20 @@
     </url>
 
     <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=manchester-united-vs-nottingham-forest-2267440</loc>
+        <lastmod>2026-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=atpwta-1000-rome-tn-1</loc>
+        <lastmod>2026-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=ppv-united-kingdom-vs-united-states</loc>
         <lastmod>2026-05-17</lastmod>
         <changefreq>daily</changefreq>
@@ -296,13 +310,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=west-coast-eagles-vs-greater-western-sydney-giants-2400588</loc>
-        <lastmod>2026-05-17</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=live-event_motogp-2026-catalunya-official-test-live-stream</loc>
         <lastmod>2026-05-17</lastmod>
         <changefreq>daily</changefreq>
@@ -381,20 +388,6 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=admin-rally-tv</loc>
-        <lastmod>2026-05-17</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=atpwta-1000-rome-tn-1</loc>
-        <lastmod>2026-05-17</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=manchester-united-vs-nottingham-forest-2267440</loc>
         <lastmod>2026-05-17</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1605,7 +1598,7 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-canadian-grand-prix-practice-1</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-canadian-grand-prix-sprint-qualifying</loc>
         <lastmod>2026-05-22</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1626,13 +1619,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-canadian-grand-prix-qualifying</loc>
-        <lastmod>2026-05-23</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=live-event_pfl-brussels-habirora-vs-henderson-live-stream</loc>
         <lastmod>2026-05-23</lastmod>
         <changefreq>daily</changefreq>
@@ -1648,6 +1634,13 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=live-event_oleksandr-usyk-vs-rico-verhoeven-live-stream</loc>
+        <lastmod>2026-05-23</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-canadian-grand-prix-sprint</loc>
         <lastmod>2026-05-23</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
