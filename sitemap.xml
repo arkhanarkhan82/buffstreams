@@ -198,6 +198,27 @@
     </url>
 
     <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=djurg-rden-vs-sirius-2398808</loc>
+        <lastmod>2026-05-18</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=arka-gdynia-vs-bruk-bet-termalica-nieciecza-2267990</loc>
+        <lastmod>2026-05-18</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=baller-league-2026-game-1636262</loc>
+        <lastmod>2026-05-18</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=canada-ice-hockey-vs-denmark-ice-hockey-2474628</loc>
         <lastmod>2026-05-18</lastmod>
         <changefreq>daily</changefreq>
@@ -220,13 +241,6 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=players-championship-17-2470484</loc>
-        <lastmod>2026-05-18</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=atp-wta-hamburg-geneva-strasbourg-rabat-tn-1</loc>
         <lastmod>2026-05-18</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -268,6 +282,13 @@
     </url>
 
     <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=admin-rally-tv</loc>
+        <lastmod>2026-05-18</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=admin-sky-sports-tennis</loc>
         <lastmod>2026-05-18</lastmod>
         <changefreq>daily</changefreq>
@@ -276,34 +297,6 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=admin-tennis-channel</loc>
-        <lastmod>2026-05-18</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=admin-rally-tv</loc>
-        <lastmod>2026-05-18</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=baller-league-2026-game-1636262</loc>
-        <lastmod>2026-05-18</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=djurg-rden-vs-sirius-2398808</loc>
-        <lastmod>2026-05-18</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=arka-gdynia-vs-bruk-bet-termalica-nieciecza-2267990</loc>
         <lastmod>2026-05-18</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -877,21 +870,7 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-real-betis-vs-levante</loc>
-        <lastmod>2026-05-23</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=ppv-mallorca-vs-real-oviedo</loc>
-        <lastmod>2026-05-23</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-real-madrid-vs-athletic-club</loc>
         <lastmod>2026-05-23</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -905,21 +884,14 @@
     </url>
 
     <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-espanyol-vs-real-sociedad</loc>
+        <lastmod>2026-05-23</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=ppv-celta-vigo-vs-sevilla</loc>
-        <lastmod>2026-05-23</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-getafe-vs-osasuna</loc>
-        <lastmod>2026-05-23</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-valencia-vs-barcelona</loc>
         <lastmod>2026-05-23</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -933,7 +905,28 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-espanyol-vs-real-sociedad</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-real-betis-vs-levante</loc>
+        <lastmod>2026-05-23</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-getafe-vs-osasuna</loc>
+        <lastmod>2026-05-23</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-real-madrid-vs-athletic-club</loc>
+        <lastmod>2026-05-23</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-valencia-vs-barcelona</loc>
         <lastmod>2026-05-23</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -941,6 +934,13 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=ppv-minnesota-united-fc-vs-real-salt-lake</loc>
+        <lastmod>2026-05-23</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-fc-cincinnati-vs-orlando-city-sc</loc>
         <lastmod>2026-05-23</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -961,28 +961,7 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-fc-cincinnati-vs-orlando-city-sc</loc>
-        <lastmod>2026-05-23</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=ppv-aew-saturday-night-collision</loc>
-        <lastmod>2026-05-24</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-chicago-fire-fc-vs-toronto-fc</loc>
-        <lastmod>2026-05-24</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-nashville-sc-vs-new-york-city-fc</loc>
         <lastmod>2026-05-24</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -996,7 +975,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-colorado-rapids-vs-fc-dallas</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-nashville-sc-vs-new-york-city-fc</loc>
+        <lastmod>2026-05-24</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-chicago-fire-fc-vs-toronto-fc</loc>
         <lastmod>2026-05-24</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1004,6 +990,13 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=ppv-san-diego-fc-vs-vancouver-whitecaps</loc>
+        <lastmod>2026-05-24</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-colorado-rapids-vs-fc-dallas</loc>
         <lastmod>2026-05-24</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1052,6 +1045,41 @@
     </url>
 
     <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-manchester-city-vs-aston-villa</loc>
+        <lastmod>2026-05-24</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-tottenham-hotspur-vs-everton</loc>
+        <lastmod>2026-05-24</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-sunderland-vs-chelsea</loc>
+        <lastmod>2026-05-24</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-crystal-palace-vs-arsenal</loc>
+        <lastmod>2026-05-24</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-fulham-vs-newcastle-united</loc>
+        <lastmod>2026-05-24</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=ppv-west-ham-united-vs-leeds-united</loc>
         <lastmod>2026-05-24</lastmod>
         <changefreq>daily</changefreq>
@@ -1073,21 +1101,7 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-manchester-city-vs-aston-villa</loc>
-        <lastmod>2026-05-24</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-fulham-vs-newcastle-united</loc>
-        <lastmod>2026-05-24</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-tottenham-hotspur-vs-everton</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-liverpool-vs-brentford</loc>
         <lastmod>2026-05-24</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1101,28 +1115,7 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-crystal-palace-vs-arsenal</loc>
-        <lastmod>2026-05-24</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-sunderland-vs-chelsea</loc>
-        <lastmod>2026-05-24</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-liverpool-vs-brentford</loc>
-        <lastmod>2026-05-24</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-lecce-vs-genoa</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-torino-vs-juventus</loc>
         <lastmod>2026-05-24</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1136,6 +1129,13 @@
     </url>
 
     <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-lecce-vs-genoa</loc>
+        <lastmod>2026-05-24</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=ppv-bologna-vs-inter-milan</loc>
         <lastmod>2026-05-24</lastmod>
         <changefreq>daily</changefreq>
@@ -1143,7 +1143,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-torino-vs-juventus</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-ac-milan-vs-cagliari</loc>
+        <lastmod>2026-05-24</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-napoli-vs-udinese</loc>
         <lastmod>2026-05-24</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1165,20 +1172,6 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=ppv-hellas-verona-vs-as-roma</loc>
-        <lastmod>2026-05-24</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-napoli-vs-udinese</loc>
-        <lastmod>2026-05-24</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-ac-milan-vs-cagliari</loc>
         <lastmod>2026-05-24</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
