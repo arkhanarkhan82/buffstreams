@@ -198,6 +198,13 @@
     </url>
 
     <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=cleveland-guardians-vs-washington-nationals-2387682</loc>
+        <lastmod>2026-05-25</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=san-francisco-giants-vs-arizona-diamondbacks-2387676</loc>
         <lastmod>2026-05-25</lastmod>
         <changefreq>daily</changefreq>
@@ -240,28 +247,7 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=baltimore-orioles-vs-tampa-bay-rays-2387684</loc>
-        <lastmod>2026-05-25</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=pittsburgh-pirates-vs-chicago-cubs-2387678</loc>
-        <lastmod>2026-05-25</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=canadian-grand-prix-2408156</loc>
-        <lastmod>2026-05-25</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=canadian-grand-prix-sprint-2408154</loc>
         <lastmod>2026-05-25</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -325,13 +311,6 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=admin-rally-tv</loc>
-        <lastmod>2026-05-25</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=cleveland-guardians-vs-washington-nationals-2387682</loc>
         <lastmod>2026-05-25</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
