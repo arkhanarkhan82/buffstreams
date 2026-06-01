@@ -198,6 +198,20 @@
     </url>
 
     <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-slovakia-vs-malta</loc>
+        <lastmod>2026-06-01</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-bulgaria-vs-montenegro</loc>
+        <lastmod>2026-06-01</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=22744</loc>
         <lastmod>2026-06-01</lastmod>
         <changefreq>daily</changefreq>
@@ -310,20 +324,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-slovakia-vs-malta</loc>
-        <lastmod>2026-06-01</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-bulgaria-vs-montenegro</loc>
-        <lastmod>2026-06-01</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=ppv-norway-vs-sweden</loc>
         <lastmod>2026-06-01</lastmod>
         <changefreq>daily</changefreq>
@@ -366,6 +366,13 @@
     </url>
 
     <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=colombia-vs-costa-rica-football-1537648</loc>
+        <lastmod>2026-06-01</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=ppv-kansas-city-royals-vs-cincinnati-reds</loc>
         <lastmod>2026-06-01</lastmod>
         <changefreq>daily</changefreq>
@@ -373,14 +380,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-chicago-white-sox-vs-minnesota-twins</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-san-francisco-giants-vs-milwaukee-brewers</loc>
         <lastmod>2026-06-01</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-san-francisco-giants-vs-milwaukee-brewers</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-chicago-white-sox-vs-minnesota-twins</loc>
         <lastmod>2026-06-01</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -443,7 +450,28 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=philadelphia-phillies-vs-san-diego-padres-baseball-178915</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=croatia-vs-belgium-football-1512766</loc>
+        <lastmod>2026-06-02</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=morocco-vs-madagascar-football-1545264</loc>
+        <lastmod>2026-06-02</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=georgia-vs-romania-football-1536928</loc>
+        <lastmod>2026-06-02</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=wales-vs-ghana-football-1536929</loc>
         <lastmod>2026-06-02</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -457,7 +485,7 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=washington-nationals-vs-miami-marlins-baseball-178916</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=philadelphia-phillies-vs-san-diego-padres-baseball-178915</loc>
         <lastmod>2026-06-02</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -465,6 +493,13 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=boston-red-sox-vs-baltimore-orioles-baseball-178925</loc>
+        <lastmod>2026-06-02</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=washington-nationals-vs-miami-marlins-baseball-178916</loc>
         <lastmod>2026-06-02</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -492,14 +527,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=milwaukee-brewers-vs-san-francisco-giants-baseball-178919</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=minnesota-twins-vs-chicago-white-sox-baseball-178911</loc>
         <lastmod>2026-06-02</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=minnesota-twins-vs-chicago-white-sox-baseball-178911</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=milwaukee-brewers-vs-san-francisco-giants-baseball-178919</loc>
         <lastmod>2026-06-02</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
