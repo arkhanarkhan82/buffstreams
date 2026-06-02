@@ -352,13 +352,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-detroit-tigers-vs-tampa-bay-rays</loc>
-        <lastmod>2026-06-02</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=ppv-san-diego-padres-vs-philadelphia-phillies</loc>
         <lastmod>2026-06-02</lastmod>
         <changefreq>daily</changefreq>
@@ -366,7 +359,7 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-baltimore-orioles-vs-boston-red-sox</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-detroit-tigers-vs-tampa-bay-rays</loc>
         <lastmod>2026-06-02</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -374,6 +367,13 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=ppv-miami-marlins-vs-washington-nationals</loc>
+        <lastmod>2026-06-02</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-baltimore-orioles-vs-boston-red-sox</loc>
         <lastmod>2026-06-02</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -401,14 +401,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-chicago-sky-vs-washington-mystics</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-connecticut-sun-vs-atlanta-dream</loc>
         <lastmod>2026-06-02</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-connecticut-sun-vs-atlanta-dream</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-chicago-sky-vs-washington-mystics</loc>
         <lastmod>2026-06-02</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -786,7 +786,7 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-monaco-grand-prix-practice-2</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-monaco-grand-prix-practice-1</loc>
         <lastmod>2026-06-05</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -828,6 +828,13 @@
     </url>
 
     <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-monaco-grand-prix-qualifying</loc>
+        <lastmod>2026-06-06</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=live-event_moto2-2026-grand-prix-of-hungary-live-stream</loc>
         <lastmod>2026-06-06</lastmod>
         <changefreq>daily</changefreq>
@@ -836,13 +843,6 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=ppv-panthers-wroclaw-vs-paris-lights</loc>
-        <lastmod>2026-06-06</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-monaco-grand-prix-practice-3</loc>
         <lastmod>2026-06-06</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
