@@ -198,6 +198,20 @@
     </url>
 
     <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-west-indies-vs-sri-lanka</loc>
+        <lastmod>2026-06-03</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=latvia-u17-vs-albania-u17-2408844</loc>
+        <lastmod>2026-06-03</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=roland-garros-french-open-roland-2026</loc>
         <lastmod>2026-06-03</lastmod>
         <changefreq>daily</changefreq>
@@ -318,20 +332,6 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=admin-rally-tv</loc>
-        <lastmod>2026-06-03</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=philippines-vs-guam-2475651</loc>
-        <lastmod>2026-06-03</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=latvia-u17-vs-albania-u17-2408844</loc>
         <lastmod>2026-06-03</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -800,13 +800,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-monaco-grand-prix-qualifying</loc>
-        <lastmod>2026-06-06</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=live-event_moto2-2026-grand-prix-of-hungary-live-stream</loc>
         <lastmod>2026-06-06</lastmod>
         <changefreq>daily</changefreq>
@@ -815,6 +808,13 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=ppv-panthers-wroclaw-vs-paris-lights</loc>
+        <lastmod>2026-06-06</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-monaco-grand-prix-practice-3</loc>
         <lastmod>2026-06-06</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -963,6 +963,13 @@
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=live-event_victor-hernandez-vs-vic-pasillas-live-stream</loc>
         <lastmod>2026-06-12</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=live-event_2026-pfl-africa-2-nigeria-live-stream</loc>
+        <lastmod>2026-06-13</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
