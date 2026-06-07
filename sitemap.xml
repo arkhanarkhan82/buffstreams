@@ -198,28 +198,7 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=race-circuit-de-monaco-2603-kms-formula-1-2550</loc>
-        <lastmod>2026-06-07</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=oman-vs-mozambique-2479806</loc>
-        <lastmod>2026-06-07</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=kenya-vs-lesotho-2479805</loc>
-        <lastmod>2026-06-07</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=liechtenstein-vs-cyprus-2470311</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=maldives-vs-bangladesh-u23-2479807</loc>
         <lastmod>2026-06-07</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -248,13 +227,6 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=liv-golf-andalusia-liv-golf-series-game-162626</loc>
-        <lastmod>2026-06-07</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-women-s-vnl-2026-china-v-poland</loc>
         <lastmod>2026-06-07</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -290,13 +262,6 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=22740</loc>
-        <lastmod>2026-06-07</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=live-event_formula-1-2026-monaco-gp-live-stream</loc>
         <lastmod>2026-06-07</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -380,13 +345,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=maldives-vs-bangladesh-u23-2479807</loc>
-        <lastmod>2026-06-07</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=denmark-vs-ukraine-2469960</loc>
         <lastmod>2026-06-07</lastmod>
         <changefreq>daily</changefreq>
@@ -430,6 +388,13 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=miami-marlins-vs-tampa-bay-rays-2387853</loc>
+        <lastmod>2026-06-07</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-event-01-gncc-watkins-glen-ppv-01</loc>
         <lastmod>2026-06-07</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -534,6 +499,13 @@
     </url>
 
     <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-event-02-usac-silver-crowns-wwt-ppv-02</loc>
+        <lastmod>2026-06-07</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=live-event_2026-nascar-cup-series-at-michigan-live-stream</loc>
         <lastmod>2026-06-07</lastmod>
         <changefreq>daily</changefreq>
@@ -599,6 +571,41 @@
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=los-angeles-sparks-vs-portland-fire-2469363</loc>
         <lastmod>2026-06-07</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-event-04-world-of-outlaws-sprint-cars-angell-ppv-004</loc>
+        <lastmod>2026-06-07</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-event-05-appalachian-lm-speedweek-potomac-ppv-05</loc>
+        <lastmod>2026-06-07</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-event-06-uwc-58-ppv-06</loc>
+        <lastmod>2026-06-08</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-event-07-weekly-racing-slinger-ppv-07</loc>
+        <lastmod>2026-06-08</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-event-08-husets-late-models-brownstown-ppv-08</loc>
+        <lastmod>2026-06-08</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
