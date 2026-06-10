@@ -198,7 +198,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=pakistan-vs-afghanistan-2483343</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=cleveland-guardians-vs-new-york-yankees-2387893</loc>
+        <lastmod>2026-06-10</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=tampa-bay-rays-vs-boston-red-sox-2387889</loc>
         <lastmod>2026-06-10</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -206,13 +213,6 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=endurance-world-championship-circuit-des-24-heures-racing-0059</loc>
-        <lastmod>2026-06-10</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=atp-wta-stuttgart-hertogenbosch-tn-1</loc>
         <lastmod>2026-06-10</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -296,20 +296,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=cleveland-guardians-vs-new-york-yankees-2387893</loc>
-        <lastmod>2026-06-10</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=tampa-bay-rays-vs-boston-red-sox-2387889</loc>
-        <lastmod>2026-06-10</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=m-laga-vs-las-palmas-2478911</loc>
         <lastmod>2026-06-10</lastmod>
         <changefreq>daily</changefreq>
@@ -331,7 +317,7 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-24-hours-of-le-mans-qualifying</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-24-hours-of-le-mans-practice-2</loc>
         <lastmod>2026-06-10</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -506,6 +492,13 @@
     </url>
 
     <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-24-hours-of-le-mans-practice-4</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=costa-rica-u23-vs-cuba-u23-football-1550857</loc>
         <lastmod>2026-06-11</lastmod>
         <changefreq>daily</changefreq>
@@ -549,13 +542,6 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=colorado-rockies-vs-chicago-cubs-2387903</loc>
-        <lastmod>2026-06-11</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-24-hours-of-le-mans-practice-3</loc>
         <lastmod>2026-06-11</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -660,7 +646,7 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-barcelona-grand-prix-practice-2</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-barcelona-grand-prix-practice-1</loc>
         <lastmod>2026-06-12</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -716,14 +702,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=live-event_2026-pfl-africa-2-nigeria-live-stream</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-24-hours-of-le-mans-race</loc>
         <lastmod>2026-06-13</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-24-hours-of-le-mans-warm-up</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=live-event_2026-pfl-africa-2-nigeria-live-stream</loc>
         <lastmod>2026-06-13</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -907,6 +893,13 @@
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=live-event_2026-truck-series-at-san-diego-live-stream</loc>
         <lastmod>2026-06-19</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=live-event_ryan-garner-vs-michael-magnesi-live-stream</loc>
+        <lastmod>2026-06-20</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
