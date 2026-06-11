@@ -198,6 +198,13 @@
     </url>
 
     <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-24-hours-of-le-mans-practice-4</loc>
+        <lastmod>2026-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=colorado-rockies-vs-chicago-cubs-2387903</loc>
         <lastmod>2026-06-11</lastmod>
         <changefreq>daily</changefreq>
@@ -220,13 +227,6 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=kansas-city-royals-vs-texas-rangers-2387902</loc>
-        <lastmod>2026-06-11</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-24-hours-of-le-mans-practice-4</loc>
         <lastmod>2026-06-11</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -269,20 +269,6 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=ferrari-challenge-europe-le-mans-game-19996</loc>
-        <lastmod>2026-06-11</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=uci-tour-auvergne-uci-world-tour-game-13622</loc>
-        <lastmod>2026-06-11</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=endurance-world-championship-circuit-des-24-heures-racing-0059</loc>
         <lastmod>2026-06-11</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -681,13 +667,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-barcelona-grand-prix-qualifying</loc>
-        <lastmod>2026-06-13</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=live-event_2026-pfl-africa-2-nigeria-live-stream</loc>
         <lastmod>2026-06-13</lastmod>
         <changefreq>daily</changefreq>
@@ -696,6 +675,13 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=ppv-24-hours-of-le-mans-warm-up</loc>
+        <lastmod>2026-06-13</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-barcelona-grand-prix-practice-3</loc>
         <lastmod>2026-06-13</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
