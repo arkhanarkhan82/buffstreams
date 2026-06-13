@@ -198,7 +198,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=3rd-practice-circuit-de-barcelona-catalunya-formula-1-2553</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=rbc-canadian-open-round-3-2482014</loc>
+        <lastmod>2026-06-13</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=betvictor-world-cup-darts-day-3-2470564</loc>
         <lastmod>2026-06-13</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -206,20 +213,6 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=barcelona-catalunya-grand-prix-practice-3-2408149</loc>
-        <lastmod>2026-06-13</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=parramatta-eels-vs-canberra-raiders-2417267</loc>
-        <lastmod>2026-06-13</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=port-adelaide-football-club-vs-sydney-swans-2400617</loc>
         <lastmod>2026-06-13</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -338,20 +331,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=betvictor-world-cup-darts-day-3-2470564</loc>
-        <lastmod>2026-06-13</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=rbc-canadian-open-round-3-2482014</loc>
-        <lastmod>2026-06-13</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=24-hours-of-le-mans-2421037</loc>
         <lastmod>2026-06-13</lastmod>
         <changefreq>daily</changefreq>
@@ -409,6 +388,20 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=glory-collision-9-2490149</loc>
+        <lastmod>2026-06-13</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=23178</loc>
+        <lastmod>2026-06-13</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=23177</loc>
         <lastmod>2026-06-13</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -564,6 +557,13 @@
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=milwaukee-brewers-vs-philadelphia-phillies-2387927</loc>
         <lastmod>2026-06-13</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=23174</loc>
+        <lastmod>2026-06-14</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
@@ -948,6 +948,13 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=live-event_indycar-2026-xpel-grand-prix-at-road-america-live-stream</loc>
+        <lastmod>2026-06-20</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=live-event_moto2-2026-czech-republic-grand-prix-live-stream</loc>
         <lastmod>2026-06-20</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
