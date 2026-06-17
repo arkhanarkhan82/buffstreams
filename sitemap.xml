@@ -198,7 +198,28 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-event-05-summer-nationals-west-liberty-ppv-05</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=players-championship-22-2491186</loc>
+        <lastmod>2026-06-17</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=new-south-wales-blues-vs-queensland-maroons-2435987</loc>
+        <lastmod>2026-06-17</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=atp-wta-halle-berlin-tn-1</loc>
+        <lastmod>2026-06-17</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=second-test-england-vs-new-zealand-cricket-hundred-1</loc>
         <lastmod>2026-06-17</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -290,27 +311,6 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=admin-rally-tv</loc>
-        <lastmod>2026-06-17</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=second-test-england-vs-new-zealand-cricket-hundred-1</loc>
-        <lastmod>2026-06-17</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=atp-wta-halle-berlin-tn-1</loc>
-        <lastmod>2026-06-17</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=new-south-wales-blues-vs-queensland-maroons-2435987</loc>
         <lastmod>2026-06-17</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -478,14 +478,7 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=phoenix-mercury-w-vs-las-vegas-aces-w-basketball-494883</loc>
-        <lastmod>2026-06-18</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=golden-state-valkyries-w-vs-dallas-wings-w-basketball-494885</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=los-angeles-sparks-w-vs-minnesota-lynx-w-basketball-494884</loc>
         <lastmod>2026-06-18</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -499,7 +492,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=los-angeles-sparks-w-vs-minnesota-lynx-w-basketball-494884</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=phoenix-mercury-w-vs-las-vegas-aces-w-basketball-494883</loc>
+        <lastmod>2026-06-18</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=golden-state-valkyries-w-vs-dallas-wings-w-basketball-494885</loc>
         <lastmod>2026-06-18</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -879,6 +879,13 @@
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=ppv-berlin-thunder-vs-rhein-fire</loc>
         <lastmod>2026-06-21</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=live-event_jackson-jon-england-vs-sultan-zaurbek-live-stream</loc>
+        <lastmod>2026-06-27</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
