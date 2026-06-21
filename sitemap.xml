@@ -198,6 +198,20 @@
     </url>
 
     <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-event-09-nascar-cup-series-anduril-250-ppv-09</loc>
+        <lastmod>2026-06-21</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-event-10-nascar-feat-drivers-multiview-ppv-10</loc>
+        <lastmod>2026-06-21</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=seattle-mariners-vs-boston-red-sox-2388045</loc>
         <lastmod>2026-06-21</lastmod>
         <changefreq>daily</changefreq>
@@ -416,20 +430,6 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=admin-rally-tv</loc>
-        <lastmod>2026-06-21</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-event-09-nascar-cup-series-anduril-250-ppv-09</loc>
-        <lastmod>2026-06-21</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-event-10-nascar-feat-drivers-multiview-ppv-10</loc>
         <lastmod>2026-06-21</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
