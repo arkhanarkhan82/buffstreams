@@ -303,6 +303,20 @@
     </url>
 
     <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=travelers-championship-pga-tour-pga-526234</loc>
+        <lastmod>2026-06-25</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=warrington-wolves-vs-catalans-dragons-2395946</loc>
+        <lastmod>2026-06-25</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=san-francisco-giants-vs-athletics-2388089</loc>
         <lastmod>2026-06-25</lastmod>
         <changefreq>daily</changefreq>
@@ -415,14 +429,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=las-vegas-aces-w-vs-dallas-wings-w-basketball-494906</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=seattle-storm-w-vs-new-york-liberty-w-basketball-494907</loc>
         <lastmod>2026-06-26</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=seattle-storm-w-vs-new-york-liberty-w-basketball-494907</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=las-vegas-aces-w-vs-dallas-wings-w-basketball-494906</loc>
         <lastmod>2026-06-26</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -590,14 +604,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=connecticut-sun-w-vs-washington-mystics-w-basketball-494909</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=chicago-sky-w-vs-portland-fire-w-basketball-494908</loc>
         <lastmod>2026-06-26</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=chicago-sky-w-vs-portland-fire-w-basketball-494908</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=connecticut-sun-w-vs-washington-mystics-w-basketball-494909</loc>
         <lastmod>2026-06-26</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -681,14 +695,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-new-zealand-vs-belgium</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-egypt-vs-iran</loc>
         <lastmod>2026-06-27</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-egypt-vs-iran</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-new-zealand-vs-belgium</loc>
         <lastmod>2026-06-27</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -716,13 +730,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-austrian-grand-prix-qualifying</loc>
-        <lastmod>2026-06-27</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=live-event_moto2-2026-tt-assen-live-stream</loc>
         <lastmod>2026-06-27</lastmod>
         <changefreq>daily</changefreq>
@@ -731,6 +738,13 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=live-event_ufc-fight-night-fiziev-vs-torres-live-stream</loc>
+        <lastmod>2026-06-27</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-austrian-grand-prix-practice-3</loc>
         <lastmod>2026-06-27</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
