@@ -380,13 +380,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=sydney-swans-vs-western-bulldogs-australian-football-3487</loc>
-        <lastmod>2026-07-01</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=west-coast-eagles-vs-adelaide-crows-australian-football-3488</loc>
         <lastmod>2026-07-01</lastmod>
         <changefreq>daily</changefreq>
@@ -394,21 +387,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=essendon-bombers-vs-st-kilda-saints-australian-football-3480</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=sydney-swans-vs-western-bulldogs-australian-football-3487</loc>
         <lastmod>2026-07-01</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=gold-coast-suns-vs-collingwood-magpies-australian-football-3482</loc>
-        <lastmod>2026-07-01</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=hawthorn-hawks-vs-melbourne-demons-australian-football-3484</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=richmond-tigers-vs-carlton-blues-australian-football-3486</loc>
         <lastmod>2026-07-01</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -422,7 +408,21 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=richmond-tigers-vs-carlton-blues-australian-football-3486</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=hawthorn-hawks-vs-melbourne-demons-australian-football-3484</loc>
+        <lastmod>2026-07-01</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=gold-coast-suns-vs-collingwood-magpies-australian-football-3482</loc>
+        <lastmod>2026-07-01</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=essendon-bombers-vs-st-kilda-saints-australian-football-3480</loc>
         <lastmod>2026-07-01</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
