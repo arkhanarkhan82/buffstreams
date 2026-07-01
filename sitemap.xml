@@ -240,20 +240,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=cleveland-guardians-vs-texas-rangers-2388175</loc>
-        <lastmod>2026-07-01</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=baltimore-orioles-vs-chicago-white-sox-2388177</loc>
-        <lastmod>2026-07-01</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=england-vs-india-first-t20-international-cricket-1</loc>
         <lastmod>2026-07-01</lastmod>
         <changefreq>daily</changefreq>
@@ -541,6 +527,13 @@
     </url>
 
     <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-british-grand-prix-qualifying</loc>
+        <lastmod>2026-07-04</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=ppv-paris-lights-vs-panthers-wroclaw</loc>
         <lastmod>2026-07-04</lastmod>
         <changefreq>daily</changefreq>
@@ -549,13 +542,6 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=ppv-london-warriors-vs-firenze-red-lions</loc>
-        <lastmod>2026-07-04</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-british-grand-prix-sprint</loc>
         <lastmod>2026-07-04</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
