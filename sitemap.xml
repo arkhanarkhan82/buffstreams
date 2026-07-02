@@ -198,6 +198,13 @@
     </url>
 
     <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=us-senior-open-atp1000</loc>
+        <lastmod>2026-07-02</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=wimbledon-championships-2026-roland-2026</loc>
         <lastmod>2026-07-02</lastmod>
         <changefreq>daily</changefreq>
@@ -304,6 +311,13 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=connecticut-sun-w-vs-dallas-wings-w-basketball-494919</loc>
+        <lastmod>2026-07-03</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=john-deere-classic-round-2-2482042</loc>
         <lastmod>2026-07-03</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -562,14 +576,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-british-grand-prix-qualifying</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-paris-lights-vs-panthers-wroclaw</loc>
         <lastmod>2026-07-04</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-paris-lights-vs-panthers-wroclaw</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-british-grand-prix-sprint</loc>
         <lastmod>2026-07-04</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
