@@ -198,20 +198,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=sprint-silverstone-circuit-formula-1-2562</loc>
-        <lastmod>2026-07-04</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=british-grand-prix-sprint-2408164</loc>
-        <lastmod>2026-07-04</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=wimbledon-championships-2026-roland-2026</loc>
         <lastmod>2026-07-04</lastmod>
         <changefreq>daily</changefreq>
@@ -219,28 +205,7 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=richmond-tigers-vs-carlton-blues-australian-football-3563</loc>
-        <lastmod>2026-07-04</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=brisbane-broncos-vs-cronulla-sharks-2417294</loc>
-        <lastmod>2026-07-04</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=f1-academy-great-britain-f2-3-great-britain-game-19996</loc>
-        <lastmod>2026-07-04</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=formula-e-shanghai-eprix-shanghai-international-circuit-game-4u8337</loc>
         <lastmod>2026-07-04</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -311,6 +276,13 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=1st-qualifying-silverstone-circuit-formula-1-2665</loc>
+        <lastmod>2026-07-04</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=british-grand-prix-sprint-2408164</loc>
         <lastmod>2026-07-04</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
