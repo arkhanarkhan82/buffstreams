@@ -198,7 +198,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-event-06-country-box-where-music-meets-boxing-ppv-06</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=uci-tour-de-france-uci-world-tour-game-13622</loc>
+        <lastmod>2026-07-08</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=queensland-maroons-vs-new-south-wales-blues-2435988</loc>
         <lastmod>2026-07-08</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -233,7 +240,7 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=queensland-maroons-vs-new-south-wales-blues-2435988</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=tour-de-france-stage-4-2447751</loc>
         <lastmod>2026-07-08</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -241,20 +248,6 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=wimbledon-championships-2026-roland-2026</loc>
-        <lastmod>2026-07-08</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=uci-tour-de-france-uci-world-tour-game-13622</loc>
-        <lastmod>2026-07-08</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=tour-de-france-stage-4-2447751</loc>
         <lastmod>2026-07-08</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1017,7 +1010,7 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-belgian-grand-prix-practice-1</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-belgian-grand-prix-practice-2</loc>
         <lastmod>2026-07-17</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
