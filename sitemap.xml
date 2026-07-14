@@ -198,14 +198,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=france-vs-spain-2528031</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=houston-rockets-vs-philadelphia-76ers-2505664</loc>
         <lastmod>2026-07-14</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=uci-tour-de-france-uci-world-tour-game-13622</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=france-vs-spain-2528031</loc>
         <lastmod>2026-07-14</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -261,14 +261,21 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=houston-rockets-vs-philadelphia-76ers-2505664</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=brooklyn-nets-vs-sacramento-kings-2505665</loc>
         <lastmod>2026-07-14</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=brooklyn-nets-vs-sacramento-kings-2505665</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-event-02-slinger-nationals-ppv-02</loc>
+        <lastmod>2026-07-14</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-event-03-short-track-super-series-bridgeport-ppv-03</loc>
         <lastmod>2026-07-14</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -296,6 +303,13 @@
     </url>
 
     <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-event-04-world-of-outlaws-sprints-attica-ppv-004</loc>
+        <lastmod>2026-07-14</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=23768</loc>
         <lastmod>2026-07-15</lastmod>
         <changefreq>daily</changefreq>
@@ -303,7 +317,28 @@
     </url>
 
     <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-event-05-southern-nationals-harris-ppv-05</loc>
+        <lastmod>2026-07-15</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-wwe-nxt</loc>
+        <lastmod>2026-07-15</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=chicago-bulls-vs-washington-wizards-2505667</loc>
+        <lastmod>2026-07-15</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-event-06-lucas-oil-late-models-adams-county-ppv-06</loc>
         <lastmod>2026-07-15</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -324,6 +359,13 @@
     </url>
 
     <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=atp-wta-tour-nordea-swiss-umag-lasi-open-tn-1</loc>
+        <lastmod>2026-07-15</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=santa-clara-vs-le-a-2527295</loc>
         <lastmod>2026-07-15</lastmod>
         <changefreq>daily</changefreq>
@@ -338,7 +380,21 @@
     </url>
 
     <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=sydney-swans-vs-adelaide-crows-australian-football-3505</loc>
+        <lastmod>2026-07-15</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=essendon-bombers-vs-greater-western-sydney-giants-australian-football-3499</loc>
+        <lastmod>2026-07-15</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=richmond-tigers-vs-hawthorn-hawks-australian-football-3504</loc>
         <lastmod>2026-07-15</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -367,20 +423,6 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=west-coast-eagles-vs-brisbane-lions-australian-football-3506</loc>
-        <lastmod>2026-07-15</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=sydney-swans-vs-adelaide-crows-australian-football-3505</loc>
-        <lastmod>2026-07-15</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=richmond-tigers-vs-hawthorn-hawks-australian-football-3504</loc>
         <lastmod>2026-07-15</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -457,14 +499,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=23776</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-aew-wednesday-night-dynamite</loc>
         <lastmod>2026-07-16</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-aew-wednesday-night-dynamite</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-boston-celtics-vs-sacramento-kings</loc>
         <lastmod>2026-07-16</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -513,14 +555,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-st-louis-city-sc-vs-sporting-kansas-city</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-chicago-fire-fc-vs-vancouver-whitecaps</loc>
         <lastmod>2026-07-17</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-chicago-fire-fc-vs-vancouver-whitecaps</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-st-louis-city-sc-vs-sporting-kansas-city</loc>
         <lastmod>2026-07-17</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -583,14 +625,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-belgian-grand-prix-practice-2</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=live-event_nascar-truck-series-2026-window-world-250-live-stream</loc>
         <lastmod>2026-07-17</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=live-event_nascar-truck-series-2026-window-world-250-live-stream</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-belgian-grand-prix-practice-1</loc>
         <lastmod>2026-07-17</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -653,6 +695,13 @@
     </url>
 
     <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-belgian-grand-prix-qualifying</loc>
+        <lastmod>2026-07-18</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=ppv-tour-de-france-stage-14</loc>
         <lastmod>2026-07-18</lastmod>
         <changefreq>daily</changefreq>
@@ -661,13 +710,6 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=ppv-london-warriors-vs-paris-lights</loc>
-        <lastmod>2026-07-18</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-belgian-grand-prix-practice-3</loc>
         <lastmod>2026-07-18</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -745,6 +787,13 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=ppv-aew-saturday-night-collision</loc>
+        <lastmod>2026-07-19</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-titans-vs-sea-eagles</loc>
         <lastmod>2026-07-19</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
