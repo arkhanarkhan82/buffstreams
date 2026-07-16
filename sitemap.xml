@@ -317,13 +317,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=forge-vs-pacific-2427373</loc>
-        <lastmod>2026-07-16</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=new-york-knicks-vs-golden-state-warriors-2505681</loc>
         <lastmod>2026-07-16</lastmod>
         <changefreq>daily</changefreq>
@@ -354,6 +347,13 @@
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=cf-montr-al-vs-toronto-fc-2406927</loc>
         <lastmod>2026-07-16</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=forge-vs-pacific-2427373</loc>
+        <lastmod>2026-07-17</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
@@ -499,14 +499,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=belgian-grand-prix-practice-1-2408167</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=live-event_nascar-truck-series-2026-window-world-250-live-stream</loc>
         <lastmod>2026-07-17</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=live-event_nascar-truck-series-2026-window-world-250-live-stream</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=belgian-grand-prix-practice-1-2408167</loc>
         <lastmod>2026-07-17</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
