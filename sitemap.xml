@@ -198,6 +198,13 @@
     </url>
 
     <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=san-lorenzo-vs-deportivo-riestra-2462448</loc>
+        <lastmod>2026-07-17</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=st-helens-vs-catalans-dragons-2537589</loc>
         <lastmod>2026-07-17</lastmod>
         <changefreq>daily</changefreq>
@@ -283,13 +290,6 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=admin-rally-tv</loc>
-        <lastmod>2026-07-17</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=san-lorenzo-vs-deportivo-riestra-2462448</loc>
         <lastmod>2026-07-17</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -702,13 +702,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=belgian-grand-prix-practice-3-2408169</loc>
-        <lastmod>2026-07-18</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=tour-de-france-stage-14-2447761</loc>
         <lastmod>2026-07-18</lastmod>
         <changefreq>daily</changefreq>
@@ -752,6 +745,13 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=1st-qualifying-circuit-de-spa-francorchamps-formula-1-2671</loc>
+        <lastmod>2026-07-18</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=belgian-grand-prix-practice-3-2408169</loc>
         <lastmod>2026-07-18</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
