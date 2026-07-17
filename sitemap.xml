@@ -198,21 +198,7 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=tijuana-vs-tigres-uanl-2487453</loc>
-        <lastmod>2026-07-17</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=seattle-sounders-vs-portland-timbers-2406930</loc>
-        <lastmod>2026-07-17</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=denver-nuggets-vs-portland-trail-blazers-2505684</loc>
         <lastmod>2026-07-17</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -234,13 +220,6 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=dallas-wings-w-vs-new-york-liberty-w-basketball-494956</loc>
-        <lastmod>2026-07-17</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=miami-heat-vs-toronto-raptors-2505683</loc>
         <lastmod>2026-07-17</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -506,14 +485,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=chicago-sky-w-vs-los-angeles-sparks-w-basketball-494958</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=toronto-tempo-w-vs-atlanta-dream-w-basketball-494957</loc>
         <lastmod>2026-07-17</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=toronto-tempo-w-vs-atlanta-dream-w-basketball-494957</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=chicago-sky-w-vs-los-angeles-sparks-w-basketball-494958</loc>
         <lastmod>2026-07-17</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -786,13 +765,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=belgian-grand-prix-practice-3-2408169</loc>
-        <lastmod>2026-07-18</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=tour-de-france-stage-14-2447761</loc>
         <lastmod>2026-07-18</lastmod>
         <changefreq>daily</changefreq>
@@ -822,6 +794,13 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=1st-qualifying-circuit-de-spa-francorchamps-formula-1-2671</loc>
+        <lastmod>2026-07-18</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=belgian-grand-prix-practice-3-2408169</loc>
         <lastmod>2026-07-18</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
