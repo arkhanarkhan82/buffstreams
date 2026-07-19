@@ -233,13 +233,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=belgian-feature-race-2409298</loc>
-        <lastmod>2026-07-19</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=the-open-championship-final-round-2358665</loc>
         <lastmod>2026-07-19</lastmod>
         <changefreq>daily</changefreq>
@@ -415,13 +408,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=new-york-yankees-vs-los-angeles-dodgers-2388348</loc>
-        <lastmod>2026-07-19</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=ppv-event-01-usac-rich-vogler-classic-winchester-ppv-01</loc>
         <lastmod>2026-07-19</lastmod>
         <changefreq>daily</changefreq>
@@ -507,6 +493,13 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=colorado-rockies-vs-cincinnati-reds-2388367</loc>
+        <lastmod>2026-07-19</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=sporting-cp-vs-strasbourg-game-399075</loc>
         <lastmod>2026-07-19</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -612,6 +605,13 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=ottawa-redblacks-vs-winnipeg-blue-bombers-2432559</loc>
+        <lastmod>2026-07-19</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=new-york-yankees-vs-los-angeles-dodgers-2388348</loc>
         <lastmod>2026-07-19</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
