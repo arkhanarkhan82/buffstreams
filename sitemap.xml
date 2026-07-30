@@ -205,13 +205,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=collingwood-magpies-vs-geelong-cats-australian-football-3517</loc>
-        <lastmod>2026-07-30</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=live-event_world-rally-championship-2026-rally-finland-live-stream</loc>
         <lastmod>2026-07-30</lastmod>
         <changefreq>daily</changefreq>
@@ -380,14 +373,7 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=dinamo-minsk-vs-neftchi-baku-football-1595192</loc>
-        <lastmod>2026-07-30</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=velez-vs-dunajska-streda-football-1593515</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=hb-torshavn-vs-motherwell-football-1556534</loc>
         <lastmod>2026-07-30</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -401,7 +387,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=hb-torshavn-vs-motherwell-football-1556534</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=dinamo-minsk-vs-neftchi-baku-football-1595192</loc>
+        <lastmod>2026-07-30</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=velez-vs-dunajska-streda-football-1593515</loc>
         <lastmod>2026-07-30</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -527,14 +520,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=vestri-vs-rigas-fs-football-1593516</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=shkendija-vs-bravo-football-1593512</loc>
         <lastmod>2026-07-30</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=shkendija-vs-bravo-football-1593512</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=vestri-vs-rigas-fs-football-1593516</loc>
         <lastmod>2026-07-30</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1087,14 +1080,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-fc-juarez-vs-pumas-unam</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-atl-tico-de-san-luis-vs-tijuana</loc>
         <lastmod>2026-08-01</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-atl-tico-de-san-luis-vs-tijuana</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-fc-juarez-vs-pumas-unam</loc>
         <lastmod>2026-08-01</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1192,20 +1185,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-cf-montr-al-vs-new-england-revolution</loc>
-        <lastmod>2026-08-01</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-philadelphia-union-vs-atlanta-united-fc</loc>
-        <lastmod>2026-08-01</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=ppv-fc-cincinnati-vs-san-jose-earthquakes</loc>
         <lastmod>2026-08-01</lastmod>
         <changefreq>daily</changefreq>
@@ -1213,7 +1192,7 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-d-c-united-vs-nashville-sc</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-vancouver-whitecaps-vs-lafc</loc>
         <lastmod>2026-08-01</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1227,6 +1206,13 @@
     </url>
 
     <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-philadelphia-union-vs-atlanta-united-fc</loc>
+        <lastmod>2026-08-01</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=ppv-red-bull-new-york-vs-orlando-city-sc</loc>
         <lastmod>2026-08-01</lastmod>
         <changefreq>daily</changefreq>
@@ -1234,7 +1220,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-vancouver-whitecaps-vs-lafc</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-d-c-united-vs-nashville-sc</loc>
+        <lastmod>2026-08-01</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-cf-montr-al-vs-new-england-revolution</loc>
         <lastmod>2026-08-01</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1255,13 +1248,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-sporting-kansas-city-vs-houston-dynamo-fc</loc>
-        <lastmod>2026-08-02</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=ppv-chicago-fire-fc-vs-charlotte-fc</loc>
         <lastmod>2026-08-02</lastmod>
         <changefreq>daily</changefreq>
@@ -1270,6 +1256,13 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=ppv-minnesota-united-fc-vs-san-diego-fc</loc>
+        <lastmod>2026-08-02</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-sporting-kansas-city-vs-houston-dynamo-fc</loc>
         <lastmod>2026-08-02</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
