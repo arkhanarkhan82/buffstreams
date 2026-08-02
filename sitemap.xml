@@ -198,6 +198,48 @@
     </url>
 
     <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=feyenoord-vs-atalanta-2521791</loc>
+        <lastmod>2026-08-02</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=sigma-olomouc-vs-mlad--boleslav-2497734</loc>
+        <lastmod>2026-08-02</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=st-johnstone-vs-kilmarnock-2494413</loc>
+        <lastmod>2026-08-02</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=legia-warszawa-vs-zaglebie-lubin-football-1553113</loc>
+        <lastmod>2026-08-02</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=legia-warsaw-vs-zag--bie-lubin-2490199</loc>
+        <lastmod>2026-08-02</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=volendam-vs-ajax-2521789</loc>
+        <lastmod>2026-08-02</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=fc-nordsjaelland-vs-randers-fc-football-1548982</loc>
         <lastmod>2026-08-02</lastmod>
         <changefreq>daily</changefreq>
@@ -275,13 +317,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=live-event_world-rally-championship-2026-rally-finland-live-stream</loc>
-        <lastmod>2026-08-02</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=live-event_nascar-cup-series-2026-brickyard-400-live-stream</loc>
         <lastmod>2026-08-02</lastmod>
         <changefreq>daily</changefreq>
@@ -332,48 +367,6 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=admin-rally-tv</loc>
-        <lastmod>2026-08-02</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=volendam-vs-ajax-2521789</loc>
-        <lastmod>2026-08-02</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=legia-warszawa-vs-zaglebie-lubin-football-1553113</loc>
-        <lastmod>2026-08-02</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=legia-warsaw-vs-zag--bie-lubin-2490199</loc>
-        <lastmod>2026-08-02</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=feyenoord-vs-atalanta-2521791</loc>
-        <lastmod>2026-08-02</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=sigma-olomouc-vs-mlad--boleslav-2497734</loc>
-        <lastmod>2026-08-02</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=st-johnstone-vs-kilmarnock-2494413</loc>
         <lastmod>2026-08-02</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1068,6 +1061,27 @@
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=ppv-tottenham-hotspur-vs-tsg-hoffenheim</loc>
         <lastmod>2026-08-16</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-dutch-grand-prix-sprint-qualifying</loc>
+        <lastmod>2026-08-21</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-dutch-grand-prix-qualifying</loc>
+        <lastmod>2026-08-22</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-dutch-grand-prix-race</loc>
+        <lastmod>2026-08-23</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
