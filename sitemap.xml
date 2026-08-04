@@ -198,14 +198,7 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-event-01-wwe-monday-night-raw-ppv-01</loc>
-        <lastmod>2026-08-04</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-event-03-ama-loretta-lynn-natl-mx-championship-ppv-03</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=24126</loc>
         <lastmod>2026-08-04</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -877,14 +870,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-nashville-sc-vs-le-n</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-fc-dallas-vs-quer-taro</loc>
         <lastmod>2026-08-06</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-fc-dallas-vs-quer-taro</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-nashville-sc-vs-le-n</loc>
         <lastmod>2026-08-06</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1080,14 +1073,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-columbus-crew-vs-pachuca</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-charlotte-fc-vs-atlas</loc>
         <lastmod>2026-08-07</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-charlotte-fc-vs-atlas</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-columbus-crew-vs-pachuca</loc>
         <lastmod>2026-08-07</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1206,6 +1199,13 @@
     </url>
 
     <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-leicester-city-vs-northampton-town</loc>
+        <lastmod>2026-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=ppv-tottenham-hotspur-vs-getafe</loc>
         <lastmod>2026-08-08</lastmod>
         <changefreq>daily</changefreq>
@@ -1214,13 +1214,6 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=ppv-derby-county-vs-lincoln-city</loc>
-        <lastmod>2026-08-08</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-leicester-city-vs-northampton-town</loc>
         <lastmod>2026-08-08</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1409,14 +1402,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-ifk-g-teborg-vs-kalmar-ff</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-halmstads-bk-vs-gais</loc>
         <lastmod>2026-08-09</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-halmstads-bk-vs-gais</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-ifk-g-teborg-vs-kalmar-ff</loc>
         <lastmod>2026-08-09</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1451,14 +1444,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-nashville-sc-vs-atl-tico-de-san-luis</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-chicago-fire-fc-vs-santos</loc>
         <lastmod>2026-08-10</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-chicago-fire-fc-vs-santos</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-nashville-sc-vs-atl-tico-de-san-luis</loc>
         <lastmod>2026-08-10</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1535,7 +1528,7 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-dutch-grand-prix-sprint</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-dutch-grand-prix-qualifying</loc>
         <lastmod>2026-08-22</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
