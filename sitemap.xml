@@ -198,20 +198,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=estoril-praia-vs-famalicao-2513940</loc>
-        <lastmod>2026-08-07</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=middlesbrough-vs-wrexham-2503739</loc>
-        <lastmod>2026-08-07</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=wolverhampton-wanderers-vs-port-vale-2503731</loc>
         <lastmod>2026-08-07</lastmod>
         <changefreq>daily</changefreq>
@@ -429,14 +415,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-event-13-williams-grove-sprint-cars-ppv-13</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-event-14-world-of-outlaws-sprint-cars-i55-federated-ppv14</loc>
         <lastmod>2026-08-08</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-event-14-world-of-outlaws-sprint-cars-i55-federated-ppv14</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-event-13-williams-grove-sprint-cars-ppv-13</loc>
         <lastmod>2026-08-08</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1591,13 +1577,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-cruz-azul-vs-new-york-city-fc</loc>
-        <lastmod>2026-08-09</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=ppv-philadelphia-union-vs-necaxa</loc>
         <lastmod>2026-08-09</lastmod>
         <changefreq>daily</changefreq>
@@ -1605,14 +1584,21 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-chicago-fire-fc-vs-santos</loc>
-        <lastmod>2026-08-10</lastmod>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-cruz-azul-vs-new-york-city-fc</loc>
+        <lastmod>2026-08-09</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=ppv-nashville-sc-vs-atl-tico-de-san-luis</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-chicago-fire-fc-vs-santos</loc>
         <lastmod>2026-08-10</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
