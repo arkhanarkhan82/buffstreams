@@ -198,6 +198,13 @@
     </url>
 
     <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=remo-vs-atletico-mg-football-1492328</loc>
+        <lastmod>2026-08-08</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=fortaleza-fc-vs-cucuta-football-1549718</loc>
         <lastmod>2026-08-08</lastmod>
         <changefreq>daily</changefreq>
@@ -248,20 +255,6 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=tigre-vs-river-plate-2398009</loc>
-        <lastmod>2026-08-08</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=chicago-sky-w-vs-indiana-fever-w-basketball-495010</loc>
-        <lastmod>2026-08-08</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=estrela-amadora-vs-sporting-cp-2513942</loc>
         <lastmod>2026-08-08</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -367,13 +360,6 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=ppv-event-04-wiliamson-v-simpson-2-ppv-004</loc>
-        <lastmod>2026-08-08</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=cibalia-vs-mladost--dralovi-2549436</loc>
         <lastmod>2026-08-08</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -507,13 +493,6 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=admin-rally-tv</loc>
-        <lastmod>2026-08-08</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=remo-vs-atletico-mg-football-1492328</loc>
         <lastmod>2026-08-08</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1675,14 +1654,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-dutch-grand-prix-practice-1</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-dutch-grand-prix-sprint-qualifying</loc>
         <lastmod>2026-08-21</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-dutch-grand-prix-sprint</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-dutch-grand-prix-qualifying</loc>
         <lastmod>2026-08-22</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
