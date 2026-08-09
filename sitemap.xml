@@ -198,6 +198,20 @@
     </url>
 
     <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=indycar-2026-game-19996</loc>
+        <lastmod>2026-08-09</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=porto-vs-alverca-2513935</loc>
+        <lastmod>2026-08-09</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=wta-toronto-atp-montreal-tn-1</loc>
         <lastmod>2026-08-09</lastmod>
         <changefreq>daily</changefreq>
@@ -310,55 +324,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=rangers-vs-hibernian-2494421</loc>
-        <lastmod>2026-08-09</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=heerenveen-vs-twente-2489074</loc>
-        <lastmod>2026-08-09</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=saarbr-cken-vs-rot-weiss-essen-2525326</loc>
-        <lastmod>2026-08-09</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=avs-vs-sporting-cp-b-2512932</loc>
-        <lastmod>2026-08-09</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=st--gallen-vs-luzern-2493343</loc>
-        <lastmod>2026-08-09</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=halmstad-vs-gais-2398872</loc>
-        <lastmod>2026-08-09</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ifk-g-teborg-vs-kalmar-2398871</loc>
-        <lastmod>2026-08-09</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=berlin-thunder-vs-rhein-fire-2475831</loc>
         <lastmod>2026-08-09</lastmod>
         <changefreq>daily</changefreq>
@@ -367,13 +332,6 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=athletic-club-mg-vs-crici-ma-2431366</loc>
-        <lastmod>2026-08-09</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=union-berlin-vs-aris-limassol-2549447</loc>
         <lastmod>2026-08-09</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -486,20 +444,6 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=admin-rally-tv</loc>
-        <lastmod>2026-08-09</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=indycar-2026-game-19996</loc>
-        <lastmod>2026-08-09</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=porto-vs-alverca-2513935</loc>
         <lastmod>2026-08-09</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1283,14 +1227,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-dutch-grand-prix-sprint-qualifying</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-dutch-grand-prix-practice-1</loc>
         <lastmod>2026-08-21</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-dutch-grand-prix-qualifying</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-dutch-grand-prix-sprint</loc>
         <lastmod>2026-08-22</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
