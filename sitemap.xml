@@ -198,6 +198,13 @@
     </url>
 
     <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=cavalry-vs-forge-2427390</loc>
+        <lastmod>2026-08-15</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=new-york-mets-vs-washington-nationals-2388726</loc>
         <lastmod>2026-08-15</lastmod>
         <changefreq>daily</changefreq>
@@ -268,20 +275,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=mosconia-vs-real-avil-s-industrial-2549454</loc>
-        <lastmod>2026-08-15</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=fortuna-sittard-vs-cambuur-2489079</loc>
-        <lastmod>2026-08-15</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=edmonton-elks-vs-toronto-argonauts-2432574</loc>
         <lastmod>2026-08-15</lastmod>
         <changefreq>daily</changefreq>
@@ -289,21 +282,7 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=venezia-vs-modena-2502876</loc>
-        <lastmod>2026-08-15</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=oud-heverlee-leuven-vs-club-brugge-2496702</loc>
-        <lastmod>2026-08-15</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-genclerbirligi-vs-fenerbahce</loc>
         <lastmod>2026-08-15</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -493,13 +472,6 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=admin-rally-tv</loc>
-        <lastmod>2026-08-15</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=cavalry-vs-forge-2427390</loc>
         <lastmod>2026-08-15</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1738,7 +1710,7 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-dutch-grand-prix-practice-1</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-dutch-grand-prix-sprint-qualifying</loc>
         <lastmod>2026-08-21</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1766,7 +1738,7 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-dutch-grand-prix-sprint</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-dutch-grand-prix-qualifying</loc>
         <lastmod>2026-08-22</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
