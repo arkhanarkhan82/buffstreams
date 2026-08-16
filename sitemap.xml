@@ -198,6 +198,20 @@
     </url>
 
     <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=ado-den-haag-vs-groningen-2489080</loc>
+        <lastmod>2026-08-16</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=portimonense-vs-vizela-2512933</loc>
+        <lastmod>2026-08-16</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=live-event_formula-e-2026-gp-london-2-live-stream</loc>
         <lastmod>2026-08-16</lastmod>
         <changefreq>daily</changefreq>
@@ -318,20 +332,6 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=admin-rally-tv</loc>
-        <lastmod>2026-08-16</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=portimonense-vs-vizela-2512933</loc>
-        <lastmod>2026-08-16</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ado-den-haag-vs-groningen-2489080</loc>
         <lastmod>2026-08-16</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -807,14 +807,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=gornik-zabrze-vs-wisla-krakow-football-1553129</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=wisla-plock-vs-lech-poznan-football-1553135</loc>
         <lastmod>2026-08-16</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=wisla-plock-vs-lech-poznan-football-1553135</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=gornik-zabrze-vs-wisla-krakow-football-1553129</loc>
         <lastmod>2026-08-16</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1451,7 +1451,7 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-dutch-grand-prix-sprint</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-dutch-grand-prix-qualifying</loc>
         <lastmod>2026-08-22</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
