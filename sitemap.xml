@@ -198,6 +198,13 @@
     </url>
 
     <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=atlas-vs-tigres-uanl-2487481</loc>
+        <lastmod>2026-08-16</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=ppv-lafc-vs-san-diego-fc</loc>
         <lastmod>2026-08-16</lastmod>
         <changefreq>daily</changefreq>
@@ -296,13 +303,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-aew-saturday-night-collision</loc>
-        <lastmod>2026-08-16</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=claressa-shields-vs-kaye-scott-2572755</loc>
         <lastmod>2026-08-16</lastmod>
         <changefreq>daily</changefreq>
@@ -381,20 +381,6 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=baltimore-ravens-vs-philadelphia-eagles-2475348</loc>
-        <lastmod>2026-08-16</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=cincinnati-reds-vs-miami-marlins-2388732</loc>
-        <lastmod>2026-08-16</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=tampa-bay-rays-vs-baltimore-orioles-2388723</loc>
         <lastmod>2026-08-16</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -507,13 +493,6 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=admin-rally-tv</loc>
-        <lastmod>2026-08-16</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=atlas-vs-tigres-uanl-2487481</loc>
         <lastmod>2026-08-16</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1640,6 +1619,20 @@
     </url>
 
     <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=live_nfl-preseason_texans-raiders-live-streaming-587570112</loc>
+        <lastmod>2026-08-21</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=live_nfl-preseason_chargers-49ers-live-streaming-587570544</loc>
+        <lastmod>2026-08-21</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=live-event_formula-1-2026-netherlands-gp-live-stream</loc>
         <lastmod>2026-08-21</lastmod>
         <changefreq>daily</changefreq>
@@ -1647,7 +1640,7 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-dutch-grand-prix-practice-1</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-dutch-grand-prix-sprint-qualifying</loc>
         <lastmod>2026-08-21</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
