@@ -1437,7 +1437,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-dutch-grand-prix-sprint-qualifying</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-dutch-grand-prix-practice-1</loc>
+        <lastmod>2026-08-21</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=438</loc>
         <lastmod>2026-08-21</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1446,6 +1453,20 @@
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=live-event_amanda-serrano-vs-lucrecia-anabella-manzur-live-stream</loc>
         <lastmod>2026-08-21</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=439</loc>
+        <lastmod>2026-08-21</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=440</loc>
+        <lastmod>2026-08-22</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
@@ -1465,7 +1486,35 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-dutch-grand-prix-qualifying</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-dutch-grand-prix-sprint</loc>
+        <lastmod>2026-08-22</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=441</loc>
+        <lastmod>2026-08-22</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=444</loc>
+        <lastmod>2026-08-22</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=443</loc>
+        <lastmod>2026-08-22</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=442</loc>
         <lastmod>2026-08-22</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1486,6 +1535,20 @@
     </url>
 
     <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=446</loc>
+        <lastmod>2026-08-22</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=445</loc>
+        <lastmod>2026-08-22</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=live-event_ufc-fight-night-hernandez-vs-rodrigues-live-stream</loc>
         <lastmod>2026-08-22</lastmod>
         <changefreq>daily</changefreq>
@@ -1500,8 +1563,36 @@
     </url>
 
     <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=448</loc>
+        <lastmod>2026-08-22</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=447</loc>
+        <lastmod>2026-08-22</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=live-event_pfl-tampa-cyborg-vs-vieira-live-stream</loc>
         <lastmod>2026-08-22</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=449</loc>
+        <lastmod>2026-08-22</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=450</loc>
+        <lastmod>2026-08-23</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
@@ -1515,6 +1606,13 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=live-event_dana-white-s-contender-series-season-10-week-3-live-stream</loc>
+        <lastmod>2026-08-26</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=live-event_nikita-tszyu-vs-ben-mahoney-live-stream</loc>
         <lastmod>2026-08-26</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
