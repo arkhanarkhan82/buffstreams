@@ -380,13 +380,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=cleveland-guardians-vs-san-diego-padres-2388745</loc>
-        <lastmod>2026-08-16</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=-20260816</loc>
         <lastmod>2026-08-16</lastmod>
         <changefreq>daily</changefreq>
@@ -926,13 +919,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-dutch-grand-prix-qualifying</loc>
-        <lastmod>2026-08-22</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=456</loc>
         <lastmod>2026-08-22</lastmod>
         <changefreq>daily</changefreq>
@@ -955,6 +941,13 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=457</loc>
+        <lastmod>2026-08-22</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-dutch-grand-prix-sprint</loc>
         <lastmod>2026-08-22</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
