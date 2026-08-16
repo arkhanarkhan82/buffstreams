@@ -198,6 +198,20 @@
     </url>
 
     <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=vitoria-vs-botafogo-football-1492339</loc>
+        <lastmod>2026-08-16</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=mirassol-vs-flamengo-2398417</loc>
+        <lastmod>2026-08-16</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=deportivo-pereira-vs-jaguares-de-c-rdoba-2481133</loc>
         <lastmod>2026-08-16</lastmod>
         <changefreq>daily</changefreq>
@@ -261,28 +275,7 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=famalicao-vs-maritimo-football-1575460</loc>
-        <lastmod>2026-08-16</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=braga-vs-gil-vicente-2513943</loc>
-        <lastmod>2026-08-16</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=las-palmas-vs-albacete-2505707</loc>
-        <lastmod>2026-08-16</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=lazio-vs-mantova-2502880</loc>
         <lastmod>2026-08-16</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -388,13 +381,6 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=ppv-event-03-motoamerica-superbikes-virginia-ppv-03</loc>
-        <lastmod>2026-08-16</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=huesca-vs-tardienta-football-1598630</loc>
         <lastmod>2026-08-16</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -535,20 +521,6 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=admin-rally-tv</loc>
-        <lastmod>2026-08-16</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=vitoria-vs-botafogo-football-1492339</loc>
-        <lastmod>2026-08-16</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=mirassol-vs-flamengo-2398417</loc>
         <lastmod>2026-08-16</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1080,13 +1052,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-dutch-grand-prix-qualifying</loc>
-        <lastmod>2026-08-22</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=456</loc>
         <lastmod>2026-08-22</lastmod>
         <changefreq>daily</changefreq>
@@ -1109,6 +1074,13 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=457</loc>
+        <lastmod>2026-08-22</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-dutch-grand-prix-sprint</loc>
         <lastmod>2026-08-22</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
