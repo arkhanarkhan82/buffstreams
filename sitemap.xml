@@ -198,6 +198,13 @@
     </url>
 
     <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-event-05-super-dirtcar-series-weedsport-ppv-05</loc>
+        <lastmod>2026-08-16</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=ppv-event-04-gcw-homecoming-part-2-ppv-004</loc>
         <lastmod>2026-08-16</lastmod>
         <changefreq>daily</changefreq>
@@ -331,13 +338,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=minnesota-twins-vs-philadelphia-phillies-2388741</loc>
-        <lastmod>2026-08-16</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=cleveland-guardians-vs-san-diego-padres-2388745</loc>
         <lastmod>2026-08-16</lastmod>
         <changefreq>daily</changefreq>
@@ -366,14 +366,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-event-01-usac-road-racing-road-america-ppv-01</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-event-02-amsoil-championship-off-road-ppv-02</loc>
         <lastmod>2026-08-16</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-event-02-amsoil-championship-off-road-ppv-02</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-event-01-usac-road-racing-road-america-ppv-01</loc>
         <lastmod>2026-08-16</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -493,13 +493,6 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=admin-rally-tv</loc>
-        <lastmod>2026-08-16</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-event-05-super-dirtcar-series-weedsport-ppv-05</loc>
         <lastmod>2026-08-16</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -996,13 +989,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-dutch-grand-prix-qualifying</loc>
-        <lastmod>2026-08-22</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=456</loc>
         <lastmod>2026-08-22</lastmod>
         <changefreq>daily</changefreq>
@@ -1025,6 +1011,13 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=457</loc>
+        <lastmod>2026-08-22</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-dutch-grand-prix-sprint</loc>
         <lastmod>2026-08-22</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
