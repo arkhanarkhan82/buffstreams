@@ -198,6 +198,48 @@
     </url>
 
     <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=le-mans-vs-brest-2489470</loc>
+        <lastmod>2026-08-22</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=troyes-vs-paris-fc-2489467</loc>
+        <lastmod>2026-08-22</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=toulouse-vs-lyon-2489466</loc>
+        <lastmod>2026-08-22</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=nice-vs-lorient-2489464</loc>
+        <lastmod>2026-08-22</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=parma-vs-cagliari-2482147</loc>
+        <lastmod>2026-08-22</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=genoa-vs-napoli-2482139</loc>
+        <lastmod>2026-08-22</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=fc-zurich-vs-fc-basel-1893-football-1555366</loc>
         <lastmod>2026-08-22</lastmod>
         <changefreq>daily</changefreq>
@@ -373,20 +415,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=dundee-united-vs-dundee-2494426</loc>
-        <lastmod>2026-08-22</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=sparta-rotterdam-vs-utrecht-2489086</loc>
-        <lastmod>2026-08-22</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=brentford-vs-tottenham-hotspur-2494005</loc>
         <lastmod>2026-08-22</lastmod>
         <changefreq>daily</changefreq>
@@ -443,13 +471,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=motherwell-vs-aberdeen-football-1556643</loc>
-        <lastmod>2026-08-22</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=hibernian-vs-kilmarnock-football-1556642</loc>
         <lastmod>2026-08-22</lastmod>
         <changefreq>daily</changefreq>
@@ -458,6 +479,13 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=falkirk-vs-heart-of-midlothian-football-1556641</loc>
+        <lastmod>2026-08-22</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=motherwell-vs-aberdeen-football-1556643</loc>
         <lastmod>2026-08-22</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -618,42 +646,7 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=le-mans-vs-brest-2489470</loc>
-        <lastmod>2026-08-22</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=troyes-vs-paris-fc-2489467</loc>
-        <lastmod>2026-08-22</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=toulouse-vs-lyon-2489466</loc>
-        <lastmod>2026-08-22</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=nice-vs-lorient-2489464</loc>
-        <lastmod>2026-08-22</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=parma-vs-cagliari-2482147</loc>
-        <lastmod>2026-08-22</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=genoa-vs-napoli-2482139</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=atletico-tucuman-vs-instituto-cordoba-football-1493078</loc>
         <lastmod>2026-08-22</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -661,13 +654,6 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=gimnasia-lp-vs-gimnasia-m-football-1493082</loc>
-        <lastmod>2026-08-22</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=atletico-tucuman-vs-instituto-cordoba-football-1493078</loc>
         <lastmod>2026-08-22</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1129,7 +1115,7 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=essendon-bombers-vs-port-adelaide-power-australian-football-3546</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=essendon-bombers-vs-port-adelaide-power-australian-football-3620</loc>
         <lastmod>2026-08-23</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1395,14 +1381,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=grasshoppers-vs-fc-sion-football-1555368</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=fc-lugano-vs-fc-st-gallen-football-1555369</loc>
         <lastmod>2026-08-23</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=fc-lugano-vs-fc-st-gallen-football-1555369</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=grasshoppers-vs-fc-sion-football-1555368</loc>
         <lastmod>2026-08-23</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1703,14 +1689,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=rb-bragantino-vs-gremio-football-1492341</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=vitoria-vs-bahia-football-1492349</loc>
         <lastmod>2026-08-23</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=vitoria-vs-bahia-football-1492349</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=rb-bragantino-vs-gremio-football-1492341</loc>
         <lastmod>2026-08-23</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1983,14 +1969,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-bodo-glimt-vs-nec-nijmegen</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-lask-linz-vs-celtic</loc>
         <lastmod>2026-08-25</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-lask-linz-vs-celtic</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-bodo-glimt-vs-nec-nijmegen</loc>
         <lastmod>2026-08-25</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
