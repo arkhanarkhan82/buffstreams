@@ -198,6 +198,13 @@
     </url>
 
     <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=live-event_nascar-cup-series-2026-nascar-cup-series-race-at-new-hampshire-live-stream</loc>
+        <lastmod>2026-08-23</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=f1-academy-netherlands-game-19996</loc>
         <lastmod>2026-08-23</lastmod>
         <changefreq>daily</changefreq>
@@ -220,20 +227,6 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=sydney-swans-vs-north-melbourne-football-club-2568212</loc>
-        <lastmod>2026-08-23</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=essendon-bombers-vs-port-adelaide-power-australian-football-3546</loc>
-        <lastmod>2026-08-23</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-event-10-real-american-freestyle-12-dvalishvili-v-cejudo-2-ppv-10</loc>
         <lastmod>2026-08-23</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -339,13 +332,6 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=admin-rally-tv</loc>
-        <lastmod>2026-08-23</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=live-event_nascar-cup-series-2026-nascar-cup-series-race-at-new-hampshire-live-stream</loc>
         <lastmod>2026-08-23</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1479,14 +1465,7 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-aek-athens-vs-levski-sofia</loc>
-        <lastmod>2026-08-26</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-lyon-vs-fenerbahce</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-viking-fk-vs-dinamo-zagreb</loc>
         <lastmod>2026-08-26</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1500,7 +1479,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-viking-fk-vs-dinamo-zagreb</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-lyon-vs-fenerbahce</loc>
+        <lastmod>2026-08-26</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-aek-athens-vs-levski-sofia</loc>
         <lastmod>2026-08-26</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
