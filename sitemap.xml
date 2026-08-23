@@ -275,13 +275,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ufc-fight-night-285-hernandez-vs-rodrigues-2490804</loc>
-        <lastmod>2026-08-23</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=catalans-dragons-vs-hull-f-c--2396006</loc>
         <lastmod>2026-08-23</lastmod>
         <changefreq>daily</changefreq>
@@ -1437,14 +1430,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-bodo-glimt-vs-nec-nijmegen</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-lask-linz-vs-celtic</loc>
         <lastmod>2026-08-25</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-lask-linz-vs-celtic</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-bodo-glimt-vs-nec-nijmegen</loc>
         <lastmod>2026-08-25</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1542,13 +1535,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-viking-fk-vs-dinamo-zagreb</loc>
-        <lastmod>2026-08-26</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=ppv-nk-celje-vs-slovan-bratislava</loc>
         <lastmod>2026-08-26</lastmod>
         <changefreq>daily</changefreq>
@@ -1556,14 +1542,21 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-aek-athens-vs-levski-sofia</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-lyon-vs-fenerbahce</loc>
         <lastmod>2026-08-26</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-lyon-vs-fenerbahce</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-viking-fk-vs-dinamo-zagreb</loc>
+        <lastmod>2026-08-26</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-aek-athens-vs-levski-sofia</loc>
         <lastmod>2026-08-26</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
