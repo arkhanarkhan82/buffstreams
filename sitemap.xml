@@ -198,6 +198,13 @@
     </url>
 
     <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=f1-academy-netherlands-game-19996</loc>
+        <lastmod>2026-08-23</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=sydney-roosters-vs-wests-tigers-2417361</loc>
         <lastmod>2026-08-23</lastmod>
         <changefreq>daily</changefreq>
@@ -234,34 +241,6 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=rolando-romero-vs-teofimo-lopez-2528767</loc>
-        <lastmod>2026-08-23</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-event-25-world-of-outlaws-late-models-maquoketa-ppv-25</loc>
-        <lastmod>2026-08-23</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-event-24-world-of-outlaws-sprint-cars-jackson-ppv-24</loc>
-        <lastmod>2026-08-23</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-event-04-brand-risk-15-mcbroom-v-temper-ppv-004</loc>
-        <lastmod>2026-08-23</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-event-09-amw-superbowl-of-wrestling-ppv-09</loc>
         <lastmod>2026-08-23</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -360,13 +339,6 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=admin-rally-tv</loc>
-        <lastmod>2026-08-23</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=f1-academy-netherlands-game-19996</loc>
         <lastmod>2026-08-23</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1507,14 +1479,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-lyon-vs-fenerbahce</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-aek-athens-vs-levski-sofia</loc>
         <lastmod>2026-08-26</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-aek-athens-vs-levski-sofia</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-lyon-vs-fenerbahce</loc>
         <lastmod>2026-08-26</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
