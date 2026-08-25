@@ -989,14 +989,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-new-england-patriots-at-cleveland-browns</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-san-francisco-49-ers-at-las-vegas-raiders</loc>
         <lastmod>2026-08-28</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-san-francisco-49-ers-at-las-vegas-raiders</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-new-england-patriots-at-cleveland-browns</loc>
         <lastmod>2026-08-28</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1136,14 +1136,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-tampa-bay-buccaneers-at-jacksonville-jaguars</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-new-york-giants-at-new-york-jets</loc>
         <lastmod>2026-08-28</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-new-york-giants-at-new-york-jets</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-tampa-bay-buccaneers-at-jacksonville-jaguars</loc>
         <lastmod>2026-08-28</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1164,14 +1164,7 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-seattle-seahawks-at-kansas-city-chiefs</loc>
-        <lastmod>2026-08-29</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-new-orleans-saints-at-dallas-cowboys</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-cincinnati-bengals-at-philadelphia-eagles</loc>
         <lastmod>2026-08-29</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1185,7 +1178,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-cincinnati-bengals-at-philadelphia-eagles</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-seattle-seahawks-at-kansas-city-chiefs</loc>
+        <lastmod>2026-08-29</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-new-orleans-saints-at-dallas-cowboys</loc>
         <lastmod>2026-08-29</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
