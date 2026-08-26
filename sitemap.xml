@@ -996,20 +996,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-lille-vs-paris-saint-germain</loc>
-        <lastmod>2026-08-28</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-ac-milan-vs-venezia</loc>
-        <lastmod>2026-08-28</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=ppv-afc-fylde-vs-forest-green-rovers</loc>
         <lastmod>2026-08-28</lastmod>
         <changefreq>daily</changefreq>
@@ -1018,6 +1004,20 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=ppv-southend-united-vs-kidderminster-harriers</loc>
+        <lastmod>2026-08-28</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-lille-vs-paris-saint-germain</loc>
+        <lastmod>2026-08-28</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-ac-milan-vs-venezia</loc>
         <lastmod>2026-08-28</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1101,7 +1101,7 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-cincinnati-bengals-at-philadelphia-eagles</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-seattle-seahawks-at-kansas-city-chiefs</loc>
         <lastmod>2026-08-29</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1115,7 +1115,7 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-seattle-seahawks-at-kansas-city-chiefs</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-cincinnati-bengals-at-philadelphia-eagles</loc>
         <lastmod>2026-08-29</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1227,14 +1227,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-1-fc-union-berlin-vs-eintracht-frankfurt</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-mainz-vs-sc-paderborn-07</loc>
         <lastmod>2026-08-29</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-mainz-vs-sc-paderborn-07</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-1-fc-union-berlin-vs-eintracht-frankfurt</loc>
         <lastmod>2026-08-29</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1654,14 +1654,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-cagliari-vs-inter-milan</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-as-monaco-vs-marseille</loc>
         <lastmod>2026-08-30</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-as-monaco-vs-marseille</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-cagliari-vs-inter-milan</loc>
         <lastmod>2026-08-30</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
