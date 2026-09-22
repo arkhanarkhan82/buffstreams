@@ -163,21 +163,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/blog/Is-Hesgoal-Back/</loc>
-        <lastmod>2026-09-01</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.7</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/blog/Sportsurge-Not-Working/</loc>
-        <lastmod>2026-09-01</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.7</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/blog/Totalsportek-Premier-League-Streams/</loc>
+        <lastmod>2026-09-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/blog/Is-Hesgoal-Back/</loc>
         <lastmod>2026-09-01</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
@@ -198,14 +191,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=brisbane-bullets-vs-new-zealand-breakers-2487887</loc>
-        <lastmod>2026-09-22</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
+        <loc>https://buffstreams.world/blog/Sportsurge-Not-Working/</loc>
+        <lastmod>2026-09-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=1638</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=players-championship-29-2608320</loc>
         <lastmod>2026-09-22</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -213,13 +206,6 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=san-francisco-giants-vs-minnesota-twins-2605685</loc>
-        <lastmod>2026-09-22</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=los-angeles-rams-vs-new-york-giants-2475405</loc>
         <lastmod>2026-09-22</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -317,7 +303,7 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=players-championship-29-2608320</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=new-york-yankees-vs-tampa-bay-rays-2387647</loc>
         <lastmod>2026-09-22</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -388,13 +374,6 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=boston-bruins-vs-philadelphia-flyers-2498525</loc>
-        <lastmod>2026-09-22</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=new-york-yankees-vs-tampa-bay-rays-2387647</loc>
         <lastmod>2026-09-22</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -702,14 +681,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-azerbaijan-grand-prix-practice-2</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=live-event_formula-1-2026-azerbaijan-gp-live-stream</loc>
         <lastmod>2026-09-24</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=live-event_formula-1-2026-azerbaijan-gp-live-stream</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-azerbaijan-grand-prix-practice-1</loc>
         <lastmod>2026-09-24</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -849,14 +828,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-azerbaijan-grand-prix-qualifying</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-dolphins-vs-roosters</loc>
         <lastmod>2026-09-25</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-dolphins-vs-roosters</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-azerbaijan-grand-prix-practice-3</loc>
         <lastmod>2026-09-25</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1031,7 +1010,21 @@
     </url>
 
     <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-houston-dynamo-fc-vs-sporting-kansas-city</loc>
+        <lastmod>2026-09-27</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=ppv-nashville-sc-vs-toronto-fc</loc>
+        <lastmod>2026-09-27</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-fc-dallas-vs-lafc</loc>
         <lastmod>2026-09-27</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1052,14 +1045,7 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-fc-dallas-vs-lafc</loc>
-        <lastmod>2026-09-27</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-houston-dynamo-fc-vs-sporting-kansas-city</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-santos-vs-pachuca</loc>
         <lastmod>2026-09-27</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1067,13 +1053,6 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=ppv-tigres-uanl-vs-puebla</loc>
-        <lastmod>2026-09-27</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-santos-vs-pachuca</loc>
         <lastmod>2026-09-27</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1094,14 +1073,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-vancouver-whitecaps-vs-d-c-united</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-san-jose-earthquakes-vs-portland-timbers</loc>
         <lastmod>2026-09-27</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-san-jose-earthquakes-vs-portland-timbers</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-vancouver-whitecaps-vs-d-c-united</loc>
         <lastmod>2026-09-27</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1136,7 +1115,7 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-kansas-city-chiefs-at-miami-dolphins</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-tennessee-titans-at-new-york-giants</loc>
         <lastmod>2026-09-27</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1150,20 +1129,6 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-cincinnati-bengals-at-pittsburgh-steelers</loc>
-        <lastmod>2026-09-27</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-tennessee-titans-at-new-york-giants</loc>
-        <lastmod>2026-09-27</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
         <loc>https://buffstreams.world/Matchinformation/?id=ppv-seattle-seahawks-at-washington-commanders</loc>
         <lastmod>2026-09-27</lastmod>
         <changefreq>daily</changefreq>
@@ -1171,7 +1136,7 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-carolina-panthers-at-cleveland-browns</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-cincinnati-bengals-at-pittsburgh-steelers</loc>
         <lastmod>2026-09-27</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1185,7 +1150,7 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-new-york-jets-at-detroit-lions</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-kansas-city-chiefs-at-miami-dolphins</loc>
         <lastmod>2026-09-27</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1193,6 +1158,20 @@
 
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=ppv-houston-texans-at-indianapolis-colts</loc>
+        <lastmod>2026-09-27</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-new-york-jets-at-detroit-lions</loc>
+        <lastmod>2026-09-27</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-carolina-panthers-at-cleveland-browns</loc>
         <lastmod>2026-09-27</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1213,14 +1192,14 @@
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-arizona-cardinals-at-san-francisco-49-ers</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-minnesota-vikings-at-tampa-bay-buccaneers</loc>
         <lastmod>2026-09-27</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
-        <loc>https://buffstreams.world/Matchinformation/?id=ppv-minnesota-vikings-at-tampa-bay-buccaneers</loc>
+        <loc>https://buffstreams.world/Matchinformation/?id=ppv-arizona-cardinals-at-san-francisco-49-ers</loc>
         <lastmod>2026-09-27</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
@@ -1278,6 +1257,13 @@
     <url>
         <loc>https://buffstreams.world/Matchinformation/?id=live-event_dana-white-s-contender-series-season-10-week-8-live-stream</loc>
         <lastmod>2026-09-29</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://buffstreams.world/Matchinformation/?id=live-event_pfl-mena-11-live-stream</loc>
+        <lastmod>2026-10-02</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
